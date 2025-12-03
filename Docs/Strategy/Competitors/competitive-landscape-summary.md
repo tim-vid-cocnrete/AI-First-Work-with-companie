@@ -1,262 +1,262 @@
-# Competitive Landscape Summary Template
-*[TEMPLATE EXAMPLE - This is an example competitive landscape analysis. Replace with your actual competitive research.]*
+# Шаблон сводки конкурентного ландшафта
+*[ПРИМЕР ШАБЛОНА - Это пример анализа конкурентного ландшафта. Замените на ваше реальное исследование конкурентов.]*
 
 ---
 
-**⚠️ TEMPLATE NOTICE:** This file contains an example competitive landscape summary for "Elly Analytics" as a demonstration of how to structure comprehensive competitive analysis. This template shows analysis of three example competitors (Triple Whale, Polar Analytics, Birch) representing different competitive categories. Replace all content below with your own competitive landscape analysis.
+**⚠️ ПРИМЕЧАНИЕ К ШАБЛОНУ:** Этот файл содержит пример сводки конкурентного ландшафта для "Elly Analytics" как демонстрацию того, как структурировать комплексный конкурентный анализ. Этот шаблон показывает анализ трех примеров конкурентов (Triple Whale, Polar Analytics, Birch), представляющих разные категории решений. Замените все содержимое ниже на ваш собственный анализ конкурентного ландшафта.
 
 ---
 
-# Competitive Landscape Summary - [COMPANY_NAME]
-*[EXAMPLE ANALYSIS - Replace with your company's competitive landscape]*
+# Сводка конкурентного ландшафта - [COMPANY_NAME]
+*[ПРИМЕР АНАЛИЗА - Замените на конкурентный ландшафт вашей компании]*
 
-*Analysis of competitive landscape organized by solution category and market positioning*
-
----
-
-## 🔍 How to Use This Competitors Section
-
-### Automated Competitor Analysis Workflow
-
-The Strategy repository includes an automated workflow for competitive intelligence:
-
-1. **Give Cursor Agent a Competitor**: Simply provide a company name and website link
-2. **Automated Research**: The `.cursorrules` contains the complete competitor analysis workflow that will:
-   - Conduct comprehensive research across multiple sources
-   - Create detailed `[company-name]-analysis.md` using the 11-section template
-   - Classify competitors by category (Analytics, Automation, Operations, etc.)
-   - Update this competitive landscape summary with cross-references
-3. **Strategic Integration**: Analysis automatically integrates with your strategic planning and positioning
-
-### Research Process (Automated via .cursorrules)
-- **Deep Research**: Product pages, pricing, founder backgrounds, funding, reviews, case studies
-- **Source Verification**: Mark confirmed vs estimated information with [CONFIRMED:] tags
-- **Strategic Assessment**: Competitive advantages, threats, positioning implications
-- **Reference Architecture**: All analyses use [REF:] tags for searchable cross-references
-
-### Template Examples Included
-This section contains 3 example competitor analyses demonstrating different competitive categories:
-- **Analytics Platforms** (Triple Whale, Polar Analytics)
-- **Automation Platforms** (Birch)
-
-**To add your competitors**: Just give Cursor Agent the company name and website - the automated workflow handles the rest.
+*Анализ конкурентного ландшафта, организованный по категориям решений и рыночному позиционированию*
 
 ---
 
-## 🔍 Market Landscape Overview
+## 🔍 Как использовать этот раздел конкурентов
 
-The [INDUSTRY] space is fragmented across multiple solution categories, each serving different aspects of the [TECHNOLOGY_STACK]. Our analysis reveals distinct market segments with varying degrees of overlap with [COMPANY_NAME]'s [TARGET_MARKET] focus.
+### Автоматизированный рабочий процесс анализа конкурентов
 
----
+Репозиторий Strategy включает автоматизированный рабочий процесс для конкурентной разведки:
 
-## 📊 [CATEGORY_1] - Analytics & Data Platforms
+1. **Дайте Cursor Agent конкурента**: Просто предоставьте название компании и ссылку на веб-сайт
+2. **Автоматизированное исследование**: Файл `.cursorrules` содержит полный рабочий процесс анализа конкурентов, который:
+   - Проведет комплексное исследование по нескольким источникам
+   - Создаст детальный `[company-name]-analysis.md`, используя шаблон из 11 разделов
+   - Классифицирует конкурентов по категориям (Аналитика, Автоматизация, Операции и т.д.)
+   - Обновит эту сводку конкурентного ландшафта перекрестными ссылками
+3. **Стратегическая интеграция**: Анализ автоматически интегрируется с вашим стратегическим планированием и позиционированием
 
-### **Triple Whale** - E-commerce Analytics Leader [CANONICAL]
-*[REF: triple-whale-analysis.md] for complete analysis*
+### Процесс исследования (Автоматизирован через .cursorrules)
+- **Глубокое исследование**: Страницы продукта, цены, бэкграунд основателей, финансирование, отзывы, кейсы
+- **Верификация источников**: Отметка подтвержденной vs оценочной информации тегами [ПОДТВЕРЖДЕНО:]
+- **Стратегическая оценка**: Конкурентные преимущества, угрозы, последствия для позиционирования
+- **Ссылочная архитектура**: Все анализы используют теги [REF:] для доступных для поиска перекрестных ссылок
 
-- **Target Overlap**: Low (e-commerce focus vs [YOUR_TARGET_MARKET])
-- **Solution Overlap**: Moderate (analytics platform with AI features)
-- **Scale**: $52.7M funding, 30,000+ brands, $14B+ sales tracked
-- **Key Strengths**: Self-service model, Shopify specialization, AI automation catalog
-- **Key Limitations**: E-commerce only, platform dependency, template approach
-- **Strategic Implication**: Validates AI-first analytics market but different target segment
+### Включенные примеры шаблонов
+Этот раздел содержит 3 примера анализа конкурентов, демонстрирующих разные конкурентные категории:
+- **Платформы аналитики** (Triple Whale, Polar Analytics)
+- **Платформы автоматизации** (Birch)
 
-### **Polar Analytics** - Multi-Platform Analytics [CANONICAL]
-*[REF: polar-analytics-analysis.md] for complete analysis*
-
-- **Target Overlap**: Low (DTC brands vs [YOUR_TARGET_MARKET])  
-- **Solution Overlap**: High (AI-powered analytics, natural language interface)
-- **Scale**: $19.1M funding, 4,000+ brands, enterprise-ready
-- **Key Strengths**: Platform-agnostic, advanced AI integration, incrementality testing
-- **Key Limitations**: E-commerce data model, self-service limitations, pre-built templates
-- **Strategic Implication**: Natural language AI interface becoming standard expectation
-
-### **Fospha** - MMM & Attribution Specialist [CANONICAL]
-*[REF: fospha-analysis.md] for complete analysis*
-
-- **Target Overlap**: Low (e-commerce DTC vs [YOUR_TARGET_MARKET])
-- **Solution Overlap**: High (attribution, marketing mix modeling, incrementality testing)
-- **Scale**: ~$25M ARR (estimated), 11 years in market, UK/European leader
-- **Key Strengths**: Marketing Mix Modeling expertise, incrementality testing, statistical rigor, European market, enterprise focus
-- **Key Limitations**: E-commerce only, high price point ($2K-15K+/mo estimated), complexity, longer implementation
-- **Strategic Implication**: Validates demand for sophisticated attribution + incrementality measurement; MMM becoming expected capability
+**Чтобы добавить ваших конкурентов**: Просто дайте Cursor Agent название компании и веб-сайт - автоматизированный рабочий процесс сделает остальное.
 
 ---
 
-## 📈 [CATEGORY_2] - MMM & Incrementality Platforms
+## 🔍 Обзор рыночного ландшафта
 
-### **Fospha** - MMM & Attribution Specialist [CANONICAL]
-*[REF: fospha-analysis.md] for complete analysis*
-
-- **Target Overlap**: Low (e-commerce DTC vs [YOUR_TARGET_MARKET])
-- **Solution Overlap**: High (attribution, marketing mix modeling, incrementality testing)
-- **Scale**: ~$25M ARR (estimated), 11 years in market, UK/European leader
-- **Key Strengths**: Marketing Mix Modeling expertise, incrementality testing, statistical rigor, European market, enterprise focus
-- **Key Limitations**: E-commerce only, high price point ($2K-15K+/mo estimated), complexity, longer implementation
-- **Strategic Implication**: Validates demand for sophisticated attribution + incrementality measurement; MMM becoming expected capability
-
-### **Haus** - Incrementality-First Platform [CANONICAL]
-*[REF: haus-analysis.md] for complete analysis*
-
-- **Target Overlap**: Low (DTC e-commerce vs [YOUR_TARGET_MARKET])
-- **Solution Overlap**: High (incrementality testing, MMM, privacy-first measurement)
-- **Scale**: Founded 2021, notable customers (Intuit, Sonos, AG1, Dr. Squatch), SF-based
-- **Key Strengths**: Privacy-proof (no pixels/cookies), automated geo experiments, synthetic controls, omnichannel, fast results
-- **Key Limitations**: E-commerce focus, requires scale, geo-level granularity, 4 years old, estimated $3K-20K+/mo
-- **Strategic Implication**: Privacy-first incrementality is winning positioning post-iOS 14; automation and speed matter
-
-### **INCRMNTAL** - Always-On Incrementality [CANONICAL]
-*[REF: incrmntal-analysis.md] for complete analysis*
-
-- **Target Overlap**: Low (performance marketing/e-commerce vs [YOUR_TARGET_MARKET])
-- **Solution Overlap**: High (incrementality measurement, cannibalization detection)
-- **Scale**: Israel-based, global reach, estimated 5-7 years in market
-- **Key Strengths**: Always-on measurement (no pauses), no user data required, real-time detection, cannibalization focus, privacy-first
-- **Key Limitations**: Proprietary methodology, aggregate-only, requires scale, less control than experiments, estimated $2K-15K+/mo
-- **Strategic Implication**: Continuous monitoring vs periodic experiments addresses key pain point; cannibalization detection resonates
-
-### **Measured** - Enterprise Incrementality [CANONICAL]
-*[REF: measured-analysis.md] for complete analysis*
-
-- **Target Overlap**: Low (enterprise retail/CPG vs [YOUR_TARGET_MARKET])
-- **Solution Overlap**: High (control group testing, iROAS measurement, MMM add-on)
-- **Scale**: US-based, enterprise/retail focus, estimated 5-6 years, major brands/retailers
-- **Key Strengths**: Control group rigor, retail expertise, iROAS specialization, enterprise-grade, omnichannel, statistical credibility
-- **Key Limitations**: Enterprise-only ($10K-50K+/mo estimated), high minimums, periodic testing, complex setup, retail-specialized
-- **Strategic Implication**: Enterprise willing to pay premium for rigorous incrementality; retail vertical specialization works
-
-### **Mutinex** - GrowthOS Platform [CANONICAL]
-*[REF: mutinex-analysis.md] for complete analysis*
-
-- **Target Overlap**: Low (APAC regional focus vs [YOUR_TARGET_MARKET])
-- **Solution Overlap**: Moderate (MMM + analytics platform, but broader vs specialized)
-- **Scale**: Founded 2019, Australia-based, APAC leader, GrowthOS platform
-- **Key Strengths**: All-in-one platform (MMM + attribution + campaign + analytics), APAC expertise, media planning, predictive analytics, 6-year track record
-- **Key Limitations**: APAC focus, platform complexity, generalist vs specialist, regional brand, estimated $5K-30K+/mo
-- **Strategic Implication**: All-in-one platform approach has market; regional specialization creates strong position
-
-### **Recast** - MMM Platform [CANONICAL]
-*[REF: recast-analysis.md] for complete analysis*
-
-- **Target Overlap**: Unknown (insufficient information)
-- **Solution Overlap**: High (MMM-focused)
-- **Scale**: Limited public information, estimated early-stage
-- **Key Strengths**: [REQUIRES RESEARCH]
-- **Key Limitations**: Limited public presence and information
-- **Strategic Implication**: Represents MMM category but requires comprehensive research for strategic assessment
+Пространство [INDUSTRY] фрагментировано по нескольким категориям решений, каждая из которых обслуживает разные аспекты [TECHNOLOGY_STACK]. Наш анализ выявляет четкие рыночные сегменты с разной степенью пересечения с фокусом [TARGET_MARKET] компании [COMPANY_NAME].
 
 ---
 
-## 🎯 [CATEGORY_3] - Ad Management & Automation
+## 📊 [CATEGORY_1] - Платформы аналитики и данных
 
-### **Birch** - Ad Automation Platform [CANONICAL]
-*[REF: birch-analysis.md] for complete analysis*
+### **Triple Whale** - Лидер E-commerce аналитики [CANONICAL]
+*[REF: triple-whale-analysis.md] для полного анализа*
 
-- **Target Overlap**: Low (e-commerce/app marketing vs [YOUR_TARGET_MARKET])
-- **Solution Overlap**: Moderate (automation platform, but rule-based vs AI-powered)
-- **Scale**: $2B annual ad spend managed, 15K accounts
-- **Key Strengths**: Established scale, multi-platform automation, advanced rule engine
-- **Key Limitations**: Rule-based vs predictive AI, e-commerce focus, surface-level reporting
-- **Strategic Implication**: Validates automation demand but leaves room for AI-powered differentiation
+- **Пересечение по целевой аудитории**: Низкое (фокус на e-commerce vs [YOUR_TARGET_MARKET])
+- **Пересечение по решению**: Умеренное (платформа аналитики с ИИ-функциями)
+- **Масштаб**: $52.7M финансирования, 30,000+ брендов, $14B+ отслеживаемых продаж
+- **Ключевые сильные стороны**: Модель самообслуживания, специализация на Shopify, каталог ИИ-автоматизаций
+- **Ключевые ограничения**: Только E-commerce, зависимость от платформы, шаблонный подход
+- **Стратегическое значение**: Подтверждает рынок AI-first аналитики, но другой целевой сегмент
 
----
+### **Polar Analytics** - Мультиплатформенная аналитика [CANONICAL]
+*[REF: polar-analytics-analysis.md] для полного анализа*
 
-## 🎯 Strategic Market Insights [CANONICAL]
+- **Пересечение по целевой аудитории**: Низкое (DTC бренды vs [YOUR_TARGET_MARKET])  
+- **Пересечение по решению**: Высокое (ИИ-аналитика, интерфейс на естественном языке)
+- **Масштаб**: $19.1M финансирования, 4,000+ брендов, готовность к enterprise
+- **Ключевые сильные стороны**: Агностицизм к платформам, продвинутая интеграция ИИ, тестирование инкрементальности
+- **Ключевые ограничения**: Модель данных E-commerce, ограничения самообслуживания, готовые шаблоны
+- **Стратегическое значение**: Интерфейс ИИ на естественном языке становится стандартным ожиданием
 
-### Key Market Trends
-1. **AI-First Positioning**: Natural language interfaces becoming table stakes
-2. **Platform Integration**: Multi-platform support increasingly critical
-3. **Automation Evolution**: From rule-based to predictive AI automation
-4. **Pricing Models**: Usage-based and freemium models driving adoption
-5. **Attribution Evolution**: Moving beyond correlation to causal measurement (MMM, incrementality testing)
-6. **Statistical Rigor**: Enterprise brands demanding academic-grade methodology vs "good enough" attribution
-7. **Privacy-First Measurement**: Post-iOS 14/cookie deprecation driving demand for privacy-proof solutions
-8. **Incrementality > Attribution**: Market shifting from correlational attribution to causal incrementality
-9. **Always-On vs Experiments**: Split between continuous monitoring and periodic controlled experiments
-10. **Regional Specialization**: Geographic focus (APAC, Europe, US) creating strong market positions
-11. **Enterprise Premium**: Large brands willing to pay $10K-50K+/month for rigorous measurement
-12. **Vertical Expertise**: Retail, DTC, CPG specialization driving differentiation
+### **Fospha** - Специалист по MMM и атрибуции [CANONICAL]
+*[REF: fospha-analysis.md] для полного анализа*
 
-### Market Positioning Opportunities
-1. **[YOUR_SPECIALIZATION]**: Underserved by e-commerce/DTC-focused competitors
-2. **[YOUR_APPROACH]**: Different from standardized self-service approaches
-3. **[YOUR_AI_DIFFERENTIATION]**: AI-powered vs rule-based automation
-4. **[YOUR_SERVICE_MODEL]**: White-glove vs self-service positioning
-5. **Vertical Focus**: Most competitors focus on e-commerce/DTC/retail - other verticals underserved
-6. **Methodology Specialization**: Choose incrementality approach vs trying to do everything
-7. **Geographic Gaps**: US, Europe, APAC each have leaders - other markets open
-8. **SMB/Mid-Market Access**: Most incrementality/MMM platforms are enterprise-only ($10K+/mo)
-9. **Vertical Non-E-commerce**: Lead generation, B2B, services largely unaddressed
-10. **Hybrid Approaches**: Combining multiple methodologies (experiments + always-on + MMM)
-
-### Technology Architecture Insights
-- **AI + Attribution Foundation**: Successful platforms build AI on proven data capabilities
-- **Real-Time Processing**: Speed and data freshness increasingly important
-- **Natural Language Interfaces**: Chat-based interaction becoming baseline
-- **Platform-Agnostic Approach**: Multi-platform support critical for flexibility
-- **Measurement Evolution**: Layered approach combining MTA + MMM + incrementality testing
-- **Statistical Sophistication**: Moving from simple attribution models to advanced causal measurement
-- **Privacy-First Architecture**: No pixels, cookies, or PII becoming competitive advantage
-- **Methodology Diversity**: Geo experiments, control groups, always-on monitoring, MMM - multiple valid approaches
-- **Speed vs Rigor Trade-Off**: Fast automated results vs deep statistical validation
-- **Aggregate-Level Measurement**: Privacy-compliant aggregate data vs user-level tracking
+- **Пересечение по целевой аудитории**: Низкое (e-commerce DTC vs [YOUR_TARGET_MARKET])
+- **Пересечение по решению**: Высокое (атрибуция, marketing mix modeling, тестирование инкрементальности)
+- **Масштаб**: ~$25M ARR (оценка), 11 лет на рынке, лидер в UK/Европе
+- **Ключевые сильные стороны**: Экспертиза в Marketing Mix Modeling, тестирование инкрементальности, статистическая строгость, европейский рынок, фокус на enterprise
+- **Ключевые ограничения**: Только E-commerce, высокая цена ($2K-15K+/мес оценка), сложность, долгое внедрение
+- **Стратегическое значение**: Подтверждает спрос на сложную атрибуцию + измерение инкрементальности; MMM становится ожидаемой возможностью
 
 ---
 
-## 🔍 Development Implications for [COMPANY_NAME] [CANONICAL]
+## 📈 [CATEGORY_2] - Платформы MMM и инкрементальности
 
-### Immediate Priorities
-1. **Natural Language Interface**: Chat-based data interaction becoming baseline
-2. **Real-Time Processing**: Dashboard speed critical for competitive positioning
-3. **Platform Integration**: Multi-platform support for customer flexibility
-4. **AI Automation**: Move beyond insights to automated actions
-5. **Privacy-First Design**: Build measurement without user-level tracking
-6. **Incrementality Capabilities**: Add causal measurement beyond correlational attribution
-7. **Methodology Selection**: Choose incrementality approach (experiments, always-on, MMM, or hybrid)
-8. **Speed vs Rigor Balance**: Decide position on fast results vs deep statistical validation
+### **Fospha** - Специалист по MMM и атрибуции [CANONICAL]
+*[REF: fospha-analysis.md] для полного анализа*
 
-### Competitive Differentiation
-1. **[YOUR_TARGET_FOCUS]** vs competitors' e-commerce/DTC/retail focus
-2. **[YOUR_DATA_APPROACH]** vs surface-level platform metrics
-3. **[YOUR_AI_METHOD]** vs rule-based automation approaches  
-4. **[YOUR_SERVICE_MODEL]** vs predominant self-service models
-5. **Vertical Specialization** vs horizontal e-commerce platforms
-6. **Methodology Choice** - differentiate on incrementality approach
-7. **Geographic Focus** - own a region vs trying to be global from day one
-8. **Customer Segment** - SMB/mid-market vs enterprise-only focus
-9. **Pricing Accessibility** - sub-$5K/month vs $10K-50K+ enterprise pricing
+- **Пересечение по целевой аудитории**: Низкое (e-commerce DTC vs [YOUR_TARGET_MARKET])
+- **Пересечение по решению**: Высокое (атрибуция, marketing mix modeling, тестирование инкрементальности)
+- **Масштаб**: ~$25M ARR (оценка), 11 лет на рынке, лидер в UK/Европе
+- **Ключевые сильные стороны**: Экспертиза в Marketing Mix Modeling, тестирование инкрементальности, статистическая строгость, европейский рынок, фокус на enterprise
+- **Ключевые ограничения**: Только E-commerce, высокая цена ($2K-15K+/мес оценка), сложность, долгое внедрение
+- **Стратегическое значение**: Подтверждает спрос на сложную атрибуцию + измерение инкрементальности; MMM становится ожидаемой возможностью
 
-### Market Positioning Strategy
-- **Lead with differentiation**: Emphasize unique value vs commodity features
-- **Target underserved segments**: Focus where competitors have limitations
-- **Build on strengths**: Leverage existing capabilities as foundation for AI
-- **Strategic messaging**: Position against specific competitor weaknesses
+### **Haus** - Платформа, ориентированная на инкрементальность [CANONICAL]
+*[REF: haus-analysis.md] для полного анализа*
+
+- **Пересечение по целевой аудитории**: Низкое (DTC e-commerce vs [YOUR_TARGET_MARKET])
+- **Пересечение по решению**: Высокое (тестирование инкрементальности, MMM, privacy-first измерение)
+- **Масштаб**: Основана в 2021, известные клиенты (Intuit, Sonos, AG1, Dr. Squatch), базируется в SF
+- **Ключевые сильные стороны**: Privacy-proof (без пикселей/cookies), автоматизированные гео-эксперименты, синтетические контроли, омниканальность, быстрые результаты
+- **Ключевые ограничения**: Фокус на E-commerce, требует масштаба, гранулярность на уровне гео, 4 года на рынке, оценка $3K-20K+/мес
+- **Стратегическое значение**: Privacy-first инкрементальность — выигрышное позиционирование после iOS 14; автоматизация и скорость имеют значение
+
+### **INCRMNTAL** - Always-On инкрементальность [CANONICAL]
+*[REF: incrmntal-analysis.md] для полного анализа*
+
+- **Пересечение по целевой аудитории**: Низкое (performance маркетинг/e-commerce vs [YOUR_TARGET_MARKET])
+- **Пересечение по решению**: Высокое (измерение инкрементальности, обнаружение каннибализации)
+- **Масштаб**: Базируется в Израиле, глобальный охват, оценка 5-7 лет на рынке
+- **Ключевые сильные стороны**: Always-on измерение (без пауз), не требует данных пользователей, обнаружение в реальном времени, фокус на каннибализации, privacy-first
+- **Ключевые ограничения**: Проприетарная методология, только агрегированные данные, требует масштаба, меньше контроля чем в экспериментах, оценка $2K-15K+/мес
+- **Стратегическое значение**: Непрерывный мониторинг vs периодические эксперименты решает ключевую боль; обнаружение каннибализации резонирует
+
+### **Measured** - Enterprise инкрементальность [CANONICAL]
+*[REF: measured-analysis.md] для полного анализа*
+
+- **Пересечение по целевой аудитории**: Низкое (enterprise ритейл/CPG vs [YOUR_TARGET_MARKET])
+- **Пересечение по решению**: Высокое (тестирование с контрольными группами, измерение iROAS, MMM аддон)
+- **Масштаб**: Базируется в США, фокус на enterprise/ритейл, оценка 5-6 лет, крупные бренды/ритейлеры
+- **Ключевые сильные стороны**: Строгость контрольных групп, экспертиза в ритейле, специализация на iROAS, уровень enterprise, омниканальность, статистическая достоверность
+- **Ключевые ограничения**: Только Enterprise ($10K-50K+/мес оценка), высокие минимумы, периодическое тестирование, сложная настройка, специализация на ритейле
+- **Стратегическое значение**: Enterprise готовы платить премию за строгую инкрементальность; вертикальная специализация в ритейле работает
+
+### **Mutinex** - Платформа GrowthOS [CANONICAL]
+*[REF: mutinex-analysis.md] для полного анализа*
+
+- **Пересечение по целевой аудитории**: Низкое (региональный фокус APAC vs [YOUR_TARGET_MARKET])
+- **Пересечение по решению**: Умеренное (MMM + аналитическая платформа, но шире vs специализация)
+- **Масштаб**: Основана в 2019, базируется в Австралии, лидер APAC, платформа GrowthOS
+- **Ключевые сильные стороны**: Платформа "все-в-одном" (MMM + атрибуция + кампании + аналитика), экспертиза APAC, медиапланирование, предиктивная аналитика, 6-летний трек-рекорд
+- **Ключевые ограничения**: Фокус на APAC, сложность платформы, генералист vs специалист, региональный бренд, оценка $5K-30K+/мес
+- **Стратегическое значение**: Подход платформы "все-в-одном" имеет рынок; региональная специализация создает сильную позицию
+
+### **Recast** - MMM Платформа [CANONICAL]
+*[REF: recast-analysis.md] для полного анализа*
+
+- **Пересечение по целевой аудитории**: Неизвестно (недостаточно информации)
+- **Пересечение по решению**: Высокое (фокус на MMM)
+- **Масштаб**: Ограниченная публичная информация, оценка ранней стадии
+- **Ключевые сильные стороны**: [ТРЕБУЕТ ИССЛЕДОВАНИЯ]
+- **Ключевые ограничения**: Ограниченное публичное присутствие и информация
+- **Стратегическое значение**: Представляет категорию MMM, но требует комплексного исследования для стратегической оценки
 
 ---
 
-## Template Customization Guide
+## 🎯 [CATEGORY_3] - Управление рекламой и автоматизация
 
-### Replace Example Content:
-- **[COMPANY_NAME]**: Your company name throughout
-- **[INDUSTRY]**, **[TARGET_MARKET]**: Your specific market focus
-- **[YOUR_SPECIALIZATION]**: Your unique market positioning
-- **Competitor Details**: Replace example competitors with your actual competitive landscape
+### **Birch** - Платформа автоматизации рекламы [CANONICAL]
+*[REF: birch-analysis.md] для полного анализа*
 
-### Add Your Competitors:
-1. **Provide company name and website** to Cursor Agent
-2. **Automated analysis** will be created following .cursorrules workflow
-3. **This summary** will be updated with competitive insights
-4. **Strategic implications** will be integrated with your positioning
-
-### Maintain Structure:
-- **Categorize competitors** by solution type or market segment
-- **Use [REF:] tags** to link to detailed analysis files
-- **Mark [CANONICAL]** information in this summary file
-- **Regular updates** as competitive landscape evolves
+- **Пересечение по целевой аудитории**: Низкое (e-commerce/маркетинг приложений vs [YOUR_TARGET_MARKET])
+- **Пересечение по решению**: Умеренное (платформа автоматизации, но на основе правил vs на базе ИИ)
+- **Масштаб**: $2B годового рекламного бюджета под управлением, 15K аккаунтов
+- **Ключевые сильные стороны**: Установленный масштаб, мультиплатформенная автоматизация, продвинутый движок правил
+- **Ключевые ограничения**: На основе правил vs предиктивный ИИ, фокус на e-commerce, поверхностная отчетность
+- **Стратегическое значение**: Подтверждает спрос на автоматизацию, но оставляет место для дифференциации на базе ИИ
 
 ---
 
-*Template Purpose: Streamlined competitive analysis framework with automated research workflow*
-*Best For: Companies needing efficient competitor tracking with strategic insights*
+## 🎯 Стратегические рыночные инсайты [CANONICAL]
 
-[LAST UPDATED: [DATE] - TEMPLATE EXAMPLE]
+### Ключевые рыночные тренды
+1. **AI-First Позиционирование**: Интерфейсы на естественном языке становятся обязательным условием
+2. **Интеграция платформ**: Поддержка множества платформ становится критически важной
+3. **Эволюция автоматизации**: От автоматизации на основе правил к предиктивному ИИ
+4. **Модели ценообразования**: Usage-based и freemium модели драйвят принятие
+5. **Эволюция атрибуции**: Переход от корреляции к причинно-следственному измерению (MMM, тестирование инкрементальности)
+6. **Статистическая строгость**: Enterprise бренды требуют методологию академического уровня vs "достаточно хорошей" атрибуции
+7. **Privacy-First Измерение**: Post-iOS 14/отмена cookies драйвят спрос на privacy-proof решения
+8. **Инкрементальность > Атрибуция**: Рынок смещается от корреляционной атрибуции к причинно-следственной инкрементальности
+9. **Always-On vs Эксперименты**: Разделение между непрерывным мониторингом и периодическими контролируемыми экспериментами
+10. **Региональная специализация**: Географический фокус (APAC, Европа, США) создает сильные рыночные позиции
+11. **Enterprise Премия**: Крупные бренды готовы платить $10K-50K+/мес за строгое измерение
+12. **Вертикальная экспертиза**: Специализация на Ритейле, DTC, CPG драйвит дифференциацию
+
+### Возможности рыночного позиционирования
+1. **[YOUR_SPECIALIZATION]**: Недообслужено конкурентами, сфокусированными на e-commerce/DTC
+2. **[YOUR_APPROACH]**: Отличается от стандартизированных подходов самообслуживания
+3. **[YOUR_AI_DIFFERENTIATION]**: На базе ИИ vs автоматизация на основе правил
+4. **[YOUR_SERVICE_MODEL]**: White-glove vs позиционирование самообслуживания
+5. **Вертикальный фокус**: Большинство конкурентов фокусируются на e-commerce/DTC/ритейле - другие вертикали недообслужены
+6. **Специализация методологии**: Выберите подход инкрементальности vs попытки делать все
+7. **Географические пробелы**: США, Европа, APAC имеют лидеров - другие рынки открыты
+8. **Доступ для SMB/Mid-Market**: Большинство платформ инкрементальности/MMM только для enterprise ($10K+/мес)
+9. **Вертикаль Non-E-commerce**: Лидогенерация, B2B, услуги в значительной степени не охвачены
+10. **Гибридные подходы**: Комбинирование нескольких методологий (эксперименты + always-on + MMM)
+
+### Инсайты по технологической архитектуре
+- **ИИ + Фундамент атрибуции**: Успешные платформы строят ИИ на проверенных возможностях данных
+- **Обработка в реальном времени**: Скорость и свежесть данных все более важны
+- **Интерфейсы на естественном языке**: Взаимодействие через чат становится базой
+- **Агностицизм к платформам**: Поддержка множества платформ критична для гибкости
+- **Эволюция измерения**: Многоуровневый подход, объединяющий MTA + MMM + тестирование инкрементальности
+- **Статистическая сложность**: Переход от простых моделей атрибуции к продвинутому причинно-следственному измерению
+- **Privacy-First Архитектура**: Отсутствие пикселей, cookies или PII становится конкурентным преимуществом
+- **Разнообразие методологий**: Гео-эксперименты, контрольные группы, always-on мониторинг, MMM - множество валидных подходов
+- **Компромисс Скорость vs Строгость**: Быстрые автоматизированные результаты vs глубокая статистическая валидация
+- **Измерение на агрегированном уровне**: Privacy-compliant агрегированные данные vs трекинг на уровне пользователя
+
+---
+
+## 🔍 Последствия для разработки [COMPANY_NAME] [CANONICAL]
+
+### Немедленные приоритеты
+1. **Интерфейс на естественном языке**: Взаимодействие с данными через чат становится базой
+2. **Обработка в реальном времени**: Скорость дашборда критична для конкурентного позиционирования
+3. **Интеграция платформ**: Поддержка множества платформ для гибкости клиентов
+4. **ИИ Автоматизация**: Переход от инсайтов к автоматизированным действиям
+5. **Privacy-First Дизайн**: Построение измерения без трекинга на уровне пользователя
+6. **Возможности инкрементальности**: Добавление причинно-следственного измерения помимо корреляционной атрибуции
+7. **Выбор методологии**: Выбор подхода инкрементальности (эксперименты, always-on, MMM или гибрид)
+8. **Баланс Скорость vs Строгость**: Решение о позиции по быстрым результатам vs глубокой статистической валидации
+
+### Конкурентная дифференциация
+1. **[YOUR_TARGET_FOCUS]** vs фокус конкурентов на e-commerce/DTC/ритейл
+2. **[YOUR_DATA_APPROACH]** vs поверхностные метрики платформ
+3. **[YOUR_AI_METHOD]** vs подходы автоматизации на основе правил
+4. **[YOUR_SERVICE_MODEL]** vs преобладающие модели самообслуживания
+5. **Вертикальная специализация** vs горизонтальные e-commerce платформы
+6. **Выбор методологии** - дифференциация на подходе инкрементальности
+7. **Географический фокус** - владение регионом vs попытка быть глобальным с первого дня
+8. **Сегмент клиентов** - SMB/mid-market vs фокус только на enterprise
+9. **Доступность цены** - sub-$5K/мес vs $10K-50K+ enterprise цены
+
+### Стратегия рыночного позиционирования
+- **Лидируйте с дифференциацией**: Подчеркивайте уникальную ценность vs товарные функции
+- **Цельтесь в недообслуженные сегменты**: Фокусируйтесь там, где у конкурентов есть ограничения
+- **Стройте на сильных сторонах**: Используйте существующие возможности как фундамент для ИИ
+- **Стратегический месседжинг**: Позиционируйте против конкретных слабостей конкурентов
+
+---
+
+## Руководство по кастомизации шаблона
+
+### Замените примерное содержимое:
+- **[COMPANY_NAME]**: Название вашей компании везде
+- **[INDUSTRY]**, **[TARGET_MARKET]**: Ваш конкретный рыночный фокус
+- **[YOUR_SPECIALIZATION]**: Ваше уникальное рыночное позиционирование
+- **Детали конкурентов**: Замените примерных конкурентов на ваш реальный конкурентный ландшафт
+
+### Добавьте ваших конкурентов:
+1. **Предоставьте название компании и веб-сайт** для Cursor Agent
+2. **Автоматизированный анализ** будет создан следуя рабочему процессу .cursorrules
+3. **Эта сводка** будет обновлена конкурентными инсайтами
+4. **Стратегические последствия** будут интегрированы с вашим позиционированием
+
+### Сохраняйте структуру:
+- **Категоризируйте конкурентов** по типу решения или рыночному сегменту
+- **Используйте теги [REF:]** для ссылок на детальные файлы анализа
+- **Отмечайте [CANONICAL]** информацию в этом сводном файле
+- **Регулярные обновления** по мере эволюции конкурентного ландшафта
+
+---
+
+*Назначение шаблона: Оптимизированный фреймворк конкурентного анализа с автоматизированным рабочим процессом исследования*
+*Лучше всего для: Компаний, нуждающихся в эффективном отслеживании конкурентов со стратегическими инсайтами*
+
+[ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ: [DATE] - ПРИМЕР ШАБЛОНА]

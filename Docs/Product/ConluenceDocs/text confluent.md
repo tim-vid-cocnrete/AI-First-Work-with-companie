@@ -1,45 +1,45 @@
-# Confluence-GitHub Documentation Sync Plan
-*[TEMPLATE PLAN - This outlines strategies for syncing Confluence content with GitHub repositories]*
+# План Синхронизации Документации Confluence-GitHub
+*[ПЛАН ШАБЛОНА - Это описывает стратегии синхронизации контента Confluence с репозиториями GitHub]*
 
-## Overview
-This document provides a comprehensive plan for syncing Confluence documentation with GitHub repositories to maintain a single source of truth and enable version control for documentation.
+## Обзор
+Этот документ предоставляет комплексный план синхронизации документации Confluence с репозиториями GitHub для поддержания единого источника истины и включения контроля версий для документации.
 
-## 🎯 Goals
-1. **Centralize Documentation**: Bring all Confluence articles into this GitHub workspace
-2. **Version Control**: Track changes and collaborate on documentation using Git
-3. **Automation**: Minimize manual work through automated sync processes
-4. **Consistency**: Maintain formatting and links across platforms
-5. **Backup**: Ensure documentation is preserved in multiple locations
+## 🎯 Цели
+1. **Централизовать Документацию**: Перенести все статьи Confluence в это рабочее пространство GitHub
+2. **Контроль Версий**: Отслеживать изменения и сотрудничать над документацией, используя Git
+3. **Автоматизация**: Минимизировать ручную работу через автоматизированные процессы синхронизации
+4. **Консистентность**: Поддерживать форматирование и ссылки на всех платформах
+5. **Резервное Копирование**: Обеспечить сохранение документации в нескольких местах
 
-## 📋 Current State Assessment
+## 📋 Оценка Текущего Состояния
 
-### What We Have in Confluence
-- [ ] Product documentation
-- [ ] Technical specifications  
-- [ ] User guides
-- [ ] Meeting notes
-- [ ] Process documentation
-- [ ] Knowledge base articles
+### Что У Нас Есть в Confluence
+- [ ] Документация продукта
+- [ ] Технические спецификации
+- [ ] Руководства пользователя
+- [ ] Заметки встреч
+- [ ] Документация процессов
+- [ ] Статьи базы знаний
 
-### What We Need to Migrate
-1. **Content Inventory**: Complete audit of all Confluence spaces and pages
-2. **Priority Assessment**: Identify critical vs. nice-to-have content
-3. **Format Analysis**: Understand content types (text, images, tables, etc.)
-4. **Link Mapping**: Document internal links and dependencies
+### Что Нам Нужно Мигрировать
+1. **Инвентаризация Контента**: Полный аудит всех пространств и страниц Confluence
+2. **Оценка Приоритетов**: Идентификация критического vs желательного контента
+3. **Анализ Формата**: Понимание типов контента (текст, изображения, таблицы и т.д.)
+4. **Картирование Ссылок**: Документирование внутренних ссылок и зависимостей
 
-## 🛠️ Sync Approaches (Choose Based on Needs)
+## 🛠️ Подходы к Синхронизации (Выбор на Основе Потребностей)
 
-### 1. Manual Migration (Simple Start)
-**Best for**: Small documentation sets, one-time migration
+### 1. Ручная Миграция (Простой Старт)
+**Лучше для**: Небольших наборов документации, одноразовой миграции
 
-**Process**:
+**Процесс**:
 ```bash
-# 1. Export Confluence pages manually
-# - Go to Confluence page
-# - Export as Markdown/HTML
-# - Clean up formatting
+# 1. Экспорт страниц Confluence вручную
+# - Перейти на страницу Confluence
+# - Экспортировать как Markdown/HTML
+# - Очистить форматирование
 
-# 2. Organize in GitHub structure
+# 2. Организовать в структуре GitHub
 mkdir -p Docs/Product/ConluenceDocs/
 # - Mirrors/
 #   - Space1/
@@ -49,16 +49,16 @@ mkdir -p Docs/Product/ConluenceDocs/
 #   - Space2/
 ```
 
-### 2. Semi-Automated with Tools
+### 2. Полуавтоматизированный с Инструментами
 
-#### Option A: GitHub-to-Confluence Publisher (Reverse)
-**Tool**: `andygolubev/github-to-confluence-publisher`
-- **Direction**: GitHub → Confluence ✅
-- **Setup**: 30 minutes
-- **Maintenance**: Low
-- **Cost**: Free
+#### Опция A: GitHub-to-Confluence Publisher (Обратный)
+**Инструмент**: `andygolubev/github-to-confluence-publisher`
+- **Направление**: GitHub → Confluence ✅
+- **Настройка**: 30 минут
+- **Обслуживание**: Низкое
+- **Стоимость**: Бесплатно
 
-**Configuration**:
+**Конфигурация**:
 ```yaml
 # config.yaml
 confluence_url: https://yourcompany.atlassian.net/wiki/rest/api/
@@ -69,14 +69,14 @@ github_folder_with_md_files: ./Docs/Product/ConluenceDocs/
 github_folder_with_image_files: ./Docs/Product/ConluenceDocs/images/
 ```
 
-#### Option B: Confluence API Scripts
-**Tool**: Custom Python scripts using Confluence REST API
-- **Direction**: Confluence → GitHub ✅  
-- **Setup**: 2-4 hours
-- **Maintenance**: Medium
-- **Cost**: Free
+#### Опция B: Скрипты Confluence API
+**Инструмент**: Кастомные Python скрипты, использующие Confluence REST API
+- **Направление**: Confluence → GitHub ✅
+- **Настройка**: 2-4 часа
+- **Обслуживание**: Среднее
+- **Стоимость**: Бесплатно
 
-**Implementation**:
+**Реализация**:
 ```python
 # confluence_sync.py
 import requests
@@ -89,38 +89,38 @@ class ConfluenceToGitHub:
         self.auth = (username, api_token)
     
     def get_all_pages(self, space_key):
-        """Fetch all pages from a Confluence space"""
-        # Implementation here
+        """Получить все страницы из пространства Confluence"""
+        # Реализация здесь
         pass
     
     def convert_to_markdown(self, confluence_content):
-        """Convert Confluence markup to Markdown"""
-        # Implementation here  
+        """Конвертировать разметку Confluence в Markdown"""
+        # Реализация здесь
         pass
     
     def save_to_github(self, content, filepath):
-        """Save content to GitHub structure"""
-        # Implementation here
+        """Сохранить контент в структуру GitHub"""
+        # Реализация здесь
         pass
 ```
 
-### 3. Automated CI/CD Integration
+### 3. Автоматизированная CI/CD Интеграция
 
-#### Option A: GitHub Actions Workflow
-**Tool**: Custom GitHub Action
-- **Trigger**: Scheduled (daily/weekly) or on-demand
-- **Direction**: Bidirectional sync possible
-- **Setup**: 4-6 hours
-- **Maintenance**: Low
+#### Опция A: GitHub Actions Рабочий Процесс
+**Инструмент**: Кастомный GitHub Action
+- **Триггер**: По расписанию (ежедневно/еженедельно) или по требованию
+- **Направление**: Возможна двунаправленная синхронизация
+- **Настройка**: 4-6 часов
+- **Обслуживание**: Низкое
 
-**Workflow Example**:
+**Пример Рабочего Процесса**:
 ```yaml
 # .github/workflows/confluence-sync.yml
 name: Confluence Documentation Sync
 
 on:
   schedule:
-    - cron: '0 2 * * 1'  # Weekly on Monday 2AM
+    - cron: '0 2 * * 1'  # Еженедельно в Понедельник 2AM
   workflow_dispatch:
 
 jobs:
@@ -146,224 +146,224 @@ jobs:
           git push
 ```
 
-#### Option B: Webhook-Based Real-Time Sync
-**Tool**: Atlassian Automation + GitHub Webhooks
-- **Trigger**: Real-time on Confluence changes
-- **Direction**: Confluence → GitHub
-- **Setup**: 6-8 hours
-- **Maintenance**: Medium
+#### Опция B: Синхронизация в Реальном Времени на Основе Webhook
+**Инструмент**: Atlassian Automation + GitHub Webhooks
+- **Триггер**: В реальном времени при изменениях Confluence
+- **Направление**: Confluence → GitHub
+- **Настройка**: 6-8 часов
+- **Обслуживание**: Среднее
 
-**Setup Process**:
-1. **Create Confluence Automation Rule**:
+**Процесс Настройки**:
+1. **Создать Правило Автоматизации Confluence**:
    ```
-   Trigger: Page created/updated
-   Action: Send webhook to GitHub Actions
+   Триггер: Страница создана/обновлена
+   Действие: Отправить webhook в GitHub Actions
    ```
 
-2. **GitHub Actions Webhook Handler**:
+2. **Обработчик Webhook GitHub Actions**:
    ```yaml
    on:
      repository_dispatch:
        types: [confluence-update]
    ```
 
-3. **Processing Logic**:
-   - Fetch updated page via Confluence API
-   - Convert to Markdown
-   - Commit to appropriate GitHub location
+3. **Логика Обработки**:
+   - Получить обновленную страницу через Confluence API
+   - Конвертировать в Markdown
+   - Закоммитить в соответствующее место GitHub
 
-### 4. Advanced Integration Platform
+### 4. Продвинутая Платформа Интеграции
 
-#### Option A: Tray.ai Platform
-**Tool**: Professional integration platform
-- **Features**: Visual workflow builder, enterprise-grade
-- **Direction**: Bidirectional with complex logic
-- **Setup**: 1-2 days
-- **Cost**: $19+/month
-- **Best for**: Enterprise teams with complex requirements
+#### Опция A: Платформа Tray.ai
+**Инструмент**: Профессиональная платформа интеграции
+- **Функции**: Визуальный конструктор рабочих процессов, enterprise-grade
+- **Направление**: Двунаправленная со сложной логикой
+- **Настройка**: 1-2 дня
+- **Стоимость**: $19+/месяц
+- **Лучше для**: Enterprise команд со сложными требованиями
 
-#### Option B: Zapier Integration
-**Tool**: No-code automation platform  
-- **Features**: Simple triggers and actions
-- **Direction**: Confluence → GitHub (limited)
-- **Setup**: 2-4 hours
-- **Cost**: $20+/month
-- **Best for**: Simple, occasional syncs
+#### Опция B: Интеграция Zapier
+**Инструмент**: Платформа автоматизации без кода
+- **Функции**: Простые триггеры и действия
+- **Направление**: Confluence → GitHub (ограниченно)
+- **Настройка**: 2-4 часа
+- **Стоимость**: $20+/месяц
+- **Лучше для**: Простых, периодических синхронизаций
 
-## 🏗️ Recommended Implementation Plan
+## 🏗️ Рекомендуемый План Внедрения
 
-### Phase 1: Foundation (Week 1)
-1. **Content Audit**
+### Фаза 1: Фундамент (Неделя 1)
+1. **Аудит Контента**
    ```bash
-   # Create inventory spreadsheet
-   # Columns: Space, Page Title, Last Updated, Priority, Owner
+   # Создать таблицу инвентаризации
+   # Колонки: Пространство, Название Страницы, Последнее Обновление, Приоритет, Владелец
    ```
 
-2. **GitHub Structure Setup**
+2. **Настройка Структуры GitHub**
    ```
    Docs/Product/ConluenceDocs/
-   ├── Mirrors/           # Exact copies from Confluence
+   ├── Mirrors/           # Точные копии из Confluence
    │   ├── ProductSpace/
    │   ├── TechSpecs/
    │   └── UserGuides/
-   ├── Converted/         # GitHub-optimized versions
+   ├── Converted/         # Оптимизированные для GitHub версии
    │   ├── ProductSpace/
    │   ├── TechSpecs/
    │   └── UserGuides/
-   ├── Scripts/           # Automation tools
+   ├── Scripts/           # Инструменты автоматизации
    │   ├── confluence_sync.py
    │   ├── markdown_converter.py
    │   └── link_fixer.py
-   └── README.md          # Documentation about the sync process
+   └── README.md          # Документация о процессе синхронизации
    ```
 
-3. **API Setup**
+3. **Настройка API**
    ```bash
-   # Create Confluence API token
-   # Store in GitHub Secrets:
+   # Создать API токен Confluence
+   # Сохранить в GitHub Secrets:
    # - CONFLUENCE_BASE_URL
-   # - CONFLUENCE_USER  
+   # - CONFLUENCE_USER
    # - CONFLUENCE_ACCESS_TOKEN
    ```
 
-### Phase 2: Manual Migration (Week 2-3)
-1. **High-Priority Content**: Manual export and cleanup
-2. **Image Handling**: Download and organize all images
-3. **Link Updates**: Convert Confluence links to GitHub paths
-4. **Format Standardization**: Ensure consistent Markdown formatting
+### Фаза 2: Ручная Миграция (Неделя 2-3)
+1. **Высокоприоритетный Контент**: Ручной экспорт и очистка
+2. **Обработка Изображений**: Скачать и организовать все изображения
+3. **Обновление Ссылок**: Конвертировать ссылки Confluence в пути GitHub
+4. **Стандартизация Формата**: Обеспечить консистентное форматирование Markdown
 
-### Phase 3: Semi-Automation (Week 4)
-1. **Deploy Sync Scripts**: Python scripts for routine updates
-2. **GitHub Actions Setup**: Basic automation workflow
-3. **Testing**: Verify sync accuracy and performance
+### Фаза 3: Полуавтоматизация (Неделя 4)
+1. **Развертывание Скриптов Синхронизации**: Python скрипты для рутинных обновлений
+2. **Настройка GitHub Actions**: Базовый рабочий процесс автоматизации
+3. **Тестирование**: Проверка точности и производительности синхронизации
 
-### Phase 4: Full Automation (Week 5-6)
-1. **Advanced Workflows**: Real-time or scheduled sync
-2. **Conflict Resolution**: Handle simultaneous edits
-3. **Monitoring**: Set up alerts for sync failures
-4. **Documentation**: Create runbooks for maintenance
+### Фаза 4: Полная Автоматизация (Неделя 5-6)
+1. **Продвинутые Рабочие Процессы**: Синхронизация в реальном времени или по расписанию
+2. **Разрешение Конфликтов**: Обработка одновременных правок
+3. **Мониторинг**: Настройка оповещений о сбоях синхронизации
+4. **Документация**: Создание руководств по обслуживанию
 
-## 🔧 Technical Requirements
+## 🔧 Технические Требования
 
-### Prerequisites
+### Предварительные Условия
 ```bash
-# Required tools
+# Необходимые инструменты
 pip install atlassian-python-api
 pip install markdown2
 pip install beautifulsoup4
 npm install -g markdown-to-confluence
 
-# GitHub CLI (optional)
+# GitHub CLI (опционально)
 gh auth login
 ```
 
-### API Access
-1. **Confluence API Token**: 
-   - Go to https://id.atlassian.com/manage-profile/security/api-tokens
-   - Create token with admin permissions
+### Доступ к API
+1. **API Токен Confluence**:
+   - Перейти на https://id.atlassian.com/manage-profile/security/api-tokens
+   - Создать токен с правами администратора
 
-2. **GitHub Personal Access Token**:
-   - Classic token with repo permissions
-   - Or fine-grained token for specific repositories
+2. **Personal Access Token GitHub**:
+   - Классический токен с разрешениями repo
+   - Или детализированный токен для конкретных репозиториев
 
-### Directory Structure
+### Структура Директорий
 ```
 Docs/Product/ConluenceDocs/
 ├── config/
-│   ├── spaces.json          # Space configurations
-│   ├── sync_settings.yaml   # Sync preferences
-│   └── ignore_list.txt      # Pages to skip
+│   ├── spaces.json          # Конфигурации пространств
+│   ├── sync_settings.yaml   # Настройки синхронизации
+│   └── ignore_list.txt      # Страницы для пропуска
 ├── scripts/
-│   ├── sync_confluence.py   # Main sync script
-│   ├── convert_markup.py    # Format conversion
-│   ├── handle_images.py     # Image processing
-│   └── update_links.py      # Link transformation
+│   ├── sync_confluence.py   # Основной скрипт синхронизации
+│   ├── convert_markup.py    # Конвертация формата
+│   ├── handle_images.py     # Обработка изображений
+│   └── update_links.py      # Трансформация ссылок
 ├── templates/
-│   ├── page_template.md     # Standard page format
-│   └── toc_template.md      # Table of contents
+│   ├── page_template.md     # Стандартный формат страницы
+│   └── toc_template.md      # Оглавление
 └── logs/
-    ├── sync_log.txt         # Sync history
-    └── error_log.txt        # Error tracking
+    ├── sync_log.txt         # История синхронизации
+    └── error_log.txt        # Отслеживание ошибок
 ```
 
-## 📊 Success Metrics
+## 📊 Метрики Успеха
 
-### Completion Criteria
-- [ ] **Coverage**: 100% of priority content migrated
-- [ ] **Accuracy**: <5% content formatting issues
-- [ ] **Automation**: 90% of updates happen automatically
-- [ ] **Performance**: Sync completes within 30 minutes
-- [ ] **Reliability**: 99% uptime for automated sync
+### Критерии Завершения
+- [ ] **Покрытие**: 100% приоритетного контента мигрировано
+- [ ] **Точность**: <5% проблем форматирования контента
+- [ ] **Автоматизация**: 90% обновлений происходят автоматически
+- [ ] **Производительность**: Синхронизация завершается за 30 минут
+- [ ] **Надежность**: 99% uptime для автоматизированной синхронизации
 
-### Monitoring Dashboard
+### Дашборд Мониторинга
 ```yaml
-# Key metrics to track
-content_coverage: "Pages synced / Total pages"
-sync_frequency: "Updates per week"
-error_rate: "Failed syncs / Total sync attempts"
-content_freshness: "Average age of synced content"
-user_adoption: "Team members using GitHub docs"
+# Ключевые метрики для отслеживания
+content_coverage: "Синхронизированные страницы / Всего страниц"
+sync_frequency: "Обновления в неделю"
+error_rate: "Неудачные синхронизации / Всего попыток синхронизации"
+content_freshness: "Средний возраст синхронизированного контента"
+user_adoption: "Члены команды, использующие документы GitHub"
 ```
 
-## 🚨 Risk Mitigation
+## 🚨 Снижение Рисков
 
-### Data Loss Prevention
-1. **Backup Strategy**: Regular exports before sync operations
-2. **Version Control**: Full Git history for all changes
-3. **Rollback Plan**: Ability to restore from any point in time
+### Предотвращение Потери Данных
+1. **Стратегия Резервного Копирования**: Регулярные экспорты перед операциями синхронизации
+2. **Контроль Версий**: Полная история Git для всех изменений
+3. **План Отката**: Возможность восстановления из любой точки времени
 
-### Conflict Resolution
-1. **Last Writer Wins**: Simple timestamp-based resolution
-2. **Manual Review**: Flag conflicts for human review
-3. **Branch Strategy**: Use feature branches for major updates
+### Разрешение Конфликтов
+1. **Последний Пишущий Побеждает**: Простое разрешение на основе временных меток
+2. **Ручная Проверка**: Отметка конфликтов для человеческой проверки
+3. **Стратегия Веток**: Использование feature веток для крупных обновлений
 
-### Security Considerations
-1. **API Token Rotation**: Monthly token refresh
-2. **Access Control**: Limited permissions for sync accounts
-3. **Audit Logging**: Track all sync operations
+### Соображения Безопасности
+1. **Ротация API Токенов**: Ежемесячное обновление токенов
+2. **Контроль Доступа**: Ограниченные разрешения для аккаунтов синхронизации
+3. **Логирование Аудита**: Отслеживание всех операций синхронизации
 
-## 🎯 Next Steps
+## 🎯 Следующие Шаги
 
-### Immediate Actions (This Week)
-1. **Confluence Audit**: Inventory all spaces and critical pages
-2. **API Setup**: Create tokens and test connectivity
-3. **GitHub Structure**: Set up directory organization
-4. **Tool Selection**: Choose primary sync approach
+### Немедленные Действия (Эта Неделя)
+1. **Аудит Confluence**: Инвентаризация всех пространств и критических страниц
+2. **Настройка API**: Создание токенов и тестирование подключения
+3. **Структура GitHub**: Настройка организации директорий
+4. **Выбор Инструмента**: Выбор основного подхода к синхронизации
 
-### Short Term (Next Month)
-1. **Manual Migration**: High-priority content
-2. **Script Development**: Basic automation tools
-3. **Testing**: Validate sync accuracy
-4. **Team Training**: Document procedures
+### Краткосрочные (Следующий Месяц)
+1. **Ручная Миграция**: Высокоприоритетный контент
+2. **Разработка Скриптов**: Базовые инструменты автоматизации
+3. **Тестирование**: Проверка точности синхронизации
+4. **Обучение Команды**: Документирование процедур
 
-### Long Term (Next Quarter)
-1. **Full Automation**: Complete CI/CD integration
-2. **Process Optimization**: Refine workflows
-3. **Team Adoption**: Migrate team to GitHub-first documentation
-4. **Continuous Improvement**: Regular reviews and updates
+### Долгосрочные (Следующий Квартал)
+1. **Полная Автоматизация**: Полная CI/CD интеграция
+2. **Оптимизация Процессов**: Доработка рабочих процессов
+3. **Принятие Командой**: Миграция команды на документацию GitHub-first
+4. **Непрерывное Улучшение**: Регулярные проверки и обновления
 
 ---
 
-## 📚 Additional Resources
+## 📚 Дополнительные Ресурсы
 
-### Tools and Libraries
+### Инструменты и Библиотеки
 - [Atlassian Python API](https://atlassian-python-api.readthedocs.io/)
 - [GitHub-to-Confluence Publisher](https://github.com/andygolubev/github-to-confluence-publisher)
 - [Confluence Action Sync](https://github.com/hadenlabs/action-confluence-sync)
 - [Markdown to Confluence](https://www.npmjs.com/package/markdown-to-confluence)
 
-### Documentation
+### Документация
 - [Confluence REST API](https://developer.atlassian.com/cloud/confluence/rest/v1/)
-- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [Документация GitHub Actions](https://docs.github.com/en/actions)
 - [Atlassian Automation](https://support.atlassian.com/cloud-automation/)
 
-### Best Practices
+### Лучшие Практики
 - [Documentation as Code](https://docs.gitlab.com/ee/development/documentation/workflow.html)
 - [Git Workflow for Docs](https://www.writethedocs.org/guide/docs-as-code/)
 - [Markdown Style Guide](https://google.github.io/styleguide/docguide/style.html)
 
 ---
 
-*Last Updated: $(date)*
-*Status: Planning Phase*
-*Owner: [Your Team Name]*
+*Последнее Обновление: $(date)*
+*Статус: Фаза Планирования*
+*Владелец: [Название Вашей Команды]*

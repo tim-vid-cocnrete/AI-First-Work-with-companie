@@ -1,31 +1,31 @@
-# Senior Marketing Analytics — Position Description
+# Senior Marketing Analytics — Описание Позиции
 
-Elly Analytics is hiring for the role of Senior Marketing Analyst.
+Elly Analytics нанимает на роль Senior Marketing Analyst.
 
-## Summary
+## Краткое Описание
 
-As a marketing analyst, you will become part of the team that launches analytics projects from A to Z — from project planning and MVP building to sustainment and further development.
+Как маркетинговый аналитик, вы станете частью команды, которая запускает аналитические проекты от А до Я — от планирования проекта и построения MVP до поддержки и дальнейшего развития.
 
-The role focuses on ensuring data quality, designing report architecture, and delivering actionable insights to clients.
+Роль фокусируется на обеспечении качества данных, проектировании архитектуры отчетов и предоставлении клиентам инсайтов, применимых на практике.
 
-## Responsibilities
+## Обязанности
 
-- Analyze customer business processes and data sources to determine reporting needs.
-- Create technical specifications for customization of external systems.
-- Design data import processes, combine data from multiple systems, and calculate client metrics.
-- Visualize data using Power BI (or similar tools) to build insightful dashboards.
-- Maintain project documentation and keep it updated.
-- Continuously improve and develop the product.
-- Communicate directly with external clients throughout the project lifecycle.
+- Анализировать бизнес-процессы клиента и источники данных для определения потребностей в отчетности.
+- Создавать технические спецификации для кастомизации внешних систем.
+- Проектировать процессы импорта данных, объединять данные из нескольких систем и рассчитывать метрики клиента.
+- Визуализировать данные, используя Power BI (или аналогичные инструменты) для построения информативных дашбордов.
+- Поддерживать проектную документацию и держать ее в актуальном состоянии.
+- Постоянно улучшать и развивать продукт.
+- Коммуницировать напрямую с внешними клиентами на протяжении всего жизненного цикла проекта.
 
-> **Note:** This role does not include ML, AI or neural network development.
+> **Примечание:** Эта роль не включает разработку ML, AI или нейронных сетей.
 
-## Requirements
+## Требования
 
-- Proficiency in SQL.
-- Experience in data visualization using Power BI or similar systems.
-- Knowledge of marketing analytics, web analytics (Google Analytics UA, GA4, GTM), and advertising platforms (Google Ads, Facebook/Instagram, etc).
-- Experience with API
-- Previous experience working with external clients.
-- Upper-intermediate or advanced level of English.
-- Native level of Russian.
+- Владение SQL.
+- Опыт визуализации данных с использованием Power BI или аналогичных систем.
+- Знание маркетинговой аналитики, веб-аналитики (Google Analytics UA, GA4, GTM) и рекламных платформ (Google Ads, Facebook/Instagram и т.д.).
+- Опыт работы с API.
+- Предыдущий опыт работы с внешними клиентами.
+- Уровень английского Upper-intermediate или Advanced.
+- Родной уровень русского языка.

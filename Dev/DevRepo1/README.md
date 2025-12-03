@@ -1,27 +1,27 @@
-# Development Repository 1
+# Репозиторий Разработки 1
 
-This is a placeholder for your first development repository.
+Это заглушка для вашего первого репозитория разработки.
 
-## Setup Instructions
+## Инструкции по Настройке
 
-1. Clone or initialize your development repository here
-2. Set up your preferred development environment
-3. Configure CI/CD workflows as needed
+1. Клонируйте или инициализируйте ваш репозиторий разработки здесь
+2. Настройте вашу предпочитаемую среду разработки
+3. Настройте CI/CD рабочие процессы по необходимости
 
-## Common File Types
+## Общие Типы Файлов
 
-- Source code files
-- Configuration files (.gitignore, .editorconfig, etc.)
-- Build and deployment scripts
-- Documentation
-- Tests
+- Файлы исходного кода
+- Файлы конфигурации (.gitignore, .editorconfig и т.д.)
+- Скрипты сборки и развертывания
+- Документация
+- Тесты
 
-## Integration with Cursor AI
+## Интеграция с Cursor AI
 
-- Place your `.cursor/` directory with project-specific AI rules here
-- Configure `.cursorrules` for project-specific context
-- Use workspace-level rules from the main `.cursorrules` file
+- Разместите вашу директорию `.cursor/` с специфичными для проекта AI правилами здесь
+- Настройте `.cursorrules` для специфичного для проекта контекста
+- Используйте правила уровня рабочего пространства из основного файла `.cursorrules`
 
 ---
 
-*This is part of the Shared Cursor Workspace Template. Replace this content with your actual development repository.* 
+*Это часть Шаблона Общего Рабочего Пространства Cursor. Замените этот контент вашим реальным репозиторием разработки.*

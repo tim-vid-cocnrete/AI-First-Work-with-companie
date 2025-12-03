@@ -1,91 +1,91 @@
 # MICHAEL THOMPSON
-*[TEMPLATE EXAMPLE - This is a fictional candidate profile for demonstration purposes]*
+*[ПРИМЕР ШАБЛОНА - Это вымышленный профиль кандидата для демонстрационных целей]*
 
-**Marketing Data Analyst**  
-📧 michael.thompson@example.com | 📱 +1-555-0145 | 🌍 Denver, CO  
+**Marketing Data Analyst**
+📧 michael.thompson@example.com | 📱 +1-555-0145 | 🌍 Denver, CO
 LinkedIn: linkedin.com/in/michaelthompson-analyst
 
 ---
 
-## PROFESSIONAL SUMMARY
+## ПРОФЕССИОНАЛЬНОЕ САММАРИ
 
-Marketing data analyst with 2+ years of experience in retail analytics and campaign performance measurement. Strong foundation in data analysis tools with growing interest in marketing attribution and automation.
-
----
-
-## CORE COMPETENCIES
-
-**Data Analysis:**  
-Python (Pandas, Matplotlib) • Power BI • Excel • Google Analytics  
-
-**Technical Skills:**  
-SQL (Basic-Intermediate) • API Integration (Learning) • Data Visualization  
-
-**Marketing:**  
-Campaign Analysis • Customer Segmentation • A/B Testing • RFM Analysis  
-
-**Languages:**  
-English (Native) • Spanish (Conversational)
+Аналитик маркетинговых данных с 2+ годами опыта в ритейл-аналитике и измерении эффективности кампаний. Сильный фундамент в инструментах анализа данных с растущим интересом к маркетинговой атрибуции и автоматизации.
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ
+
+**Анализ Данных:**
+Python (Pandas, Matplotlib) • Power BI • Excel • Google Analytics
+
+**Технические Навыки:**
+SQL (Базовый-Средний) • Интеграция API (Обучение) • Визуализация Данных
+
+**Маркетинг:**
+Анализ Кампаний • Сегментация Клиентов • A/B Тестирование • RFM Анализ
+
+**Языки:**
+Английский (Родной) • Испанский (Разговорный)
+
+---
+
+## ПРОФЕССИОНАЛЬНЫЙ ОПЫТ
 
 ### **JewelCorp Retail Chain**
-**Marketing Data Analyst** | *Dec 2022 — Present* (1.5 years)
+**Marketing Data Analyst** | *Дек 2022 — Наст. время* (1.5 года)
 
-• Generate monthly performance reports using Python scripts in Google Colab, processing CRM data exports  
-• Built Power BI dashboard for management showing sales performance, marketing spend, and store traffic across 12 locations  
-• Conduct ad-hoc analysis for stakeholders including RFM analysis, customer retention, and behavioral segmentation  
-• Analyze effectiveness of marketing campaigns and Instagram advertising activities  
-• Implemented regular customer segmentation reports for branch managers, resulting in 3 customers achieving VIP status  
+• Генерирую ежемесячные отчеты об эффективности, используя скрипты Python в Google Colab, обрабатывая экспорты CRM данных
+• Построил дашборд Power BI для менеджмента, показывающий эффективность продаж, маркетинговые расходы и трафик магазинов по 12 локациям
+• Провожу ad-hoc анализ для стейкхолдеров, включая RFM анализ, удержание клиентов и поведенческую сегментацию
+• Анализирую эффективность маркетинговых кампаний и рекламных активностей в Instagram
+• Внедрил регулярные отчеты по сегментации клиентов для менеджеров филиалов, в результате чего 3 клиента получили статус VIP
 
-**Key Achievements:**  
-- Created automated monthly reporting system reducing manual work by 60%  
-- Established regular campaign effectiveness analysis increasing marketing ROI visibility
+**Ключевые Достижения:**
+- Создал автоматизированную систему ежемесячной отчетности, сократив ручную работу на 60%
+- Установил регулярный анализ эффективности кампаний, увеличив видимость маркетингового ROI
 
 ### **AutoParts Distribution**
-**Sales Analyst** | *Jan 2023 — Sep 2023* (9 months)
+**Sales Analyst** | *Янв 2023 — Сен 2023* (9 месяцев)
 
-• Collected and processed data from multiple CRM systems (1C and Bitrix24)  
-• Prepared and analyzed sales data using Pandas and Power Query  
-• Built and maintained Power BI dashboards for sales performance tracking  
-• Collaborated with sales, IT, and marketing teams to define reporting requirements  
-
----
-
-## EDUCATION
-
-**State University of Transportation**  
-*2018 — 2022*  
-Master's Degree in Transportation Systems Management  
-
-**Professional Development:**  
-- Statistics for Data Analysis - Higher School of Economics (2023)  
-- Data Visualization in Power BI - Stepik (2023)  
-- SQL for Data Analysis - Stepik (2023)
+• Собирал и обрабатывал данные из нескольких CRM систем (1C и Bitrix24)
+• Подготавливал и анализировал данные продаж, используя Pandas и Power Query
+• Построил и поддерживал дашборды Power BI для отслеживания эффективности продаж
+• Сотрудничал с командами продаж, IT и маркетинга для определения требований к отчетности
 
 ---
 
-## PROJECTS & ACHIEVEMENTS
+## ОБРАЗОВАНИЕ
 
-**Customer Segmentation Analysis:**  
-Developed RFM + ML clustering model for customer segmentation using K-means, providing CRM team with actionable customer groups for targeted communications.
+**State University of Transportation**
+*2018 — 2022*
+Магистр в Управлении Транспортными Системами
 
-**Push Notification Optimization:**  
-Analyzed push notification frequency impact on user engagement, identifying optimal sending patterns while maintaining conversion rates.
-
-**Campaign Performance Dashboard:**  
-Built comprehensive marketing performance tracking system connecting multiple data sources.
-
----
-
-## TECHNICAL NOTES
-
-- **Current Limitation:** Limited production SQL experience (primarily uses Python/Pandas for data processing)
-- **Learning Focus:** Actively studying data engineering concepts and API integrations  
-- **Growth Area:** Seeking to transition from analysis-focused role to more technical data engineering position
+**Профессиональное Развитие:**
+- Статистика для Анализа Данных - Высшая Школа Экономики (2023)
+- Визуализация Данных в Power BI - Stepik (2023)
+- SQL для Анализа Данных - Stepik (2023)
 
 ---
 
-*Template Note: This resume demonstrates a candidate with solid foundational skills but some gaps in technical requirements. Use this to evaluate candidates who show potential but may need additional training or mentoring.*
+## ПРОЕКТЫ И ДОСТИЖЕНИЯ
+
+**Анализ Сегментации Клиентов:**
+Разработал RFM + ML модель кластеризации для сегментации клиентов с использованием K-means, предоставив CRM команде действенные группы клиентов для таргетированных коммуникаций.
+
+**Оптимизация Push-Уведомлений:**
+Проанализировал влияние частоты push-уведомлений на вовлеченность пользователей, определив оптимальные паттерны отправки при сохранении конверсии.
+
+**Дашборд Эффективности Кампаний:**
+Построил комплексную систему отслеживания эффективности маркетинга, соединяющую несколько источников данных.
+
+---
+
+## ТЕХНИЧЕСКИЕ ЗАМЕТКИ
+
+- **Текущее Ограничение:** Ограниченный опыт SQL в продакшене (в основном использует Python/Pandas для обработки данных)
+- **Фокус Обучения:** Активно изучает концепции инженерии данных и интеграции API
+- **Зона Роста:** Стремится перейти от роли, сфокусированной на анализе, к более технической позиции инженера данных
+
+---
+
+*Примечание к шаблону: Это резюме демонстрирует кандидата с солидными базовыми навыками, но некоторыми пробелами в технических требованиях. Используйте это для оценки кандидатов, которые показывают потенциал, но могут нуждаться в дополнительном обучении или менторстве.*

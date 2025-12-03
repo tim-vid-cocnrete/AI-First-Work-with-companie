@@ -1,9 +1,9 @@
-# Candidate Screening Interview
+# Скрининг Интервью Кандидата
 
-Date: [Date]
-Duration: [Duration]
-VIEW RECORDING: [Recording Link]
+Дата: [Дата]
+Длительность: [Длительность]
+СМОТРЕТЬ ЗАПИСЬ: [Ссылка на Запись]
 
-## Interview Summary
+## Саммари Интервью
 
-[Interview content will be placed here] 
+[Контент интервью будет размещен здесь]

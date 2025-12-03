@@ -1,82 +1,82 @@
-# FULL EVALUATION AGENT
-*[TEMPLATE EXAMPLE - This is a functional evaluation agent for demonstration purposes]*
+# АГЕНТ ПОЛНОЙ ОЦЕНКИ
+*[ПРИМЕР ШАБЛОНА - Это функциональный агент оценки для демонстрационных целей]*
 
-This automated agent evaluates candidates for the Senior Marketing Analyst role by analyzing their resumes, interview notes, and other relevant documents.
+Этот автоматизированный агент оценивает кандидатов на роль Senior Marketing Analyst, анализируя их резюме, заметки с интервью и другие релевантные документы.
 
-## Template Configuration
+## Конфигурация Шаблона
 
-**Before using this agent in your company:**
+**Перед использованием этого агента в вашей компании:**
 
-1. **Replace Company Name Placeholder:**
-   - In `agent-prompt.md`: Replace `[COMPANY_NAME]` with your actual company name
-   - In `agent.py`: Replace `[COMPANY_NAME]` with your actual company name (appears in 3 locations)
+1. **Замените Плейсхолдер Имени Компании:**
+   - В `agent-prompt.md`: Замените `[COMPANY_NAME]` на ваше реальное имя компании
+   - В `agent.py`: Замените `[COMPANY_NAME]` на ваше реальное имя компании (появляется в 3 местах)
 
-2. **Customize Evaluation Criteria:**
-   - Modify the competencies list in `agent.py` to match your specific requirements
-   - Update scoring thresholds in `agent-config.json`
-   - Adjust the context files to point to your actual job requirements
+2. **Настройте Критерии Оценки:**
+   - Измените список компетенций в `agent.py`, чтобы он соответствовал вашим конкретным требованиям
+   - Обновите пороги скоринга в `agent-config.json`
+   - Настройте контекстные файлы, чтобы они указывали на ваши реальные требования к работе
 
-3. **Set Up Directory Structure:**
-   - Ensure your candidate folders follow the expected naming convention
-   - Place the agent in the correct relative position to your candidates directory
+3. **Настройте Структуру Директорий:**
+   - Убедитесь, что ваши папки кандидатов следуют ожидаемой конвенции именования
+   - Поместите агента в правильную относительную позицию к вашей директории кандидатов
 
-## Quick Start for Template Users
+## Быстрый Старт для Пользователей Шаблона
 
-1. **Setup:**
+1. **Настройка:**
    ```bash
-   # Install dependencies
+   # Установка зависимостей
    pip install markdown
    
-   # Replace company name placeholders
+   # Замена плейсхолдеров имени компании
    sed -i 's/\[COMPANY_NAME\]/YourCompany/g' agent-prompt.md
    sed -i 's/\[COMPANY_NAME\]/YourCompany/g' agent.py
    ```
 
-2. **Run evaluation:**
+2. **Запуск оценки:**
    ```bash
-   # Make script executable
+   # Сделать скрипт исполняемым
    chmod +x run-agent.sh
    
-   # Evaluate all candidates
+   # Оценить всех кандидатов
    ./run-agent.sh
    
-   # Or evaluate specific candidate
+   # Или оценить конкретного кандидата
    ./run-agent.sh --candidate Candidate-John-Doe
    ```
 
-3. **Customize for your needs:**
-   - Modify competencies in `agent.py`
-   - Adjust scoring rules in `agent-config.json`
-   - Update context files paths as needed
+3. **Настройка под ваши нужды:**
+   - Измените компетенции в `agent.py`
+   - Настройте правила скоринга в `agent-config.json`
+   - Обновите пути к контекстным файлам по необходимости
 
-## Overview
+## Обзор
 
-The agent uses AI-powered analysis to:
+Агент использует анализ на основе AI для:
 
-1. Read candidate resumes and other documents
-2. Compare candidate qualifications against the role requirements
-3. Generate evaluation scores across key competencies
-4. Produce comprehensive evaluations and final scores
-5. Automatically create Fathom summaries for quick review
+1. Чтения резюме кандидатов и других документов
+2. Сравнения квалификации кандидата с требованиями роли
+3. Генерации оценок по ключевым компетенциям
+4. Создания комплексных оценок и финальных баллов
+5. Автоматического создания саммари Fathom для быстрого просмотра
 
-> **⚠️ IMPORTANT NOTE:** This is a demonstration agent that uses placeholder scoring logic. For production use, you need to integrate it with a real LLM API (OpenAI, Anthropic, etc.) or custom AI model to perform actual intelligent evaluation of candidate materials.
+> **⚠️ ВАЖНОЕ ПРИМЕЧАНИЕ:** Это демонстрационный агент, который использует логику скоринга-заглушку. Для использования в продакшене вам нужно интегрировать его с реальным LLM API (OpenAI, Anthropic и т.д.) или кастомной AI моделью для выполнения реальной интеллектуальной оценки материалов кандидата.
 
-## Setup Requirements
+## Требования к Настройке
 
-- Python 3.7 or higher
-- Required Python packages:
+- Python 3.7 или выше
+- Необходимые пакеты Python:
   - markdown
   - argparse
 
-You can install the required packages using pip:
+Вы можете установить необходимые пакеты с помощью pip:
 
 ```
 pip install markdown
 ```
 
-## Directory Structure
+## Структура Директорий
 
-The agent expects a specific directory structure:
+Агент ожидает специфическую структуру директорий:
 
 ```
 Senior-Marketing-Analyst/
@@ -87,48 +87,48 @@ Senior-Marketing-Analyst/
 │   ├── Candidate-John-Doe/
 │   │   ├── CV.md
 │   │   ├── ...
-│   └── Other candidates...
+│   └── Другие кандидаты...
 └── Agent/
     ├── agent.py
     ├── agent-config.json
-    └── README.md (this file)
+    └── README.md (этот файл)
 ```
 
-## Configuration
+## Конфигурация
 
-The agent is configured via the `agent-config.json` file. Key settings include:
+Агент конфигурируется через файл `agent-config.json`. Ключевые настройки включают:
 
-- Context files to read for evaluation criteria
-- Weightings for different competency areas
-- Minimum score threshold for passing candidates
-- Output file settings
+- Контекстные файлы для чтения критериев оценки
+- Веса для различных областей компетенций
+- Минимальный порог баллов для проходящих кандидатов
+- Настройки выходных файлов
 
-## Usage
+## Использование
 
-To evaluate all candidates:
+Чтобы оценить всех кандидатов:
 
 ```bash
 python agent.py
 ```
 
-To evaluate a specific candidate:
+Чтобы оценить конкретного кандидата:
 
 ```bash
 python agent.py --candidate Candidate-John-Doe
 ```
 
-## Output Files
+## Выходные Файлы
 
-For each candidate, the agent generates:
+Для каждого кандидата агент генерирует:
 
-1. **Evaluation.md** - Detailed evaluation with scores and notes
-2. **Final-Score.md** - Simple pass/fail and final score
-3. **AI-Notes.md** - Additional AI-generated insights about the candidate
+1. **Evaluation.md** - Детальная оценка с баллами и заметками
+2. **Final-Score.md** - Простой проход/непроход и финальный балл
+3. **AI-Notes.md** - Дополнительные инсайты, сгенерированные AI о кандидате
 
-## Human Approval
+## Одобрение Человеком
 
-By default, the agent requires human approval before finalizing evaluations. This setting can be adjusted in the configuration file.
+По умолчанию агент требует одобрения человеком перед финализацией оценок. Эту настройку можно изменить в файле конфигурации.
 
-## Adding New Candidates
+## Добавление Новых Кандидатов
 
-Place new candidate folders in the `Candidates/` directory following the naming convention `Candidate-[Name]`. The agent will automatically discover and evaluate them. 
+Поместите папки новых кандидатов в директорию `Candidates/`, следуя конвенции именования `Candidate-[Name]`. Агент автоматически обнаружит и оценит их.

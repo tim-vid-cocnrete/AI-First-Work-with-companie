@@ -1,26 +1,26 @@
-# Candidate Evaluation: Candidate-Test-User
+# Оценка Кандидата: Candidate-Test-User
 
-## Summary
-Candidate evaluation completed on 2025-06-11. 
-Based on the available materials, this candidate is classified as a **Weak Fit**.
+## Саммари
+Оценка кандидата завершена 2025-06-11.
+На основе доступных материалов, этот кандидат классифицирован как **Слабое Соответствие**.
 
-## Competency Scores
+## Оценки Компетенций
 
-| Competency | Score |
+| Компетенция | Оценка |
 |------------|-------|
-| SQL Proficiency | 2/5 |
-| ETL Experience | 3/5 |
-| API Integration | 2/5 |
-| Data Visualization | 3/5 |
-| Statistical Analysis | 4/5 |
-| Marketing Campaign Analysis | 3/5 |
-| Problem Solving | 4/5 |
-| Communication Skills | 3/5 |
-| Teamwork | 5/5 |
+| Владение SQL | 2/5 |
+| Опыт ETL | 3/5 |
+| Интеграция API | 2/5 |
+| Визуализация Данных | 3/5 |
+| Статистический Анализ | 4/5 |
+| Анализ Маркетинговых Кампаний | 3/5 |
+| Решение Проблем | 4/5 |
+| Навыки Коммуникации | 3/5 |
+| Командная Работа | 5/5 |
 
-## Final Fit Conclusion
-**Weak Fit**
+## Финальное Заключение о Соответствии
+**Слабое Соответствие**
 
-## Notes
-Low scores in: SQL Proficiency, API Integration
-WARNING: Insufficient critical skills in SQL Proficiency, API Integration
+## Заметки
+Низкие оценки в: Владение SQL, Интеграция API
+ВНИМАНИЕ: Недостаточно критических навыков в Владение SQL, Интеграция API

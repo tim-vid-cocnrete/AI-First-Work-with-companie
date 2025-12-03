@@ -1,3 +1,3 @@
-# Candidate CV
+# CV Кандидата
 
-[CV content will be placed here] 
+[Контент CV будет размещен здесь]

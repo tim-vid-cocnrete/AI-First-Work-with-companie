@@ -1,228 +1,228 @@
-# Competitor Analysis Template - Triple Whale
-*[TEMPLATE EXAMPLE - This is an example competitor analysis. Replace with your actual competitor research.]*
+# Шаблон анализа конкурентов - Triple Whale
+*[ПРИМЕР ШАБЛОНА - Это пример анализа конкурента. Замените на ваше реальное исследование конкурентов.]*
 
 ---
 
-**⚠️ TEMPLATE NOTICE:** This file contains an example competitor analysis for "Triple Whale" as a demonstration of how to structure comprehensive competitor research and analysis. Replace all content below with your own competitor analysis, maintaining the same analytical structure and depth.
+**⚠️ ПРИМЕЧАНИЕ К ШАБЛОНУ:** Этот файл содержит пример анализа конкурента "Triple Whale" как демонстрацию того, как структурировать комплексное исследование конкурентов. Замените все содержимое ниже на ваш собственный анализ конкурента, сохраняя ту же аналитическую структуру и глубину.
 
 ---
 
-# Triple Whale - Competitor Analysis
-*[EXAMPLE COMPETITOR - Replace with your actual competitor]*
+# Triple Whale - Анализ конкурента
+*[ПРИМЕР КОНКУРЕНТА - Замените на вашего реального конкурента]*
 
-*Research Date: May 2025 | Primary Competitor in Ecommerce Analytics*
+*Дата исследования: Май 2025 | Основной конкурент в Ecommerce аналитике*
 
-## 🏢 Company Overview
+## 🏢 Обзор компании
 
-**Company:** Triple Whale  
-**Founded:** June 2021  
-**Headquarters:** Jerusalem, Israel (with operations in Columbus, OH)  
-**Address:** 266 N 5th street, Columbus, OH, 43215, US  
-**Founders:** AJ Orbach, Ivan Chernykh, Maxx Blank  
-**Employees:** 101-250  
-**Website:** triplewhale.com  
-**Shopify App Rating:** 4.1/5 (76 reviews)  
+**Компания:** Triple Whale  
+**Основана:** Июнь 2021  
+**Штаб-квартира:** Иерусалим, Израиль (с операциями в Колумбусе, Огайо)  
+**Адрес:** 266 N 5th street, Columbus, OH, 43215, US  
+**Основатели:** AJ Orbach, Ivan Chernykh, Maxx Blank  
+**Сотрудники:** 101-250  
+**Веб-сайт:** triplewhale.com  
+**Рейтинг в Shopify App Store:** 4.1/5 (76 отзывов)  
 
-### Mission Statement
-**"Democratize the latest advancements in AI and automation to empower small and medium-sized e-commerce businesses to transform their data into profitability"** [CONFIRMED: From Series B funding announcement - February 2023]
+### Миссия
+**"Демократизировать последние достижения в области ИИ и автоматизации, чтобы дать возможность малому и среднему e-commerce бизнесу превратить свои данные в прибыльность"** [ПОДТВЕРЖДЕНО: Из анонса финансирования Series B - Февраль 2023]
 
-**Company Positioning:** "Smart data platform for e-commerce brands" [CONFIRMED: From press releases]
+**Позиционирование компании:** "Умная платформа данных для e-commerce брендов" [ПОДТВЕРЖДЕНО: Из пресс-релизов]
 
-**Value Proposition:** "Transform data complexity into profitable growth for ecommerce companies" [CONFIRMED: From multiple sources]
+**Ценностное предложение:** "Превратите сложность данных в прибыльный рост для ecommerce компаний" [ПОДТВЕРЖДЕНО: Из нескольких источников]
 
-**Platform Tagline:** "Agent-powered intelligence for your entire brand" [CONFIRMED: Current marketing]
+**Слоган платформы:** "Интеллект на базе агентов для всего вашего бренда" [ПОДТВЕРЖДЕНО: Текущий маркетинг]
 
-**Strategic Focus:** "Three layers to solve disconnected data: centralization, visualization, and automation" [CONFIRMED: From funding announcement]
+**Стратегический фокус:** "Три уровня для решения проблемы разрозненных данных: централизация, визуализация и автоматизация" [ПОДТВЕРЖДЕНО: Из анонса финансирования]
 
-**Note:** Triple Whale has a clear mission statement focused on democratizing AI/automation for SMB ecommerce, distinguishing them from larger enterprise-focused competitors.
+**Примечание:** Triple Whale имеет четкую миссию, сфокусированную на демократизации ИИ/автоматизации для SMB ecommerce, что отличает их от конкурентов, ориентированных на крупный бизнес.
 
-## 💰 Funding & Valuation
+## 💰 Финансирование и Оценка
 
-**Total Funding Raised:** $52.7M  
-**Funding Rounds:**
-- **Seed Round:** $3.7M (March 2022) - Led by NFX
-- **Series A:** $24M (March 2022) - Led by Elephant  
-- **Series B:** $25M (February 2023) - Led by Elephant, NFX
+**Всего привлечено:** $52.7M  
+**Раунды финансирования:**
+- **Seed Round:** $3.7M (Март 2022) - Лид: NFX
+- **Series A:** $24M (Март 2022) - Лид: Elephant  
+- **Series B:** $25M (Февраль 2023) - Лид: Elephant, NFX
 
-**Key Investors:**
-- **Elephant** (Lead investor) - Growth-stage VC focused on technology companies
-- **NFX** - Early-stage VC specializing in network effects
-- **Shopify Ventures** - Strategic investor from Shopify ecosystem
+**Ключевые инвесторы:**
+- **Elephant** (Лид-инвестор) - VC стадии роста, сфокусированный на технологических компаниях
+- **NFX** - VC ранней стадии, специализирующийся на сетевых эффектах
+- **Shopify Ventures** - Стратегический инвестор из экосистемы Shopify
 
-**Valuation:** Not publicly disclosed
+**Оценка:** Публично не разглашается
 
-## 🎯 Target Market & Positioning
+## 🎯 Целевой рынок и Позиционирование
 
-### Primary Focus
-- **99% Shopify-focused** - Built specifically for Shopify ecosystem
-- **DTC & Ecommerce brands** - Direct-to-consumer companies
-- **Notable Customers:** True Classic, OUAI, OLIPOP (30,000+ brands claimed)
+### Основной фокус
+- **99% фокус на Shopify** - Создано специально для экосистемы Shopify
+- **DTC и Ecommerce бренды** - Direct-to-consumer компании
+- **Известные клиенты:** True Classic, OUAI, OLIPOP (заявлено 30,000+ брендов)
 
-### Market Position
-- **Leading smart data platform** for ecommerce companies
-- **Self-service model** - Unlike Elly's high-touch approach
-- **Ecommerce-first** - Data model optimized for product sales, not lead generation
+### Рыночная позиция
+- **Ведущая умная платформа данных** для ecommerce компаний
+- **Модель самообслуживания (Self-service)** - В отличие от high-touch подхода Elly
+- **Ecommerce-first** - Модель данных оптимизирована для продаж продуктов, а не лидогенерации
 
-## ⭐ Product Features
+## ⭐ Функции продукта
 
-### Core Platform
-1. **Moby Agents** - AI agents that automate complex analyses & detect potential issues
-2. **Moby Chat** - AI data scientist that answers questions and builds reports
-3. **Triple Pixel** - Capture customer behavior other platforms miss
-4. **Unified Measurement** - Full clarity into channel & campaign performance
-5. **Sonar** - Data enrichment for ad platforms & Klaviyo
+### Основная платформа
+1. **Moby Agents** - ИИ-агенты, которые автоматизируют сложные анализы и обнаруживают потенциальные проблемы
+2. **Moby Chat** - ИИ дата-сайентист, который отвечает на вопросы и строит отчеты
+3. **Triple Pixel** - Захват поведения клиентов, которое упускают другие платформы
+4. **Unified Measurement** - Полная ясность в эффективности каналов и кампаний
+5. **Sonar** - Обогащение данных для рекламных платформ и Klaviyo
 
-### AI Capabilities (Key Differentiator)
-- **AI Workflows** - Pre-built automation catalog
-- **Workflow Builder** - Create custom AI automations
-- **Creative Analysis Agent** - Automated creative performance analysis
-- **Business Performance Agent** - Automated business insights
-- **Attribution Table Agents** - Automated attribution analysis
-- **Campaign Agent** - Email/SMS campaign automation
+### Возможности ИИ (Ключевой дифференциатор)
+- **AI Workflows** - Каталог готовых автоматизаций
+- **Workflow Builder** - Создание кастомных ИИ-автоматизаций
+- **Creative Analysis Agent** - Автоматизированный анализ эффективности креативов
+- **Business Performance Agent** - Автоматизированные бизнес-инсайты
+- **Attribution Table Agents** - Автоматизированный анализ атрибуции
+- **Campaign Agent** - Автоматизация Email/SMS кампаний
 
-### Technical Features
-- **Multi-Touch Attribution** via Triple Pixel
-- **Creative Analytics & Product Analytics**
-- **Cohort Analysis & Segmentation Builder**
+### Технические функции
+- **Multi-Touch Атрибуция** через Triple Pixel
+- **Аналитика креативов и продуктов**
+- **Когортный анализ и конструктор сегментации**
 - **Marketing Mix Modeling (MMM)**
-- **SQL Editor** (Professional plan)
-- **Mobile App** with real-time notifications
+- **SQL редактор** (План Professional)
+- **Мобильное приложение** с уведомлениями в реальном времени
 
-## 💵 Pricing Strategy
+## 💵 Стратегия ценообразования
 
-**Pricing Model:** Freemium with usage-based scaling
+**Модель ценообразования:** Freemium с масштабированием по использованию
 
-### Pricing Tiers
+### Уровни цен
 1. **Free Plan**
-   - 10 Users
-   - Channels: Ads, Amazon, Email, SMS & More
-   - 12-Month Lookback
-   - First- and Last-Click Attribution Models
-   - Standard Shop Performance and Logistics
-   - Standard Post-Purchase Survey
+   - 10 Пользователей
+   - Каналы: Ads, Amazon, Email, SMS и другие
+   - Окно атрибуции 12 месяцев
+   - Модели атрибуции First- и Last-Click
+   - Стандартная эффективность магазина и логистика
+   - Стандартный опрос после покупки
 
-2. **Starter - $149/month**
-   - Everything in Free, plus:
-   - Multi-Touch Attribution via Triple Pixel
-   - All Marketing Channel Integrations
-   - Influencer & Affiliate Analysis
-   - Advanced Post-Purchase Survey
-   - Custom Metric Builder
-   - Unlimited Users, Unlimited Lookback
+2. **Starter - $149/мес**
+   - Все, что в Free, плюс:
+   - Multi-Touch Атрибуция через Triple Pixel
+   - Все интеграции маркетинговых каналов
+   - Анализ инфлюенсеров и аффилиатов
+   - Продвинутый опрос после покупки
+   - Конструктор кастомных метрик
+   - Безлимитные пользователи, безлимитное окно атрибуции
 
-3. **Advanced - $219/month**
-   - Everything in Starter, plus:
-   - Subscription Data
-   - Total Impact Attribution
-   - Creative Analytics & Product Analytics
-   - Sonar Optimize ad platform enrichment
-   - Cohort Analysis & Segmentation Builder
-   - Unlimited Custom Dashboards
-   - Multi-Store Reporting
+3. **Advanced - $219/мес**
+   - Все, что в Starter, плюс:
+   - Данные подписок
+   - Total Impact атрибуция
+   - Аналитика креативов и продуктов
+   - Sonar Optimize обогащение рекламных платформ
+   - Когортный анализ и конструктор сегментации
+   - Безлимитные кастомные дашборды
+   - Отчетность по нескольким магазинам
 
-4. **Professional - $449/month**
-   - Everything in Advanced, plus:
+4. **Professional - $449/мес**
+   - Все, что в Advanced, плюс:
    - Marketing Mix Modeling (MMM)
-   - SQL Editor
+   - SQL редактор
 
-**Scaling:** Can reach $2,500-$10,000+ per month based on GMV (Gross Merchandise Value)
+**Масштабирование:** Может достигать $2,500-$10,000+ в месяц в зависимости от GMV (Gross Merchandise Value)
 
-## 🔧 Technical Capabilities
+## 🔧 Технические возможности
 
-### Integrations
-- **Primary Platform:** Shopify (99% focus)
-- **Ad Platforms:** Facebook, Google Ads, TikTok, Pinterest, Amazon
+### Интеграции
+- **Основная платформа:** Shopify (99% фокус)
+- **Рекламные платформы:** Facebook, Google Ads, TikTok, Pinterest, Amazon
 - **Email/SMS:** Klaviyo, Gorgias
-- **Subscriptions:** Recharge
-- **Analytics:** Built-in analytics suite
+- **Подписки:** Recharge
+- **Аналитика:** Встроенный пакет аналитики
 
-### Data Model Strengths
-- **Ecommerce-optimized** - Built for product sales, inventory, and customer lifetime value
-- **Real-time processing** - Fast data updates for quick decision making
-- **Shopify-native** - Deep integration with Shopify ecosystem
+### Сильные стороны модели данных
+- **Оптимизировано для Ecommerce** - Создано для продаж продуктов, инвентаря и LTV клиентов
+- **Обработка в реальном времени** - Быстрые обновления данных для быстрого принятия решений
+- **Нативность для Shopify** - Глубокая интеграция с экосистемой Shopify
 
-### Data Model Limitations
-- **Not suitable for lead generation businesses** - Data model doesn't work well with lead-to-appointment flows
-- **Limited B2B capabilities** - Focused on B2C ecommerce transactions
-- **Shopify dependency** - Limited utility outside Shopify ecosystem
+### Ограничения модели данных
+- **Не подходит для лидогенерации** - Модель данных плохо работает с потоками "лид -> встреча"
+- **Ограниченные B2B возможности** - Сфокусировано на B2C ecommerce транзакциях
+- **Зависимость от Shopify** - Ограниченная полезность вне экосистемы Shopify
 
-## 🆚 Competitive Comparison vs Elly Analytics
+## 🆚 Конкурентное сравнение с Elly Analytics
 
-### Triple Whale Advantages
-1. **Self-Service Model** - Quick setup, no integration services needed
-2. **AI Automation Catalog** - Pre-built workflows and agents
-3. **Ecommerce Specialization** - Purpose-built for product sales
-4. **Freemium Entry** - Lower barrier to entry
-5. **Shopify Integration** - Native, seamless Shopify experience
-6. **Scale & Traction** - 30,000+ brands, significant funding
+### Преимущества Triple Whale
+1. **Модель самообслуживания** - Быстрая настройка, не нужны услуги интеграции
+2. **Каталог ИИ-автоматизаций** - Готовые рабочие процессы и агенты
+3. **Специализация на Ecommerce** - Специально создано для продаж продуктов
+4. **Freemium вход** - Низкий барьер для входа
+5. **Интеграция с Shopify** - Нативный, бесшовный опыт Shopify
+6. **Масштаб и трекшн** - 30,000+ брендов, значительное финансирование
 
-### Triple Whale Disadvantages
-1. **Limited to Ecommerce** - Data model doesn't work for lead generation
-2. **Shopify Dependency** - 99% focused on single platform
-3. **Self-Service Limitations** - Less customization and support
-4. **No Lead-Gen Expertise** - Can't handle complex B2B attribution
-5. **Template Approach** - Less flexible than custom solutions
+### Недостатки Triple Whale
+1. **Ограничено Ecommerce** - Модель данных не работает для лидогенерации
+2. **Зависимость от Shopify** - 99% сфокусировано на одной платформе
+3. **Ограничения самообслуживания** - Меньше кастомизации и поддержки
+4. **Нет экспертизы в лидгене** - Не может обрабатывать сложную B2B атрибуцию
+5. **Шаблонный подход** - Менее гибкий, чем кастомные решения
 
-### Elly's Competitive Advantages
-1. **Lead Generation Focus** - Built for businesses that generate leads, not just sell products
-2. **Platform Agnostic** - Works with any CRM, not just Shopify
-3. **High-Touch Service** - White-glove integration and ongoing support
-4. **Custom Attribution** - Tailored to specific business models
-5. **B2B Expertise** - Handles complex sales cycles and lead qualification
-6. **Proven Foundation** - Years of attribution expertise before adding AI
+### Конкурентные преимущества Elly
+1. **Фокус на лидогенерации** - Создано для бизнесов, генерирующих лиды, а не просто продающих продукты
+2. **Агностицизм к платформам** - Работает с любой CRM, не только Shopify
+3. **High-Touch сервис** - Интеграция "под ключ" и постоянная поддержка
+4. **Кастомная атрибуция** - Адаптировано под конкретные бизнес-модели
+5. **Экспертиза в B2B** - Обрабатывает сложные циклы продаж и квалификацию лидов
+6. **Проверенный фундамент** - Годы экспертизы в атрибуции перед добавлением ИИ
 
-## 📊 Market Performance
+## 📊 Рыночные показатели
 
-### Growth Metrics
-- **1,400% YoY growth** (as of Series B)
-- **5,000+ brands** generating $14B in sales
-- **30,000+ users** on platform
-- **Strong retention** - High customer satisfaction scores
+### Метрики роста
+- **1,400% рост год к году** (на момент Series B)
+- **5,000+ брендов** генерирующих $14B продаж
+- **30,000+ пользователей** на платформе
+- **Сильное удержание** - Высокие оценки удовлетворенности клиентов
 
-### Customer Feedback (from Shopify App Store)
-**Positive:**
-- "Clean layout, fast, and exactly what you need"
-- "Makes things much more efficient"
-- "Great experience with customer service"
-- "Founders dashboard is the simplest way to track margins, CPA, and ROAS"
+### Отзывы клиентов (из Shopify App Store)
+**Позитивные:**
+- "Чистый интерфейс, быстро, и именно то, что нужно"
+- "Делает вещи намного эффективнее"
+- "Отличный опыт с поддержкой клиентов"
+- "Дашборд основателей - самый простой способ отслеживать маржу, CPA и ROAS"
 
-**Negative:**
-- "New additions to their AI have had some hiccups at the start"
-- Some performance issues mentioned
-- 16% of reviews are 1-star (concerning for a 4.1 average)
-
----
-
-## Template Customization Guide
-
-### Replace All Competitor-Specific Information:
-- **Company Details**: Name, founding date, headquarters, founders, team size
-- **Financial Information**: Funding amounts, investors, valuation data
-- **Product Features**: Platform capabilities, pricing tiers, technical specifications
-- **Market Performance**: Growth metrics, customer feedback, market position
-- **Competitive Analysis**: Advantages, disadvantages, positioning vs your company
-
-### Maintain Analysis Structure:
-- **Keep section organization** for consistency and comprehensive coverage
-- **Preserve analytical depth** with specific metrics and concrete examples
-- **Use [CONFIRMED:] tags** to indicate source verification for key claims
-- **Include both positive and negative aspects** for balanced analysis
-
-### Research Best Practices:
-- **Comprehensive Sources**: Company websites, funding databases, customer reviews, press releases
-- **Verification**: Mark confirmed vs estimated information
-- **Recent Data**: Include research date and update regularly
-- **Competitive Positioning**: Focus on differentiation opportunities
-- **Strategic Assessment**: Include bottom-line implications for your strategy
-
-### Integration with Strategy:
-- **Reference in competitive summary** documents
-- **Use for positioning decisions** and strategic planning
-- **Update regularly** as competitor landscape evolves
-- **Coordinate with product strategy** and market positioning
+**Негативные:**
+- "Новые добавления в их ИИ имели некоторые сбои в начале"
+- "Упоминаются некоторые проблемы с производительностью"
+- "16% отзывов - 1 звезда (тревожно для среднего 4.1)"
 
 ---
 
-*This analysis provides factual information about Triple Whale as a competitor in the ecommerce analytics space. Data collected from public sources including Shopify App Store, funding databases, and company websites.*
+## Руководство по кастомизации шаблона
 
-[LAST UPDATED: May 2025 - TEMPLATE EXAMPLE] 
+### Замените всю информацию, специфичную для конкурента:
+- **Детали компании**: Название, дата основания, штаб-квартира, основатели, размер команды
+- **Финансовая информация**: Суммы финансирования, инвесторы, данные об оценке
+- **Функции продукта**: Возможности платформы, уровни цен, технические спецификации
+- **Рыночные показатели**: Метрики роста, отзывы клиентов, рыночная позиция
+- **Анализ конкурентов**: Преимущества, недостатки, позиционирование против вашей компании
+
+### Сохраняйте структуру анализа:
+- **Сохраняйте организацию разделов** для последовательности и полного охвата
+- **Сохраняйте аналитическую глубину** с конкретными метриками и примерами
+- **Используйте теги [ПОДТВЕРЖДЕНО:]** для указания верификации источников ключевых утверждений
+- **Включайте как позитивные, так и негативные аспекты** для сбалансированного анализа
+
+### Лучшие практики исследования:
+- **Комплексные источники**: Веб-сайты компаний, базы данных финансирования, отзывы клиентов, пресс-релизы
+- **Верификация**: Отмечайте подтвержденную vs оценочную информацию
+- **Свежие данные**: Включайте дату исследования и регулярно обновляйте
+- **Конкурентное позиционирование**: Фокусируйтесь на возможностях дифференциации
+- **Стратегическая оценка**: Включайте последствия для вашей стратегии
+
+### Интеграция со стратегией:
+- **Ссылайтесь в сводных документах** по конкурентам
+- **Используйте для решений по позиционированию** и стратегического планирования
+- **Обновляйте регулярно** по мере эволюции конкурентного ландшафта
+- **Координируйте с продуктовой стратегией** и рыночным позиционированием
+
+---
+
+*Этот анализ предоставляет фактическую информацию о Triple Whale как конкуренте в пространстве ecommerce аналитики. Данные собраны из публичных источников, включая Shopify App Store, базы данных финансирования и веб-сайты компаний.*
+
+[ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ: Май 2025 - ПРИМЕР ШАБЛОНА]

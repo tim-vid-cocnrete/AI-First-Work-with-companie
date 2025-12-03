@@ -1,263 +1,263 @@
-# User Comprehension Test Analysis - [PRODUCT NAME]
+# Анализ Теста Пользовательского Понимания - [PRODUCT NAME]
 
-## Quick Checklist for Interview
+## Быстрый Чеклист для Интервью
 
-### Main Questions (for note-taker):
-- What do you think [PRODUCT NAME] does?
-- What main problems does this product solve?
-- Who is this product intended for?
-- How do you understand the phrase "full-funnel automation rules"?
-- What platforms does [PRODUCT NAME] support?
-- What main benefits do you see from using [PRODUCT NAME]?
-- How realistic does "automating 90% of manual work" sound?
-- How does [PRODUCT NAME] differ from other automation tools?
-- How much do you trust the claims about [PRODUCT NAME]'s capabilities?
-- Which of the three use cases seem most realistic to you?
-- What first impression did the landing page make on you?
-- Which of the described problems are familiar to you from experience?
-- Would you like to try [PRODUCT NAME]?
-- How attractive is the "Join the Waitlist" button?
-- What prevents you from registering right now?
-- On a scale of 1 to 10, how convincing does the landing page seem to you?
-- Would you recommend [PRODUCT NAME] to colleagues based on this landing page?
-
----
-
-## Participant Information
-
-**Test Date:** [DATE]
-**Participant:** [NAME]
-**Role:** [POSITION]
-**Company:** [COMPANY]
-**Team Size:** [NUMBER OF PEOPLE]
-**Experience in performance marketing:** [YEARS]
-
-**Interviewer:** [NAME]
-**Interview Duration:** [TIME]
+### Основные Вопросы (для ноут-тейкера):
+- Как вы думаете, что делает [PRODUCT NAME]?
+- Какие основные проблемы решает этот продукт?
+- Для кого предназначен этот продукт?
+- Как вы понимаете фразу "правила автоматизации полной воронки"?
+- Какие платформы поддерживает [PRODUCT NAME]?
+- Какие основные преимущества вы видите от использования [PRODUCT NAME]?
+- Насколько реалистично звучит "автоматизация 90% ручной работы"?
+- Чем [PRODUCT NAME] отличается от других инструментов автоматизации?
+- Насколько вы доверяете заявлениям о возможностях [PRODUCT NAME]?
+- Какой из трех юзкейсов кажется вам наиболее реалистичным?
+- Какое первое впечатление произвел на вас лендинг?
+- Какие из описанных проблем знакомы вам из опыта?
+- Хотели бы вы попробовать [PRODUCT NAME]?
+- Насколько привлекательна кнопка "Присоединиться к Листу Ожидания"?
+- Что мешает вам зарегистрироваться прямо сейчас?
+- По шкале от 1 до 10, насколько убедительным кажется вам лендинг?
+- Порекомендовали бы вы [PRODUCT NAME] коллегам на основе этого лендинга?
 
 ---
 
-## 1. Questions from Note-taker
+## Информация об Участнике
 
-### Main questions that were asked:
-```
-[LIST OF QUESTIONS FROM NOTE-TAKER]
-```
+**Дата Теста:** [ДАТА]
+**Участник:** [ИМЯ]
+**Роль:** [ДОЛЖНОСТЬ]
+**Компания:** [КОМПАНИЯ]
+**Размер Команды:** [КОЛИЧЕСТВО ЧЕЛОВЕК]
+**Опыт в performance маркетинге:** [ЛЕТ]
 
-### Key participant responses:
-```
-[MAIN ANSWERS TO QUESTIONS]
-```
+**Интервьюер:** [ИМЯ]
+**Длительность Интервью:** [ВРЕМЯ]
 
 ---
 
-## 2. Transcript Analysis
+## 1. Вопросы от Ноут-тейкера
 
-### 2.1 Transcript 1 (source: [SPECIFY SOURCE])
+### Основные вопросы, которые были заданы:
 ```
-[FULL TRANSCRIPT OR LINK TO FILE]
-```
-
-### 2.2 Transcript 2 (source: [SPECIFY SOURCE])
-```
-[FULL TRANSCRIPT OR LINK TO FILE]
+[СПИСОК ВОПРОСОВ ОТ НОУТ-ТЕЙКЕРА]
 ```
 
-### 2.3 Comparison and Selection of Best Transcript
-
-**Transcript 1 Quality:**
-- Accuracy: [SCORE 1-10]
-- Completeness: [SCORE 1-10]
-- Readability: [SCORE 1-10]
-
-**Transcript 2 Quality:**
-- Accuracy: [SCORE 1-10]
-- Completeness: [SCORE 1-10]
-- Readability: [SCORE 1-10]
-
-**Selected Transcript:** [TRANSCRIPT 1/2]
-**Selection Reason:**
+### Ключевые ответы участника:
 ```
-[EXPLANATION WHY THIS TRANSCRIPT WAS CHOSEN]
-```
-
-**Corrections and additions to selected transcript:**
-```
-[WHAT NEEDS TO BE CORRECTED/ADDED]
+[ОСНОВНЫЕ ОТВЕТЫ НА ВОПРОСЫ]
 ```
 
 ---
 
-## 3. Interviewer's Personal Observations
+## 2. Анализ Транскрипта
 
-### 3.1 Participant's Emotional Reaction
+### 2.1 Транскрипт 1 (источник: [УКАЗАТЬ ИСТОЧНИК])
 ```
-[OBSERVATIONS ABOUT EMOTIONAL REACTION]
-```
-
-### 3.2 Non-verbal Signals
-```
-[GESTURES, FACIAL EXPRESSIONS, TONE OF VOICE]
+[ПОЛНЫЙ ТРАНСКРИПТ ИЛИ ССЫЛКА НА ФАЙЛ]
 ```
 
-### 3.3 Additional Insights (not reflected in transcripts)
+### 2.2 Транскрипт 2 (источник: [УКАЗАТЬ ИСТОЧНИК])
 ```
-[WHAT WAS NOT SAID BUT WAS NOTICEABLE]
-```
-
-### 3.4 Meeting Context and Atmosphere
-```
-[GENERAL ATMOSPHERE, MEETING CONTEXT]
+[ПОЛНЫЙ ТРАНСКРИПТ ИЛИ ССЫЛКА НА ФАЙЛ]
 ```
 
----
+### 2.3 Сравнение и Выбор Лучшего Транскрипта
 
-## 4. Structured Analysis by Blocks
+**Качество Транскрипта 1:**
+- Точность: [ОЦЕНКА 1-10]
+- Полнота: [ОЦЕНКА 1-10]
+- Читаемость: [ОЦЕНКА 1-10]
 
-### 4.1 Product Comprehension
+**Качество Транскрипта 2:**
+- Точность: [ОЦЕНКА 1-10]
+- Полнота: [ОЦЕНКА 1-10]
+- Читаемость: [ОЦЕНКА 1-10]
 
-**What participant understood about [PRODUCT NAME]:**
+**Выбранный Транскрипт:** [ТРАНСКРИПТ 1/2]
+**Причина Выбора:**
 ```
-[BASED ON ALL THREE SOURCES]
-```
-
-**What was unclear:**
-```
-[COMPREHENSION PROBLEMS]
-```
-
-**Technical understanding:**
-```
-[UNDERSTANDING OF TECHNICAL ASPECTS]
+[ОБЪЯСНЕНИЕ ПОЧЕМУ ВЫБРАН ЭТОТ ТРАНСКРИПТ]
 ```
 
-### 4.2 Value Proposition
-
-**Perceived benefits:**
+**Исправления и дополнения к выбранному транскрипту:**
 ```
-[WHAT BENEFITS WERE UNDERSTOOD]
-```
-
-**Argument persuasiveness:**
-```
-[HOW CONVINCING THE ARGUMENTS SEEMED]
-```
-
-**Promise realism:**
-```
-[HOW REALISTIC THE PROMISES SEEMED]
-```
-
-### 4.3 Trust & Credibility
-
-**Trust level:**
-```
-[HOW MUCH THE PARTICIPANT TRUSTED THE CLAIMS]
-```
-
-**Doubts and questions:**
-```
-[WHAT DOUBTS AROSE]
-```
-
-**Technical expertise:**
-```
-[PERCEPTION OF TECHNICAL EXPERTISE]
-```
-
-### 4.4 Emotional Response
-
-**First impression:**
-```
-[FIRST IMPRESSION OF LANDING PAGE]
-```
-
-**Connection to pain points:**
-```
-[HOW THE LANDING PAGE MATCHED PARTICIPANT'S PAIN POINTS]
-```
-
-**Desire to try:**
-```
-[READINESS FOR ACTION]
-```
-
-### 4.5 Call-to-Action
-
-**CTA effectiveness:**
-```
-[HOW EFFECTIVE THE "JOIN THE WAITLIST" BUTTON IS]
-```
-
-**Registration barriers:**
-```
-[WHAT PREVENTS REGISTRATION]
-```
-
-**Waitlist expectations:**
-```
-[WHAT THE PARTICIPANT EXPECTS FROM WAITLIST]
+[ЧТО НУЖНО ИСПРАВИТЬ/ДОБАВИТЬ]
 ```
 
 ---
 
-## 5. Key Insights
+## 3. Личные Наблюдения Интервьюера
 
-### 5.1 Positive Aspects
+### 3.1 Эмоциональная Реакция Участника
 ```
-[WHAT WORKS WELL]
-```
-
-### 5.2 Problem Areas
-```
-[WHAT NEEDS TO BE FIXED]
+[НАБЛЮДЕНИЯ ОБ ЭМОЦИОНАЛЬНОЙ РЕАКЦИИ]
 ```
 
-### 5.3 Unexpected Findings
+### 3.2 Невербальные Сигналы
 ```
-[WHAT WAS SURPRISING OR UNEXPECTED]
-```
-
----
-
-## 6. Landing Page Improvement Recommendations
-
-### 6.1 Critical Changes
-```
-[WHAT NEEDS TO BE CHANGED FIRST]
+[ЖЕСТЫ, МИМИКА, ТОН ГОЛОСА]
 ```
 
-### 6.2 Medium Priority Improvements
+### 3.3 Дополнительные Инсайты (не отраженные в транскриптах)
 ```
-[WHAT CAN BE IMPROVED]
+[ЧТО НЕ БЫЛО СКАЗАНО, НО БЫЛО ЗАМЕТНО]
 ```
 
-### 6.3 Additional Materials
+### 3.4 Контекст и Атмосфера Встречи
 ```
-[WHAT ADDITIONAL MATERIALS ARE NEEDED]
+[ОБЩАЯ АТМОСФЕРА, КОНТЕКСТ ВСТРЕЧИ]
 ```
 
 ---
 
-## 7. Registration Readiness Assessment
+## 4. Структурированный Анализ по Блокам
 
-**Overall readiness:** [SCORE 1-10]
-**Registration probability:** [HIGH/MEDIUM/LOW]
-**Main decision factors:**
+### 4.1 Понимание Продукта
+
+**Что участник понял о [PRODUCT NAME]:**
 ```
-[WHAT INFLUENCES THE DECISION]
+[НА ОСНОВЕ ВСЕХ ТРЕХ ИСТОЧНИКОВ]
+```
+
+**Что было непонятно:**
+```
+[ПРОБЛЕМЫ ПОНИМАНИЯ]
+```
+
+**Техническое понимание:**
+```
+[ПОНИМАНИЕ ТЕХНИЧЕСКИХ АСПЕКТОВ]
+```
+
+### 4.2 Ценностное Предложение
+
+**Воспринимаемые преимущества:**
+```
+[КАКИЕ ПРЕИМУЩЕСТВА БЫЛИ ПОНЯТЫ]
+```
+
+**Убедительность аргументов:**
+```
+[НАСКОЛЬКО УБЕДИТЕЛЬНЫМИ ПОКАЗАЛИСЬ АРГУМЕНТЫ]
+```
+
+**Реалистичность обещаний:**
+```
+[НАСКОЛЬКО РЕАЛИСТИЧНЫМИ ПОКАЗАЛИСЬ ОБЕЩАНИЯ]
+```
+
+### 4.3 Доверие и Надежность
+
+**Уровень доверия:**
+```
+[НАСКОЛЬКО УЧАСТНИК ПОВЕРИЛ ЗАЯВЛЕНИЯМ]
+```
+
+**Сомнения и вопросы:**
+```
+[КАКИЕ СОМНЕНИЯ ВОЗНИКЛИ]
+```
+
+**Техническая экспертиза:**
+```
+[ВОСПРИЯТИЕ ТЕХНИЧЕСКОЙ ЭКСПЕРТИЗЫ]
+```
+
+### 4.4 Эмоциональный Отклик
+
+**Первое впечатление:**
+```
+[ПЕРВОЕ ВПЕЧАТЛЕНИЕ ОТ ЛЕНДИНГА]
+```
+
+**Связь с болевыми точками:**
+```
+[КАК ЛЕНДИНГ ПОПАЛ В БОЛИ УЧАСТНИКА]
+```
+
+**Желание попробовать:**
+```
+[ГОТОВНОСТЬ К ДЕЙСТВИЮ]
+```
+
+### 4.5 Призыв к Действию (Call-to-Action)
+
+**Эффективность CTA:**
+```
+[НАСКОЛЬКО ЭФФЕКТИВНА КНОПКА "ПРИСОЕДИНИТЬСЯ К ЛИСТУ ОЖИДАНИЯ"]
+```
+
+**Барьеры регистрации:**
+```
+[ЧТО МЕШАЕТ РЕГИСТРАЦИИ]
+```
+
+**Ожидания от листа ожидания:**
+```
+[ЧТО УЧАСТНИК ОЖИДАЕТ ОТ ЛИСТА ОЖИДАНИЯ]
 ```
 
 ---
 
-## 8. Comparison with Success Criteria
+## 5. Ключевые Инсайты
 
-- **Understanding:** [YES/NO] - [EXPLANATION]
-- **Value:** [YES/NO] - [EXPLANATION]  
-- **Trust:** [YES/NO] - [EXPLANATION]
-- **Action:** [YES/NO] - [EXPLANATION]
+### 5.1 Позитивные Аспекты
+```
+[ЧТО РАБОТАЕТ ХОРОШО]
+```
+
+### 5.2 Проблемные Зоны
+```
+[ЧТО НУЖНО ИСПРАВИТЬ]
+```
+
+### 5.3 Неожиданные Находки
+```
+[ЧТО УДИВИЛО ИЛИ БЫЛО НЕОЖИДАННЫМ]
+```
 
 ---
 
-**Analysis Creation Date:** [DATE]
-**Analysis Time:** [TIME]
+## 6. Рекомендации по Улучшению Лендинга
+
+### 6.1 Критические Изменения
+```
+[ЧТО НУЖНО ИЗМЕНИТЬ В ПЕРВУЮ ОЧЕРЕДЬ]
+```
+
+### 6.2 Улучшения Средней Приоритетности
+```
+[ЧТО МОЖНО УЛУЧШИТЬ]
+```
+
+### 6.3 Дополнительные Материалы
+```
+[КАКИЕ ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ НУЖНЫ]
+```
+
+---
+
+## 7. Оценка Готовности к Регистрации
+
+**Общая готовность:** [ОЦЕНКА 1-10]
+**Вероятность регистрации:** [ВЫСОКАЯ/СРЕДНЯЯ/НИЗКАЯ]
+**Основные факторы решения:**
+```
+[ЧТО ВЛИЯЕТ НА РЕШЕНИЕ]
+```
+
+---
+
+## 8. Сравнение с Критериями Успеха
+
+- **Понимание:** [ДА/НЕТ] - [ОБЪЯСНЕНИЕ]
+- **Ценность:** [ДА/НЕТ] - [ОБЪЯСНЕНИЕ]
+- **Доверие:** [ДА/НЕТ] - [ОБЪЯСНЕНИЕ]
+- **Действие:** [ДА/НЕТ] - [ОБЪЯСНЕНИЕ]
+
+---
+
+**Дата Создания Анализа:** [ДАТА]
+**Время Анализа:** [ВРЕМЯ]

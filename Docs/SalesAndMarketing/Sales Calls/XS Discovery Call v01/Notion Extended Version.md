@@ -1,70 +1,68 @@
-# Automated Sales Meeting Analysis
-**Client:** XS Discovery Call  
-**Version:** Demo  
-**Generated:** 2025-08-18 09:54:39  
-**Workspace:** Personal-Super-Agent  
-**Meeting ID:** 01K1ZF3FGSY686JHZV0QSFG57K  
-**Template:** prompt_notion  
-**Meeting URL:** https://app.fireflies.ai/view/Elly-Analytics-XS-discovery-call::01K1ZF3FGSY686JHZV0QSFG57K
+# Автоматизированный Анализ Встречи Продаж
+**Клиент:** XS Discovery Call
+**Версия:** Демо
+**Сгенерировано:** 2025-08-18 09:54:39
+**Рабочее пространство:** Personal-Super-Agent
+**ID Встречи:** 01K1ZF3FGSY686JHZV0QSFG57K
+**Шаблон:** prompt_notion
+**URL Встречи:** https://app.fireflies.ai/view/Elly-Analytics-XS-discovery-call::01K1ZF3FGSY686JHZV0QSFG57K
 
 ---
 
+# 📌 Краткое Саммари
 
-# 📌 Short Summary
+**Информация о Лиде**
+- **Источник Лида:** Входящий
+- **🚀 Следующий Шаг:** Встреча запланирована: Да - 22 Янв, 2024 14:00
+- **👤 Роль Контакта:** VP of Marketing
+- **👤 Тип Бизнеса:** B2C SaaS
+- **💸 Расходы на Рекламу и Каналы:** $50K ежемесячно - Google Ads, Facebook
+- **🎯 Статус ЛПР:** Да - имеет бюджетные полномочия
+- **🎯 Соответствие ICP:** Да - B2C SaaS с моделью подписки
 
-**Lead Information**
-- **Lead Source:** Inbound
-- **🚀 Next Step:** Meeting scheduled: Yes - Jan 22, 2024 2:00 PM
-- **👤 Contact Role:** VP of Marketing
-- **👤 Business Type:** B2C SaaS
-- **💸 Ad Spend & Channels:** $50K monthly - Google Ads, Facebook
-- **🎯 Decision-Maker Status:** Yes - has budget authority
-- **🎯 ICP Fit:** Yes - B2C SaaS with subscription model
+**💬 Уровень Вовлеченности Клиента:** 8 вопросов задано
 
-**💬 Client Engagement Level:** 8 questions asked
+**✨ Ключевые Позитивные Реакции:**
+- "Это именно то, что мы искали"
+- "Калькулятор ROI выглядит очень многообещающе"
+- "Ваша модель атрибуции имеет полный смысл"
 
-**✨ Key Positive Reactions:**
-- "This is exactly what we've been looking for"
-- "The ROI calculator looks very promising"
-- "Your attribution model makes perfect sense"
+**⚡ Основные Болевые Точки:**
+- Невозможно отследить полный путь клиента
+- Пробелы в атрибуции, вызывающие неправильное распределение бюджета
+- Ручная отчетность, занимающая 10+ часов еженедельно
 
-**⚡ Main Pain Points:**
-- Cannot track full customer journey
-- Attribution gaps causing budget misallocation
-- Manual reporting consuming 10+ hours weekly
+**🚧 Ключевые Возражения:**
+- "Как это сравнится с Google Analytics?"
+- "Опасения по срокам внедрения"
+- "Сложность интеграции с существующим стеком"
 
-**🚧 Key Objections:**
-- "How does this compare to Google Analytics?"
-- "Implementation timeline concerns"
-- "Integration complexity with existing stack"
+# 🔍 Детальный Анализ
 
-# 🔍 Detailed Analysis
+## 1. Обзор Компании и Проспекта
+- B2C SaaS бизнес по подписке с сильным ростом
+- VP of Marketing сфокусирован на масштабировании платного привлечения
 
-## 1. Company & Prospect Overview
-- B2C SaaS subscription business with strong growth
-- VP of Marketing focused on scaling paid acquisition
+## 2. Маркетинг и Технический Стек
+- Рекламные Каналы: Google Ads, Facebook Ads
+- CRM/Бэкенд: Salesforce + кастомный бэкенд
+- Расходы на Рекламу: $50K ежемесячный бюджет
+- Текущая Отчетность: Google Analytics + ручные Excel таблицы
 
-## 2. Marketing & Tech Stack
-- Ad Channels: Google Ads, Facebook Ads
-- CRM/Backend: Salesforce + custom backend
-- Ad Spend: $50K monthly budget
-- Current Reporting: Google Analytics + manual Excel sheets
+## 3. Discovery и Q&A
+**Заданные Discovery Вопросы:**
+- Q1: Текущая модель атрибуции → A1: Только по последнему клику, большие пробелы
+- Q2: Частота отчетности → A2: Еженедельные ручные отчеты, очень трудоемко
 
-## 3. Discovery & Q&A
-**Discovery Questions Asked:**
-- Q1: Current attribution model → A1: Last-click only, major gaps
-- Q2: Reporting frequency → A2: Weekly manual reports, very time-consuming
+**Вопросы Клиента:**
+- Q1: Сложность интеграции → Ответ: 2-недельное внедрение типично
+- Q2: Измерение ROI → Ответ: Показано живое демо калькулятора
 
-**Client Questions:**
-- Q1: Integration complexity → Response: 2-week implementation typical
-- Q2: ROI measurement → Response: Showed live calculator demo
-
-## 4. Next Steps
-Demo scheduled for Jan 22, prepare custom ROI analysis
-
+## 4. Следующие Шаги
+Демо запланировано на 22 Янв, подготовить кастомный анализ ROI
 
 ---
 
-*This analysis was generated automatically using the Sales Meeting Processing system.*
-*Session: `XS Discovery Call Demo`*
-*File: `Notion Extended Version.md`*
+*Этот анализ был сгенерирован автоматически, используя систему Обработки Встреч Продаж.*
+*Сессия: `XS Discovery Call Demo`*
+*Файл: `Notion Extended Version.md`*

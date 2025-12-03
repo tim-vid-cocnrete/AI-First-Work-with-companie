@@ -1,75 +1,74 @@
-# General Hiring Policy
+# Общая Политика Найма
 
-*This is a template example. Customize according to your company's specific needs and legal requirements.*
+*Это пример шаблона. Кастомизируйте в соответствии с конкретными потребностями вашей компании и юридическими требованиями.*
 
-## Candidate Sources
+## Источники Кандидатов
 
-We work with diverse candidate attraction sources:
-- Post job openings across various channels (Telegram groups, job marketplaces, job boards, etc.)
-- Receive direct applications through published positions
-- For certain positions, collaborate with external recruiters who generate candidate pipeline
+Мы работаем с различными источниками привлечения кандидатов:
+- Публикация вакансий через различные каналы (Telegram группы, джоб-маркетплейсы, джоб-борды и т.д.)
+- Получение прямых откликов через опубликованные позиции
+- Для определенных позиций, сотрудничество с внешними рекрутерами, которые генерируют пайплайн кандидатов
 
-## Decision-Making Process Participants
+## Участники Процесса Принятия Решений
 
-**Initial Screening Stage** - conducted by internal recruiter:
-- Verification of hard skills alignment based on position requirements
-- Assessment of relevant experience and key competencies
-- English language proficiency evaluation
-- Candidate location verification
+**Этап Первичного Скрининга** - проводится внутренним рекрутером:
+- Проверка соответствия hard skills на основе требований позиции
+- Оценка релевантного опыта и ключевых компетенций
+- Оценка владения английским языком
+- Проверка локации кандидата
 
-**First Interview Stage** - after passing screening:
-- Participants: recruiter and operations manager
-- Company introduction, detailed role description and expectations
-- Detailed candidate profile assessment for role competency alignment
-- Team & culture fit evaluation, salary expectations, role expectations, motivation assessment
+**Этап Первого Интервью** - после прохождения скрининга:
+- Участники: рекрутер и операционный менеджер
+- Презентация компании, детальное описание роли и ожиданий
+- Детальная оценка профиля кандидата на соответствие компетенциям роли
+- Оценка соответствия команде и культуре, зарплатных ожиданий, ожиданий от роли, оценка мотивации
 
-**Subsequent Stages** - depending on position:
-- **For analytical roles**: Technical interview with hiring manager
-- **For project managers**: Take-home assignment and interview
-- **Final interview**: With hiring manager after all stages completion
+**Последующие Этапы** - в зависимости от позиции:
+- **Для аналитических ролей**: Техническое интервью с нанимающим менеджером
+- **Для проектных менеджеров**: Тестовое задание и интервью
+- **Финальное интервью**: С нанимающим менеджером после завершения всех этапов
 
-**Final Decision**: Made after completing all stages
-**Offer Process**: Initiated after decision confirmation
+**Финальное Решение**: Принимается после завершения всех этапов
+**Процесс Оффера**: Инициируется после подтверждения решения
 
-## Candidate Database Management
+## Управление Базой Кандидатов
 
-- All candidate data maintained in ATS system (e.g., HuntFlow)
-- Full confidentiality of personal data maintained
+- Все данные кандидатов ведутся в ATS системе (например, HuntFlow)
+- Поддерживается полная конфиденциальность персональных данных
 
-## Candidate Profile Creation Rules
+## Правила Создания Профиля Кандидата
 
-When creating new candidate profiles through automated agents:
-- Create only folder structure and document templates
-- CV.md and Interview-Transcript.md files must remain empty initially
-- Data input to these files done manually after receipt from candidate
-- Automated candidate evaluation triggers only after manual data completion
+При создании новых профилей кандидатов через автоматизированных агентов:
+- Создавать только структуру папок и шаблоны документов
+- Файлы CV.md и Interview-Transcript.md должны оставаться пустыми изначально
+- Ввод данных в эти файлы производится вручную после получения от кандидата
+- Автоматизированная оценка кандидата триггерится только после ручного заполнения данных
 
-## Expectation-Role Alignment Assessment
+## Оценка Соответствия Ожиданий и Роли
 
-### For Technical Roles
-Throughout all selection stages, assess alignment between candidate expectations and actual job responsibilities:
-- Special attention to balance of technical vs. business tasks in specific role
-- Clear communication of implementation vs. strategy proportion in work
-- Analysis of candidate's career trajectory for movement from technical to business roles
-- Assessment of personal motivations and interests
+### Для Технических Ролей
+На протяжении всех этапов отбора оценивайте соответствие между ожиданиями кандидата и реальными обязанностями:
+- Особое внимание балансу технических vs бизнес задач в конкретной роли
+- Четкая коммуникация пропорции внедрения vs стратегии в работе
+- Анализ карьерной траектории кандидата на предмет движения от технических к бизнес ролям
+- Оценка личных мотиваций и интересов
 
-### Potential Misalignment Indicators
-The following signs require additional attention and candidate discussion:
-- Career history shows consistent movement from technical to more strategic roles
-- Candidate shows heightened interest in business processes and strategy when role is primarily technical
-- Achievement descriptions emphasize business results over technical aspects
-- Frequent mentions of desire to influence product decisions
-- Emphasis on wanting to create new features/capabilities vs. implementing existing requirements
-- Leadership and management tendencies in individual contributor role
+### Индикаторы Потенциального Несоответствия
+Следующие признаки требуют дополнительного внимания и обсуждения с кандидатом:
+- Карьерная история показывает последовательное движение от технических к более стратегическим ролям
+- Кандидат показывает повышенный интерес к бизнес-процессам и стратегии, когда роль преимущественно техническая
+- Описания достижений подчеркивают бизнес-результаты больше, чем технические аспекты
+- Частые упоминания желания влиять на продуктовые решения
+- Акцент на желании создавать новые фичи/возможности vs внедрять существующие требования
+- Лидерские и управленческие тенденции в роли индивидуального контрибьютора
 
-### Actions When Misalignment Identified
-1. Conduct detailed discussion with candidate about actual job content
-2. Document identified misalignments in candidate evaluation
-3. Include discussion of these aspects in subsequent interview stages
-4. For significant misalignments, consider recommending candidate for other company roles
-5. Final candidate evaluation must include analysis of expectation-reality alignment
+### Действия При Выявлении Несоответствия
+1. Провести детальное обсуждение с кандидатом о реальном содержании работы
+2. Задокументировать выявленные несоответствия в оценке кандидата
+3. Включить обсуждение этих аспектов в последующие этапы интервью
+4. При значительных несоответствиях рассмотреть рекомендацию кандидата на другие роли в компании
+5. Финальная оценка кандидата должна включать анализ соответствия ожиданий и реальности
 
 ---
 
-*Template Note: This policy should be adapted to your specific company culture, legal requirements, and hiring processes. Consider local employment laws and industry standards when implementing.*
-
+*Примечание к шаблону: Эта политика должна быть адаптирована к культуре вашей конкретной компании, юридическим требованиям и процессам найма. Учитывайте местные трудовые законы и стандарты индустрии при внедрении.*

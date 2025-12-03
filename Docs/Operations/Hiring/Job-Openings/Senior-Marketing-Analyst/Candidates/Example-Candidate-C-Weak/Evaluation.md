@@ -1,26 +1,26 @@
-# Comprehensive Evaluation
+# Комплексная Оценка
 
-## Technical Skills
-- SQL: [Score/10]
-- Power BI: [Score/10]
-- API Integration: [Score/10]
-- Data Processing: [Score/10]
-- Technical Communication: [Score/10]
+## Технические Навыки
+- SQL: [Оценка/10]
+- Power BI: [Оценка/10]
+- Интеграция API: [Оценка/10]
+- Обработка Данных: [Оценка/10]
+- Техническая Коммуникация: [Оценка/10]
 
 ## Soft Skills
-- Communication: [Score/10]
-- Problem-solving: [Score/10]
-- Client Interaction: [Score/10]
-- Adaptability: [Score/10]
-- Team Fit: [Score/10]
+- Коммуникация: [Оценка/10]
+- Решение Проблем: [Оценка/10]
+- Взаимодействие с Клиентами: [Оценка/10]
+- Адаптивность: [Оценка/10]
+- Соответствие Команде: [Оценка/10]
 
-## Overall Assessment
-[Overall assessment of candidate fit for the role]
+## Общая Оценка
+[Общая оценка соответствия кандидата роли]
 
-## Hiring Recommendation
-- [ ] Strong Hire
-- [ ] Hire
-- [ ] Consider Hiring
-- [ ] Do Not Hire
+## Рекомендация по Найму
+- [ ] Сильный Кандидат (Нанимать)
+- [ ] Нанимать
+- [ ] Рассмотреть
+- [ ] Не Нанимать
 
-[Justification for recommendation]
+[Обоснование рекомендации]

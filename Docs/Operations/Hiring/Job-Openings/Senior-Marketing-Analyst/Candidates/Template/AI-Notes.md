@@ -1,16 +1,16 @@
-# AI Analysis Notes
+# Заметки AI Анализа
 
-## CV Analysis
-[AI analysis of candidate CV]
+## Анализ CV
+[AI анализ CV кандидата]
 
-## Interview Analysis
-[AI analysis of screening interview]
+## Анализ Интервью
+[AI анализ скрининг интервью]
 
-## Technical Skills Assessment
-[AI assessment of technical skills]
+## Оценка Технических Навыков
+[AI оценка технических навыков]
 
-## Cultural Fit Assessment
-[AI assessment of cultural fit]
+## Оценка Культурного Соответствия
+[AI оценка культурного соответствия]
 
-## Recommended Questions for Follow-up
-[List of recommended questions for next interview stage] 
+## Рекомендованные Вопросы для Следующего Этапа
+[Список рекомендованных вопросов для следующего этапа интервью]

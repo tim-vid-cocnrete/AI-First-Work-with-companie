@@ -1,22 +1,22 @@
-# Technical Interview
+# Техническое Интервью
 
-Date: [Date]
-Duration: [Duration]
-VIEW RECORDING: [Recording Link]
+Дата: [Дата]
+Длительность: [Длительность]
+СМОТРЕТЬ ЗАПИСЬ: [Ссылка на Запись]
 
-## Technical Assessment
+## Техническая Оценка
 
-### SQL Skills
-[Assessment of SQL skills]
+### Навыки SQL
+[Оценка навыков SQL]
 
-### Power BI Skills
-[Assessment of Power BI skills]
+### Навыки Power BI
+[Оценка навыков Power BI]
 
-### API Experience
-[Assessment of API experience]
+### Опыт с API
+[Оценка опыта с API]
 
-### Additional Technical Skills
-[Assessment of other relevant technical skills]
+### Дополнительные Технические Навыки
+[Оценка других релевантных технических навыков]
 
-## Overall Technical Evaluation
-[Summary of technical capabilities and fit for the role] 
+## Общая Техническая Оценка
+[Саммари технических способностей и соответствия роли]

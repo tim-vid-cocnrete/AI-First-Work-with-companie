@@ -1,24 +1,24 @@
-# Elly Analytics — Core Product Description (EN, for announcements)
+# Elly Analytics — Описание Основного Продукта (RU, для анонсов)
 
-## Short Bio (for announcements)
-Seva Ustinov — CEO & Co‑Founder of Elly Analytics, end-to-end marketing analytics platform with full-funnel attribution. Creator of the first AI vibe-marketing tool for performance teams that automates 90% of routine performance marketing work.
+## Краткое Био (для анонсов)
+Сева Устинов — CEO & Со-основатель Elly Analytics, платформы сквозной маркетинговой аналитики с атрибуцией полной воронки. Создатель первого AI vibe-marketing инструмента для performance команд, который автоматизирует 90% рутинной работы performance маркетинга.
 
-## Short Positioning
-Elly Analytics is end-to-end marketing analytics that unifies all data sources, surfaces root causes behind revenue changes, and enables data-driven decisions. 30+ clients globally make daily decisions based on real enterprise-level cross-channel data.
+## Краткое Позиционирование
+Elly Analytics — это сквозная маркетинговая аналитика, которая объединяет все источники данных, выявляет первопричины изменений выручки и позволяет принимать решения на основе данных. 30+ клиентов по всему миру ежедневно принимают решения на основе реальных кросс-канальных данных уровня enterprise.
 
-## What Elly does today
-- Full-funnel attribution: every touchpoint connected to final revenue; ROAS/CAC/LTV by channels, campaigns, and creatives.
-- Single source of truth for customer journey: from first click to repeat purchases — one picture of reality for decisions.
-- Offline conversion streaming back to Google/Meta/TikTok etc. to train algorithms on real purchases and qualified leads; ad efficiency increases by 10%+.
-- Universal integrations and fast onboarding: connect CRM, analytics, and backend without "rip-and-replace."
+## Что Elly делает сегодня
+- Атрибуция полной воронки: каждая точка касания связана с финальной выручкой; ROAS/CAC/LTV по каналам, кампаниям и креативам.
+- Единый источник истины для пути клиента: от первого клика до повторных покупок — одна картина реальности для решений.
+- Стриминг оффлайн конверсий обратно в Google/Meta/TikTok и т.д. для обучения алгоритмов на реальных покупках и квалифицированных лидах; эффективность рекламы растет на 10%+.
+- Универсальные интеграции и быстрый онбординг: подключение CRM, аналитики и бэкенда без "сноса и замены".
 
-## Who it's for
-- Companies with lead generation and lead qualification (complex funnels, multiple sources, LTV and long cohorts).
-- Performance marketing leaders and CMOs who need causes and actions, not "another report."
-- Growth teams where test velocity and hypothesis quality matter.
+## Для кого это
+- Компании с лидогенерацией и квалификацией лидов (сложные воронки, множество источников, LTV и длинные когорты).
+- Лидеры performance маркетинга и CMO, которым нужны причины и действия, а не "еще один отчет".
+- Команды роста, где важны скорость тестов и качество гипотез.
 
-## Short Announcement (EN)
-Elly Analytics — end-to-end analytics platform that provides real answers for decisions: why sales changed, where money is leaking, what will drive growth tomorrow. Single source of truth, fast integrations, multi-touch attribution, LTV, and offline conversion streaming back to platforms. Message us — we'll show it on your data.
+## Краткий Анонс (RU)
+Elly Analytics — платформа сквозной аналитики, которая дает реальные ответы для решений: почему изменились продажи, где утекают деньги, что будет драйвить рост завтра. Единый источник истины, быстрые интеграции, мультитач атрибуция, LTV и стриминг оффлайн конверсий обратно в платформы. Пишите нам — мы покажем это на ваших данных.
 
-## Short Bridge to AI Direction
-This is our solid foundation. Next, the team is moving toward a "vibe-marketing" platform: stop looking at dashboards — get answers; launch automations — from recommendations to semi-automated ad management. Goal — automate up to 90% of marketer tasks and increase test velocity and quality. Seva will share details at the end.
+## Краткий Мостик к AI Направлению
+Это наш надежный фундамент. Далее команда движется к платформе "vibe-marketing": хватит смотреть на дашборды — получайте ответы; запускайте автоматизации — от рекомендаций до полуавтоматического управления рекламой. Цель — автоматизировать до 90% задач маркетолога и увеличить скорость и качество тестов. Сева поделится деталями в конце.

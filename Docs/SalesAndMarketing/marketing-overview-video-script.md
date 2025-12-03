@@ -1,93 +1,93 @@
-# Marketing Overview Video Script - Elly Analytics
+# Сценарий Видео Обзора Маркетинга - Elly Analytics
 
-*Source: Internal marketing content | Saved: May 2025*
+*Источник: Внутренний маркетинговый контент | Сохранено: Май 2025*
 
-**Note: This script describes our foundational marketing data platform and the six core problems it solves. We are now building AI performance marketing automation powered by this data platform foundation.**
+**Примечание: Этот сценарий описывает нашу фундаментальную платформу маркетинговых данных и шесть основных проблем, которые она решает. Сейчас мы строим автоматизацию performance маркетинга на базе AI, основанную на этом фундаменте платформы данных.**
 
-## 01. Intro
-Elly is a full-funnel marketing analytics platform made for ad-driven businesses. Created by marketers with over 10 years of experience, Elly was built to answer the question: "How can we get more from our marketing investments?" In this short video, we'll show you how Elly can help you do exactly that.
+## 01. Интро
+Elly — это платформа маркетинговой аналитики полной воронки, созданная для бизнесов, управляемых рекламой. Созданная маркетологами с более чем 10-летним опытом, Elly была построена, чтобы ответить на вопрос: "Как мы можем получить больше от наших маркетинговых инвестиций?" В этом коротком видео мы покажем вам, как Elly может помочь вам сделать именно это.
 
-## 02. Example
-Let's look at an example.
+## 02. Пример
+Давайте посмотрим на пример.
 
-Our total ad budget is $30,000, split across three campaigns. We put most of our budget into the Lead Ads campaign because it brings in 175 leads at $97 each.
+Наш общий рекламный бюджет составляет $30,000, разделенный на три кампании. Мы вкладываем большую часть нашего бюджета в кампанию Lead Ads, потому что она приносит 175 лидов по $97 каждый.
 
-But what if we look at qualified leads?
+Но что, если мы посмотрим на квалифицированные лиды?
 
-We'd find that the Lookalike campaign actually costs less per qualified lead. We shouldn't stop there, though.
+Мы обнаружим, что кампания Lookalike на самом деле стоит меньше за квалифицированный лид. Но мы не должны останавливаться на этом.
 
-If we also consider the revenue each campaign brings in from customers, the Search campaign turns out to be the most profitable.
+Если мы также учтем выручку, которую каждая кампания приносит от клиентов, кампания Search оказывается самой прибыльной.
 
-What if we adjust our budget based on these insights?
+Что, если мы скорректируем наш бюджет на основе этих инсайтов?
 
-We could make an extra $50,000 from the same budget.
+Мы могли бы заработать дополнительные $50,000 с того же бюджета.
 
-Sounds great, right? So why doesn't everyone use this kind of analytics to make more money? Well, it's not that simple. There are a few challenges on the way to full-funnel analytics.
+Звучит здорово, правда? Так почему не все используют такую аналитику, чтобы зарабатывать больше денег? Ну, это не так просто. На пути к аналитике полной воронки есть несколько вызовов.
 
-## 03. Challenge #1: Siloed Data
-Most successful businesses use several channels and a variety of tools to acquire and retain customers: search ads, paid social, display ads, influencer marketing, emails, chats, calls, and more. Each platform has its own reports, and the data is scattered across all of them.
+## 03. Вызов #1: Изолированные Данные
+Большинство успешных бизнесов используют несколько каналов и множество инструментов для привлечения и удержания клиентов: поисковая реклама, платная социальная реклама, дисплейная реклама, инфлюенсер-маркетинг, email, чаты, звонки и многое другое. У каждой платформы свои отчеты, и данные разбросаны по всем ним.
 
-Elly brings together all this data from ad platforms, web and app analytics platforms, marketing automation tools, and combines it with data from your CRM, even if it's custom.
+Elly объединяет все эти данные с рекламных платформ, платформ веб и app аналитики, инструментов автоматизации маркетинга и комбинирует их с данными из вашей CRM, даже если она кастомная.
 
-With Elly, you don't need to worry about data streaming or organizing a data warehouse – it's already taken care of for you.
+С Elly вам не нужно беспокоиться о стриминге данных или организации хранилища данных – об этом уже позаботились за вас.
 
-Elly then turns your data into insights, shown through customizable dashboards and detailed reports tailored to your business goals and your team's needs.
+Затем Elly превращает ваши данные в инсайты, показанные через настраиваемые дашборды и детальные отчеты, адаптированные к вашим бизнес-целям и потребностям вашей команды.
 
-## 04. Challenge #2: Multi-browser, multi-device customer journey
-Another challenge is that not all customers buy right after clicking an ad. Some need more time and touchpoints before they're ready to buy. But tools like Google Analytics treat visits from different devices and browsers as separate 'users', messing up your customer journey map.
+## 04. Вызов #2: Мульти-браузерный, мульти-девайс путь клиента
+Еще один вызов заключается в том, что не все клиенты покупают сразу после клика по рекламе. Некоторым нужно больше времени и точек касания, прежде чем они будут готовы купить. Но инструменты, такие как Google Analytics, рассматривают визиты с разных устройств и браузеров как отдельных 'пользователей', портя вашу карту пути клиента.
 
-By utilizing your first-party customer data, such as phone numbers and email addresses, Elly compiles a complete interaction history in the customer's profile across all browsers and devices where they've identified themselves at least once.
+Используя ваши собственные данные клиентов (first-party data), такие как номера телефонов и email адреса, Elly компилирует полную историю взаимодействий в профиле клиента по всем браузерам и устройствам, где они идентифицировали себя хотя бы раз.
 
-Customer profiles in Elly Analytics not only ensure accurate attribution, but you can also view these profiles in a dedicated report to better understand your customers' journeys.
+Профили клиентов в Elly Analytics не только обеспечивают точную атрибуцию, но вы также можете просматривать эти профили в специальном отчете, чтобы лучше понимать пути ваших клиентов.
 
-## 05. Challenge #3: Attribution
-Full-funnel analytics isn't helpful if most of your leads are attributed to Direct, Email, Organic, or Branded Search campaigns. While these are often the final visits before conversion, they can't be scaled. Simple 'last-click' attribution underestimates paid channels, non-brand campaigns, and influencer marketing due to tracking issues, leading to lower returns and missed revenue from effective marketing efforts.
+## 05. Вызов #3: Атрибуция
+Аналитика полной воронки не полезна, если большинство ваших лидов атрибутируются к Direct, Email, Organic или Branded Search кампаниям. Хотя это часто последние визиты перед конверсией, их нельзя масштабировать. Простая атрибуция по 'последнему клику' недооценивает платные каналы, небрендовые кампании и инфлюенсер-маркетинг из-за проблем с отслеживанием, что ведет к более низким возвратам и упущенной выручке от эффективных маркетинговых усилий.
 
-By mapping the entire customer journey and using advanced attribution tailored to your business, Elly significantly improves the accuracy of attribution.
+Картируя весь путь клиента и используя продвинутую атрибуцию, адаптированную к вашему бизнесу, Elly значительно улучшает точность атрибуции.
 
-With Elly Analytics, you can use several attribution models, all customized to your business, and switch between them in reports to get a full view of your marketing performance.
+С Elly Analytics вы можете использовать несколько моделей атрибуции, все настроенные под ваш бизнес, и переключаться между ними в отчетах, чтобы получить полное представление о вашей маркетинговой эффективности.
 
-## 06. Challenge #4: Delayed data on results
-Another challenge is when sales happen much later than the initial click, or there's a long tail of recurring revenue, like in subscription-based businesses or those with lots of repeat purchases. In these cases, it's tough to tell right away if your ads are profitable, making it hard to optimize your campaigns.
+## 06. Вызов #4: Задержка данных о результатах
+Еще один вызов — когда продажи происходят намного позже начального клика, или есть длинный хвост регулярной выручки, как в бизнесах по подписке или с большим количеством повторных покупок. В этих случаях трудно сразу сказать, прибыльна ли ваша реклама, что затрудняет оптимизацию кампаний.
 
-To solve this, Elly uses historical data to forecast the value of every new lead. This information shows up in your dashboards and reports, so you don't have to wait weeks or months to see how well your new ads are performing.
+Чтобы решить это, Elly использует исторические данные для прогнозирования ценности каждого нового лида. Эта информация появляется в ваших дашбордах и отчетах, так что вам не нужно ждать недели или месяцы, чтобы увидеть, насколько хорошо работает ваша новая реклама.
 
-In Elly Analytics, you can forecast revenue, LTV, and even margins.
+В Elly Analytics вы можете прогнозировать выручку, LTV и даже маржу.
 
-## 07. Challenge #5: Manual ad optimization
-Even when you have all the data, manually optimizing campaigns is a lot of work. The good news is that ad platforms have optimization algorithms that can do this for you. Just remember, they work best when they get results shortly after the ad click.
+## 07. Вызов #5: Ручная оптимизация рекламы
+Даже когда у вас есть все данные, ручная оптимизация кампаний — это много работы. Хорошая новость в том, что у рекламных платформ есть алгоритмы оптимизации, которые могут делать это за вас. Просто помните, они работают лучше всего, когда получают результаты вскоре после клика по рекламе.
 
-Elly can send leads with a good revenue forecast back to ad platforms as conversions. This helps train their algorithms to optimize ads for leads with the highest potential value.
+Elly может отправлять лиды с хорошим прогнозом выручки обратно в рекламные платформы как конверсии. Это помогает обучать их алгоритмы оптимизировать рекламу для лидов с наивысшей потенциальной ценностью.
 
-We call this feature 'Autopilot' because it lets you move from manually managing budgets and bids to letting the ad platforms handle it.
+Мы называем эту функцию 'Автопилот', потому что она позволяет вам перейти от ручного управления бюджетами и ставками к тому, чтобы позволить рекламным платформам справляться с этим.
 
-## 08. Challenge #6: Complexity
-After hearing about all these complications and challenges, you might think that full-funnel analytics is too much to handle. But with Elly Analytics, it's simple. Just add one line of code to your website and grant Elly access to your data sources. Elly's team of marketing data engineers and analysts takes care of the rest. They handle data collection and integration and ensure that your dashboards are accurate for decision-making.
+## 08. Вызов #6: Сложность
+Услышав обо всех этих сложностях и вызовах, вы можете подумать, что аналитика полной воронки — это слишком сложно. Но с Elly Analytics это просто. Просто добавьте одну строку кода на ваш сайт и предоставьте Elly доступ к вашим источникам данных. Команда инженеров маркетинговых данных и аналитиков Elly позаботится об остальном. Они занимаются сбором и интеграцией данных и гарантируют, что ваши дашборды точны для принятия решений.
 
-After setup, Elly's team continues to offer support and advice through regular check-in calls.
+После настройки команда Elly продолжает предлагать поддержку и советы через регулярные звонки-чекины.
 
-## 09. Summary
-Let's wrap things up. If you want to scale your marketing efficiently to make more money, you need to see the whole picture, from ads to lifetime revenue. But getting that full-funnel analytics can be challenging. The good news is that Elly Analytics handles all these challenges for you:
+## 09. Саммари
+Давайте подведем итоги. Если вы хотите эффективно масштабировать свой маркетинг, чтобы зарабатывать больше денег, вам нужно видеть всю картину, от рекламы до пожизненной выручки. Но получение такой аналитики полной воронки может быть сложным. Хорошая новость в том, что Elly Analytics справляется со всеми этими вызовами за вас:
 
-- Brings all your data together in one place, giving you a single source of truth with actionable dashboards.
-- Creates complete customer profiles, even for journeys across multiple devices.
-- Uses advanced attribution to uncover the true sources of your most valuable customers.
-- Forecasts the lifetime value of each new lead and sends only high-value leads back to ad platforms through Autopilot.
-- Ensures reliable data for better decision-making and provides ongoing expert support for any of your questions.
+- Объединяет все ваши данные в одном месте, давая вам единый источник истины с действенными дашбордами.
+- Создает полные профили клиентов, даже для путей через несколько устройств.
+- Использует продвинутую атрибуцию, чтобы раскрыть истинные источники ваших самых ценных клиентов.
+- Прогнозирует пожизненную ценность каждого нового лида и отправляет только высокоценные лиды обратно в рекламные платформы через Автопилот.
+- Обеспечивает надежные данные для лучшего принятия решений и предоставляет постоянную экспертную поддержку по любым вашим вопросам.
 
-## 10. Call to Action
-You can learn more about using full-funnel marketing analytics to achieve sustainable business growth in our Knowledge Base. You'll find the links along with this video.
+## 10. Призыв к Действию
+Вы можете узнать больше об использовании маркетинговой аналитики полной воронки для достижения устойчивого роста бизнеса в нашей Базе Знаний. Вы найдете ссылки вместе с этим видео.
 
 ---
 
-## Evolution to AI Automation Platform
+## Эволюция в Платформу AI Автоматизации
 
-**Current State (2025):** This video script represents our foundational data platform that solves the six core challenges in marketing analytics. We have successfully built this infrastructure and are now leveraging it to power our next evolution.
+**Текущее Состояние (2025):** Этот сценарий видео представляет нашу фундаментальную платформу данных, которая решает шесть основных проблем в маркетинговой аналитике. Мы успешно построили эту инфраструктуру и теперь используем ее для питания нашей следующей эволюции.
 
-**Next Phase:** AI Performance Marketing Automation
-- **Foundation:** The robust data platform described above
-- **Innovation:** Natural language interface for campaign optimization
-- **Vision:** "Cursor for performance marketing" - marketers type commands, AI executes
-- **Example:** "Stop ad sets with 0d ROAS < 50% over last 3 days" → AI automatically pauses underperforming ads
+**Следующая Фаза:** Автоматизация Performance Маркетинга на базе AI
+- **Фундамент:** Надежная платформа данных, описанная выше
+- **Инновация:** Интерфейс на естественном языке для оптимизации кампаний
+- **Видение:** "Cursor для performance маркетинга" - маркетологи печатают команды, AI выполняет
+- **Пример:** "Останови группы объявлений с 0d ROAS < 50% за последние 3 дня" → AI автоматически ставит на паузу неэффективную рекламу
 
-*This script can be used for video production, sales presentations, or adapted for other marketing materials. It demonstrates our proven foundation before introducing AI capabilities.* 
+*Этот сценарий может быть использован для видеопродакшена, презентаций продаж или адаптирован для других маркетинговых материалов. Он демонстрирует наш проверенный фундамент перед внедрением возможностей AI.*

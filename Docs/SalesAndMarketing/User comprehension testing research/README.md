@@ -1,111 +1,111 @@
-# User Comprehension Testing for Landing Page
+# Тестирование Пользовательского Понимания для Лендинга
 
-## Simplified Structure
+## Упрощенная Структура
 
-We now have **only two files** for the entire process:
+Теперь у нас есть **только два файла** для всего процесса:
 
-1. **`corridor-test-questions.md`** - complete list of questions (for copying to note-taker)
-2. **`corridor-test-analysis-template.md`** - analysis template with quick checklist + full analysis
+1. **`corridor-test-questions.md`** - полный список вопросов (для копирования ноут-тейкеру)
+2. **`corridor-test-analysis-template.md`** - шаблон анализа с быстрым чеклистом + полный анализ
 
-## Folder Structure
+## Структура Папок
 
-Each test is saved in a separate file with the name format:
+Каждый тест сохраняется в отдельном файле с форматом имени:
 
 ```
 corridor-test-analysis-[NAME]-[DATE].md
 ```
 
-Example: `corridor-test-analysis-john-smith-2025-01-15.md`
+Пример: `corridor-test-analysis-john-smith-2025-01-15.md`
 
-## Workflow Process
+## Процесс Работы
 
-### 1. Interview Preparation
-- Open `corridor-test-analysis-template.md`
-- Copy questions from "Quick Checklist" to note-taker
-- Or use the full list from `corridor-test-questions.md`
+### 1. Подготовка к Интервью
+- Откройте `corridor-test-analysis-template.md`
+- Скопируйте вопросы из "Быстрого Чеклиста" ноут-тейкеру
+- Или используйте полный список из `corridor-test-questions.md`
 
-### 2. Conducting Interview
-- Record the meeting in two ways (e.g., Zoom + Otter.ai)
-- Take notes about personal observations
-- Use questions from note-taker
+### 2. Проведение Интервью
+- Запишите встречу двумя способами (например, Zoom + Otter.ai)
+- Делайте заметки о личных наблюдениях
+- Используйте вопросы от ноут-тейкера
 
-### 3. Data Analysis
-- Copy `corridor-test-analysis-template.md`
-- Rename to format `corridor-test-analysis-[NAME]-[DATE].md`
-- Fill out all sections:
-  - Questions and answers from note-taker
-  - Analysis and comparison of two transcripts
-  - Personal observations from interviewer
-  - Structured analysis by blocks
+### 3. Анализ Данных
+- Скопируйте `corridor-test-analysis-template.md`
+- Переименуйте в формат `corridor-test-analysis-[NAME]-[DATE].md`
+- Заполните все разделы:
+  - Вопросы и ответы от ноут-тейкера
+  - Анализ и сравнение двух транскриптов
+  - Личные наблюдения интервьюера
+  - Структурированный анализ по блокам
 
-## Testing Objective
+## Цель Тестирования
 
-Evaluate the effectiveness of the landing page in conveying the value proposition of [PRODUCT NAME] and convincing the target audience (performance marketing managers, heads of acquisition, CMOs) to join the waitlist.
+Оценить эффективность лендинга в донесении ценностного предложения [PRODUCT NAME] и убеждении целевой аудитории (менеджеры по performance маркетингу, руководители по привлечению, CMO) присоединиться к листу ожидания.
 
-## Success Criteria
+## Критерии Успеха
 
-- **Understanding:** 80%+ participants correctly understand the main function
-- **Value:** 70%+ see clear value for their work  
-- **Trust:** 60%+ trust the claims about capabilities
-- **Action:** 50%+ ready to join the waitlist
+- **Понимание:** 80%+ участников правильно понимают основную функцию
+- **Ценность:** 70%+ видят четкую ценность для своей работы
+- **Доверие:** 60%+ доверяют заявлениям о возможностях
+- **Действие:** 50%+ готовы присоединиться к листу ожидания
 
-## Target Audience
+## Целевая Аудитория
 
-### Primary
-- Performance Marketing Managers
-- Heads of Acquisition / Growth
-- CMOs & Marketing Directors
+### Основная
+- Менеджеры по Performance Маркетингу
+- Руководители по Привлечению / Росту (Heads of Acquisition / Growth)
+- CMO и Маркетинг Директора
 
-### Secondary  
-- Marketing Directors
-- Growth Managers
-- Digital Marketing Specialists
+### Вторичная
+- Маркетинг Директора
+- Менеджеры по Росту
+- Специалисты по Цифровому Маркетингу
 
-## Methodology
+## Методология
 
-- **Duration:** 15-20 minutes per person
-- **Method:** Personal interviews or video calls
-- **Materials:** Landing page in final version (prototype or screenshots)
-- **Number of participants:** 8-12 people from target audience
-- **Recording:** Two methods for better transcript quality
+- **Длительность:** 15-20 минут на человека
+- **Метод:** Личные интервью или видеозвонки
+- **Материалы:** Лендинг в финальной версии (прототип или скриншоты)
+- **Количество участников:** 8-12 человек из целевой аудитории
+- **Запись:** Два метода для лучшего качества транскрипта
 
-## Analysis Structure
+## Структура Анализа
 
-Each analysis contains:
+Каждый анализ содержит:
 
-1. **Quick checklist** - main questions for interview
-2. **Participant information** - role, experience, company
-3. **Questions from Note-taker** - main questions and answers
-4. **Transcript analysis** - comparison and selection of best one
-5. **Personal observations** - emotional reactions, non-verbal signals
-6. **Structured analysis** - across 5 main blocks
-7. **Key insights** - positive moments, problems, findings
-8. **Recommendations** - for landing page improvement
-9. **Readiness assessment** - for waitlist registration
+1. **Быстрый чеклист** - основные вопросы для интервью
+2. **Информация об участнике** - роль, опыт, компания
+3. **Вопросы от Ноут-тейкера** - основные вопросы и ответы
+4. **Анализ транскрипта** - сравнение и выбор лучшего
+5. **Личные наблюдения** - эмоциональные реакции, невербальные сигналы
+6. **Структурированный анализ** - по 5 основным блокам
+7. **Ключевые инсайты** - позитивные моменты, проблемы, находки
+8. **Рекомендации** - для улучшения лендинга
+9. **Оценка готовности** - к регистрации в листе ожидания
 
-## Results Analysis
+## Анализ Результатов
 
-After conducting all tests, create a summary report with:
+После проведения всех тестов, создайте сводный отчет с:
 
-- Common trends and patterns
-- Key landing page problems
-- Improvement recommendations
-- Statistics on success criteria
+- Общими трендами и паттернами
+- Ключевыми проблемами лендинга
+- Рекомендациями по улучшению
+- Статистикой по критериям успеха
 
-## Files
+## Файлы
 
-- `corridor-test-questions.md` - **complete question list** for reference
-- `corridor-test-analysis-template.md` - **analysis template** with quick checklist
-- `corridor-test-analysis-[NAME]-[DATE].md` - specific test results
-- `summary-report-[DATE].md` - summary report of all tests (created after completion)
+- `corridor-test-questions.md` - **полный список вопросов** для справки
+- `corridor-test-analysis-template.md` - **шаблон анализа** с быстрым чеклистом
+- `corridor-test-analysis-[NAME]-[DATE].md` - результаты конкретного теста
+- `summary-report-[DATE].md` - сводный отчет всех тестов (создается после завершения)
 
-## Benefits of Simplified Structure
+## Преимущества Упрощенной Структуры
 
-1. **Fewer files** - easier to navigate
-2. **All in one place** - checklist + analysis in one file
-3. **Flexibility** - can use quick checklist or full list
-4. **Structure** - clear format for comparing results
+1. **Меньше файлов** - легче навигация
+2. **Все в одном месте** - чеклист + анализ в одном файле
+3. **Гибкость** - можно использовать быстрый чеклист или полный список
+4. **Структура** - понятный формат для сравнения результатов
 
-## Contact
+## Контакты
 
-For questions about conducting tests, contact the marketing team.
+По вопросам проведения тестов обращайтесь к маркетинговой команде.

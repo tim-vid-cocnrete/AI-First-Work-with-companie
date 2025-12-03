@@ -1,9 +1,9 @@
-# Project Status (Working Documents)
+# Статус Проектов (Рабочие Документы)
 
-- Store current project status cards used in demos here.
-- After each demo, manually rollback the card to template.
-- Mandatory anonymization: names → segments, numbers → depersonalized, don't publish negative statuses.
+- Храните текущие карточки статуса проектов, используемые в демо, здесь.
+- После каждого демо вручную откатывайте карточку к шаблону.
+- Обязательная анонимизация: имена → сегменты, числа → деперсонализированы, не публикуйте негативные статусы.
 
-Rollback:
-1) Save demo artifacts (copy if needed)
-2) Replace card content with template
+Откат:
+1) Сохраните артефакты демо (скопируйте при необходимости)
+2) Замените содержимое карточки шаблоном

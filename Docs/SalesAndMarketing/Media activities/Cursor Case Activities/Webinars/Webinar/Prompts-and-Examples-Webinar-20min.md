@@ -1,147 +1,145 @@
-# Cursor as your personal super‑agent — 20‑minute webinar
+# Cursor как ваш персональный супер-агент — 20-минутный вебинар
 
-> Purpose: Script for Seva's webinar at Kumar Solo — Aug 20, 2025
+> Цель: Сценарий для вебинара Севы в Kumar Solo — 20 Авг 2025
 
-## Preparation checklist
+## Чеклист подготовки
 
-- Will be on Zoom: https://us06web.zoom.us/j/6740582267?pwd=ltAbiJBDOApORc1K6erS95ofcroJbi.1&omn=86427861523
-- Share entire laptop screen
-- Remove anything unnecessary from the screen
-- Open a dedicated Comet window with links: Cursor.com (logged out), screenshots starting from Open Folder (https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/tree/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/screenshots), WisprFlow (https://wisprflow.ai/), GitHub SuperAgent (https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/README.md), EllyAnalytics.com (https://ellyanalytics.com/), PowerBI dashboard and report (https://elly.pw/b2csubsdemo), AGI.EllyAnalytics.com (https://agi.ellyanalytics.com/), Telegram channel screenshot (https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/screenshots/telegram-channel-seva.png), course announcement info (https://solokumi.com/course_ninjamarketing)
-- Open Cursor on SuperAgent Ru and pull updates
-- Choose model Sonnet 4
-- Backup if the chat misbehaves — show prepared results: Demo 1 case [“Demo 2 case”](https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/Marketing%20Assets/AI-Projects-Review-Analysis.md)
+- Будет в Zoom: https://us06web.zoom.us/j/6740582267?pwd=ltAbiJBDOApORc1K6erS95ofcroJbi.1&omn=86427861523
+- Шарить весь экран ноутбука
+- Убрать все лишнее с экрана
+- Открыть отдельное окно Comet со ссылками: Cursor.com (разлогинен), скриншоты начиная с Open Folder (https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/tree/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/screenshots), WisprFlow (https://wisprflow.ai/), GitHub SuperAgent (https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/README.md), EllyAnalytics.com (https://ellyanalytics.com/), дашборд и отчет PowerBI (https://elly.pw/b2csubsdemo), AGI.EllyAnalytics.com (https://agi.ellyanalytics.com/), скриншот Telegram канала (https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/screenshots/telegram-channel-seva.png), инфо анонса курса (https://solokumi.com/course_ninjamarketing)
+- Открыть Cursor на SuperAgent Ru и подтянуть обновления
+- Выбрать модель Sonnet 4
+- Бэкап если чат будет вести себя плохо — показать подготовленные результаты: Демо 1 кейс [“Демо 2 кейс”](https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/Marketing%20Assets/AI-Projects-Review-Analysis.md)
 
-Looms Intro sections:
+Looms Интро секции:
 
-**"Video 1 Intro (30-45 seconds)"**:
-"Hi, I'm Seva, founder and CEO of Elly Analytics - an AI-first marketing analytics platform for performance marketers.
-I believe the future belongs to AI-first companies. That's why I chose a tool that completely transformed how I think about building a business and handling both personal and work tasks.
-We're talking about Cursor - and yes, everyone thinks it's just for developers. They're wrong.
-Let me show you one incredible example..."
+**"Видео 1 Интро (30-45 секунд)"**:
+"Привет, я Сева, основатель и CEO Elly Analytics - AI-first платформы маркетинговой аналитики для performance маркетологов.
+Я верю, что будущее принадлежит AI-first компаниям. Поэтому я выбрал инструмент, который полностью трансформировал то, как я думаю о построении бизнеса и выполнении как личных, так и рабочих задач.
+Мы говорим о Cursor - и да, все думают, что это только для разработчиков. Они ошибаются.
+Позвольте мне показать вам один невероятный пример..."
 
-**"Video 2 Intro (45-60 seconds):"**
-"In the first video, I showed you the use case that won over my entire team - product, marketing, operations.
-That was just the beginning.
-Today I'm sharing more use cases, diving deeper into the technical details, and giving you everything you need to start using Cursor like a pro.
-Because here's the thing - while everyone's still thinking Cursor is just a coding tool, smart leaders are already using it to 10x their entire business operations.
-Ready to see how? Let's go..."
+**"Видео 2 Интро (45-60 секунд):"**
+"В первом видео я показал вам юзкейс, который покорил всю мою команду - продукт, маркетинг, операции.
+Это было только начало.
+Сегодня я делюсь большим количеством юзкейсов, погружаюсь глубже в технические детали и даю вам все необходимое, чтобы начать использовать Cursor как профи.
+Потому что вот в чем дело - пока все еще думают, что Cursor это просто инструмент для кодинга, умные лидеры уже используют его, чтобы в 10 раз ускорить все свои бизнес-операции.
+Готовы увидеть как? Поехали..."
 
 
-## Agenda (blocks)
+## Агенда (блоки)
 
-## 1) Intro — ChatGPT is last‑gen (1 min)
+## 1) Интро — ChatGPT это прошлое поколение (1 мин)
 
-- Everyone uses ChatGPT: long threads, context is lost between sessions, copy/paste back and forth; it just answers questions and does one‑step tasks
-- A super‑agent knows the entire context and actually solves tasks
+- Все используют ChatGPT: длинные треды, контекст теряется между сессиями, копипаст туда-сюда; он просто отвечает на вопросы и делает одношаговые задачи
+- Супер-агент знает весь контекст и на самом деле решает задачи
 
-### 2) Live demo “Why better than ChatGPT” + interface walkthrough
+### 2) Лайв демо “Почему лучше чем ChatGPT” + проход по интерфейсу
 
-## 🎯 DEMO 1: Competitor analysis (5 min)
+## 🎯 ДЕМО 1: Анализ конкурентов (5 мин)
 
-Exact prompt from transcript:
+Точный промпт из транскрипта:
 
-> “A new competitor popped up, Icon.ai or icon.com, a service that generates ad creatives. Do a full analysis using our workflow and put it in the right folder.”
+> “Появился новый конкурент, Icon.ai или icon.com, сервис который генерирует рекламные креативы. Сделай полный анализ используя наш воркфлоу и положи его в правильную папку.”
 
-While it runs, explain what’s happening:
+Пока он работает, объяснять что происходит:
 
-- Comment what the chat is doing
-- The workflow is described in Cursor rules (open, show, add more context about rules)
-- Show the result — the created file
-- Bonus: update the Competitor Landscape summary
-- Bonus 2: update the competitor block in executive summary
-- Bonus 3: update cursor rules to check Reddit reviews separately
+- Комментировать что делает чат
+- Воркфлоу описан в правилах Cursor (открыть, показать, добавить больше контекста про правила)
+- Показать результат — созданный файл
+- Бонус: обновить саммари Конкурентного Ландшафта
+- Бонус 2: обновить блок конкурентов в executive summary
+- Бонус 3: обновить правила cursor, чтобы проверять отзывы Reddit отдельно
 
-## 🎯 DEMO 2: Team calls analysis — step by step (5 min)
+## 🎯 ДЕМО 2: Анализ командных звонков — шаг за шагом (5 мин)
 
-### Step 1: Take the transcript and process via template
+### Шаг 1: Взять транскрипт и обработать по шаблону
 
-Prompt:
+Промпт:
 
-> “Take the latest team call transcript from August and update project status cards.”
+> “Возьми последний транскрипт командного звонка за Август и обнови карточки статуса проектов.”
 
-How it works:
-- There’s a script that splits the team call into transcript + per‑project statuses
-- There’s a template used to update a project status
+Как это работает:
+- Есть скрипт, который разбивает командный звонок на транскрипт + статусы по проектам
+- Есть шаблон, используемый для обновления статуса проекта
 
-### Step 2: Create a summary for different purposes
+### Шаг 2: Создать саммари для разных целей
 
-Prompt:
+Промпт:
 
-> “Create a file listing which projects are ready to finish implementation so marketing can collect testimonials.”
+> “Создай файл, перечисляющий, какие проекты готовы завершить внедрение, чтобы маркетинг мог собрать отзывы.”
 
-### Examples — what else to do for marketing:
+### Примеры — что еще сделать для маркетинга:
 
-- Extract repeated client questions from sales and client calls — build a knowledge base
-- Gather positive highlights: what clients noticed about using Elly on calls
-- Find all competitor mentions or comparisons on calls and what clients said
+- Извлечь повторяющиеся вопросы клиентов из звонков продаж и клиентов — построить базу знаний
+- Собрать позитивные хайлайты: что клиенты заметили об использовании Elly на звонках
+- Найти все упоминания конкурентов или сравнения на звонках и что сказали клиенты
 
-Next step: “This entire workflow can be automated.”
+Следующий шаг: “Весь этот воркфлоу может быть автоматизирован.”
 
-## 🚀 Getting started (tabs, screenshots, github, rules) (2 min)
+## 🚀 Начало работы (табы, скриншоты, github, правила) (2 мин)
 
-## Roma asks the chat what people asked ChatGPT last
+## Рома спрашивает чат, что люди спрашивали у ChatGPT последним
 
-## 💬 Interactive with Roma (5 min)
+## 💬 Интерактив с Ромой (5 мин)
 
-### Most impactful scenario (2 min)
+### Самый влиятельный сценарий (2 мин)
 
-Most impactful: We moved our whole knowledge base into Cursor and I can ask how something works — it searches docs, reads code, explains — “how does the retry policy for Google Ads work?”
+Самый влиятельный: Мы перенесли всю нашу базу знаний в Cursor, и я могу спросить, как что-то работает — он ищет доки, читает код, объясняет — “как работает политика повторных попыток для Google Ads?”
 
-My first one: “Read company/product/vision/ICP — and build me a new offer template for a client.”
+Мой первый: “Прочитай компанию/продукт/видение/ICP — и построй мне новый шаблон оффера для клиента.”
 
-- Theoretically I could do this with ChatGPT, but there I don’t control context. If the dialog drifted — I can’t recover it. If it went well but the context ended — it forgets. Here the context is saved, used, and updated.
-- A new paradigm of working with the computer — like with an assistant that performs tasks
+- Теоретически я мог бы сделать это с ChatGPT, но там я не контролирую контекст. Если диалог ушел в сторону — я не могу его восстановить. Если он прошел хорошо, но контекст закончился — он забывает. Здесь контекст сохраняется, используется и обновляется.
+- Новая парадигма работы с компьютером — как с ассистентом, который выполняет задачи
 
-### About hallucinations → cursor rules (1 min)
+### Про галлюцинации → правила cursor (1 мин)
 
-### About duplicate files → cursor rules (1 min)
+### Про дубликаты файлов → правила cursor (1 мин)
 
-### When unclear → ask the agent to web‑search (1 min)
+### Когда непонятно → попроси агента поискать в вебе (1 мин)
 
-- Which models to use? How do cursor rules work? How to connect Google Drive?
+- Какие модели использовать? Как работают правила cursor? Как подключить Google Drive?
 
-### When it does something dumb → ask the agent how others solve this task
+### Когда он делает что-то тупое → спроси агента, как другие решают эту задачу
 
-### Roma asks “What are you working on at Elly?” (2 min)
+### Рома спрашивает “Над чем ты работаешь в Elly?” (2 мин)
 
-- Agent — “Analyze project metrics and suggest improvements”, “Create a rule to scale/pause ads”
-- Alpha — if you need analytics or want to join the pilot — DM us
+- Агент — “Проанализируй метрики проекта и предложи улучшения”, “Создай правило для масштабирования/паузы рекламы”
+- Альфа — если вам нужна аналитика или хотите присоединиться к пилоту — пишите нам в DM
 
-## Follow the updates (channel screenshot)
+## Следите за обновлениями (скриншот канала)
 
-## 🎬 Wrap‑up: what we covered today, try it yourself, masterclass in the course (3 min)
+## 🎬 Завершение: что мы покрыли сегодня, попробуйте сами, мастер-класс в курсе (3 мин)
 
-## About the course
+## О курсе
 
-Structure:
+Структура:
 
-- 1 session on Cursor: “Advanced lesson on agent creation, masterclass of top scripts for marketers (1.5–2 hours)”
-- 2 sessions on analytics: “What modern marketing analytics should look like?”
-  - Management part (funnel workshop)
-  - Technical part (pitfalls and how to avoid them)
+- 1 сессия по Cursor: “Продвинутый урок по созданию агентов, мастер-класс топ скриптов для маркетологов (1.5–2 часа)”
+- 2 сессии по аналитике: “Как должна выглядеть современная маркетинговая аналитика?”
+  - Менеджерская часть (воркшоп по воронкам)
+  - Техническая часть (подводные камни и как их избежать)
 
-## 🎯 Extra prompts
+## 🎯 Дополнительные промпты
 
-1. “Create a Slack and a Notion summary”
-2. “Send the result to Notion”
-3. “Visit ellyanalytics.com, go to testimonials/cases page — which ones can I use in a finance industry deck?”
-4. “Review sessions with odd UTM tags and reassign to correct sources”
+1. “Создай саммари для Slack и Notion”
+2. “Отправь результат в Notion”
+3. “Посети ellyanalytics.com, перейди на страницу отзывов/кейсов — какие из них я могу использовать в деке для финансовой индустрии?”
+4. “Проверь сессии со странными UTM метками и переназначь на правильные источники”
 5. …
 6. …
 
-## Other tricks
+## Другие трюки
 
-1. You can create scripts
-2. You can connect to DBs (via scripts)
-3. You can use MCP (scripts are more reliable for now)
-4. You can use open‑source
-5. You can “vibe‑code” your own tools
-6. You can generate landing pages and prototypes here like in Lovable
-7. In any unclear situation — ask your Cursor. If it’s dumb — ask how others solved it in practice.
+1. Вы можете создавать скрипты
+2. Вы можете подключаться к БД (через скрипты)
+3. Вы можете использовать MCP (скрипты пока надежнее)
+4. Вы можете использовать open-source
+5. Вы можете “vibe-code” свои собственные инструменты
+6. Вы можете генерировать лендинги и прототипы здесь, как в Lovable
+7. В любой непонятной ситуации — спрашивайте ваш Cursor. Если он тупит — спросите, как другие решали это на практике.
 
-You can also share inside the company — separate talk and a template in GitHub
+Вы также можете делиться внутри компании — отдельный доклад и шаблон в GitHub
 
-*Short version for the Kumar Solo webinar — focused on key demos*
-
-
+*Короткая версия для вебинара Kumar Solo — сфокусирована на ключевых демо*

@@ -1,51 +1,51 @@
-# Screening Evaluation - [Candidate Name]
+# Оценка Скрининга - [Имя Кандидата]
 
-**DECISION: [✅ PROCEED TO TECHNICAL INTERVIEW / ❌ REJECT CANDIDACY]**
+**РЕШЕНИЕ: [✅ ПЕРЕЙТИ К ТЕХНИЧЕСКОМУ ИНТЕРВЬЮ / ❌ ОТКЛОНИТЬ КАНДИДАТУРУ]**
 
-> **NOTE: This evaluation is based ONLY on the candidate's CV and screening interview. The purpose is to determine whether to proceed to the technical interview stage, not to make a final hiring decision.**
+> **ПРИМЕЧАНИЕ: Эта оценка основана ТОЛЬКО на CV кандидата и скрининг интервью. Цель состоит в том, чтобы определить, следует ли переходить к этапу технического интервью, а не принимать окончательное решение о найме.**
 
-## Summary
-[Provide a concise summary of the candidate's background, experience, technical skills, and relevant qualifications. Include current role, years of experience, key achievements, and educational background.]
+## Саммари
+[Предоставьте краткое саммари бэкграунда кандидата, опыта, технических навыков и релевантных квалификаций. Включите текущую роль, годы опыта, ключевые достижения и образование.]
 
-## Competency Assessment
-| Competency | Rating | Evidence |
+## Оценка Компетенций
+| Компетенция | Рейтинг | Доказательства |
 |------------|--------|----------|
-| SQL Expertise | _/5 | [Evidence of SQL skills and experience] |
-| ETL & Data Pipelines | _/5 | [Evidence of ETL experience] |
-| API Integration | _/5 | [Evidence of API integration experience] |
-| Data Modeling | _/5 | [Evidence of data modeling skills] |
-| Marketing Analytics | _/5 | [Evidence of marketing analytics experience] |
-| Web Analytics Tools | _/5 | [Evidence of web analytics tool experience] |
-| Power BI | _/5 | [Evidence of Power BI skills] |
-| Client Communication | _/5 | [Evidence of client communication skills] |
-| Documentation | _/5 | [Evidence of documentation skills] |
-| English Proficiency | _/5 | [Evidence of English language skills] |
-| Team Fit | _/5 | [Evidence of team compatibility] |
+| Экспертиза SQL | _/5 | [Доказательства навыков SQL и опыта] |
+| ETL и Пайплайны Данных | _/5 | [Доказательства опыта ETL] |
+| Интеграция API | _/5 | [Доказательства опыта интеграции API] |
+| Моделирование Данных | _/5 | [Доказательства навыков моделирования данных] |
+| Маркетинговая Аналитика | _/5 | [Доказательства опыта маркетинговой аналитики] |
+| Инструменты Веб-Аналитики | _/5 | [Доказательства опыта с инструментами веб-аналитики] |
+| Power BI | _/5 | [Доказательства навыков Power BI] |
+| Коммуникация с Клиентами | _/5 | [Доказательства навыков коммуникации с клиентами] |
+| Документация | _/5 | [Доказательства навыков документации] |
+| Владение Английским | _/5 | [Доказательства навыков английского языка] |
+| Соответствие Команде | _/5 | [Доказательства совместимости с командой] |
 
-## Key Strengths
-1. [Key strength 1]
-2. [Key strength 2]
-3. [Key strength 3]
-4. [Key strength 4]
-5. [Key strength 5]
+## Ключевые Сильные Стороны
+1. [Сильная сторона 1]
+2. [Сильная сторона 2]
+3. [Сильная сторона 3]
+4. [Сильная сторона 4]
+5. [Сильная сторона 5]
 
-## Concerns
-- [Concern 1]
-- [Concern 2]
-- [Concern 3]
-- [Concern 4]
-- [Concern 5]
+## Опасения
+- [Опасение 1]
+- [Опасение 2]
+- [Опасение 3]
+- [Опасение 4]
+- [Опасение 5]
 
-## Technical Assessment
-[Provide an assessment of the candidate's technical capabilities relevant to the role. Include specific skills, tools, and methodologies they have experience with. Comment on their problem-solving approach and technical depth.]
+## Техническая Оценка
+[Предоставьте оценку технических способностей кандидата, релевантных роли. Включите конкретные навыки, инструменты и методологии, с которыми у них есть опыт. Прокомментируйте их подход к решению проблем и техническую глубину.]
 
-## Cultural Fit
-[Assess how well the candidate's values, working style, and communication approach align with the company culture. Include observations about remote work compatibility, adaptability, teamwork, and client interaction style.]
+## Культурное Соответствие
+[Оцените, насколько ценности кандидата, стиль работы и подход к коммуникации соответствуют культуре компании. Включите наблюдения о совместимости с удаленной работой, адаптивности, командной работе и стиле взаимодействия с клиентами.]
 
-## Next Steps
-- [ ] Proceed to Technical Interview
-- [ ] Request Additional Information
-- [ ] Reject Candidacy
+## Следующие Шаги
+- [ ] Перейти к Техническому Интервью
+- [ ] Запросить Дополнительную Информацию
+- [ ] Отклонить Кандидатуру
 
-## Notes
-[Include additional observations, salary expectations, availability, and any specific areas to focus on in the technical interview if proceeding.] 
+## Заметки
+[Включите дополнительные наблюдения, зарплатные ожидания, доступность и любые специфические области, на которых стоит сфокусироваться на техническом интервью, если процесс продолжается.]

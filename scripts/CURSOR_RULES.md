@@ -1,77 +1,77 @@
-# Cursor Rules for Sales Meeting Automation
+# Правила Cursor для Автоматизации Встреч Продаж
 
-## Demo Behavior Requirements
+## Требования к Поведению Демо
 
-### 1. Notion Integration Demo
-- **ALWAYS show Notion page creation** in demo mode
-- **ALWAYS provide mock Notion URLs** when API keys are not configured
-- Format: `https://www.notion.so/ellyanalytics/XS-Discovery-Call-Notion-{version}-{mock_id}`
-- **ALWAYS show Page Title, URL, and ID** even in demo mode
-- Example output:
+### 1. Демо Интеграции Notion
+- **ВСЕГДА показывать создание страницы Notion** в режиме демо
+- **ВСЕГДА предоставлять mock URL Notion**, когда API ключи не настроены
+- Формат: `https://www.notion.so/ellyanalytics/XS-Discovery-Call-Notion-{version}-{mock_id}`
+- **ВСЕГДА показывать Название Страницы, URL и ID** даже в режиме демо
+- Пример вывода:
   ```
-  ✅ Mock Notion page created successfully!
-  📄 Page Title: XS Discovery Call Notion 04
-  🔗 Page URL: https://www.notion.so/ellyanalytics/XS-Discovery-Call-Notion-04-abc123def45604
-  📄 Page ID: abc123def45604
+  ✅ Mock страница Notion успешно создана!
+  📄 Название Страницы: XS Discovery Call Notion 04
+  🔗 URL Страницы: https://www.notion.so/ellyanalytics/XS-Discovery-Call-Notion-04-abc123def45604
+  📄 ID Страницы: abc123def45604
   ```
 
-### 2. File Organization Rules
-- **Session-based folders**: `{client-name}-v{XX}/`
-- **Simple file names**: `internal.md` and `notion.md`
-- **Auto-versioning**: v01, v02, v03... for each new session
-- **Both files in same version folder** per session
+### 2. Правила Организации Файлов
+- **Папки на основе сессий**: `{client-name}-v{XX}/`
+- **Простые имена файлов**: `internal.md` и `notion.md`
+- **Автоматическое версионирование**: v01, v02, v03... для каждой новой сессии
+- **Оба файла в одной папке версии** на сессию
 
-### 3. Workspace Detection
-- Auto-detect workspace from script path
+### 3. Определение Рабочего Пространства
+- Автоопределение рабочего пространства из пути скрипта
 - Personal-Super-Agent-Ru → `Marketing-Sales/Sales Calls/`
 - Personal-Super-Agent → `Marketing-Sales/Sales Calls/`
 - AI-First-Workspace → `Sales Calls/`
 
-## API Integration
+## Интеграция API
 
-### 4. Fireflies.ai Integration
-- Demo meeting ID: `01K1ZF3FGSY686JHZV0QSFG57K`
-- Demo URL: `https://app.fireflies.ai/view/Elly-Analytics-XS-discovery-call::01K1ZF3FGSY686JHZV0QSFG57K`
-- Always use mock data when API_TOKEN not configured
+### 4. Интеграция Fireflies.ai
+- Демо ID встречи: `01K1ZF3FGSY686JHZV0QSFG57K`
+- Демо URL: `https://app.fireflies.ai/view/Elly-Analytics-XS-discovery-call::01K1ZF3FGSY686JHZV0QSFG57K`
+- Всегда использовать mock данные, когда API_TOKEN не настроен
 
-### 5. Notion Integration
-- **Real mode**: Requires NOTION_TOKEN and NOTION_DATABASE_ID
-- **Demo mode**: Show mock page creation with realistic URLs
-- **Page naming**: `{Client Name} Notion {version}`
-- **Database fields**: Name, Client, Meeting Date, Lead Source, Status, Next Step
+### 5. Интеграция Notion
+- **Реальный режим**: Требует NOTION_TOKEN и NOTION_DATABASE_ID
+- **Режим демо**: Показать mock создание страницы с реалистичными URL
+- **Именование страниц**: `{Имя Клиента} Notion {версия}`
+- **Поля базы данных**: Имя, Клиент, Дата Встречи, Источник Лида, Статус, Следующий Шаг
 
-## Error Handling
+## Обработка Ошибок
 
-### 6. Graceful Degradation
-- Missing API keys → Demo mode with mock responses
-- Network errors → Show error but continue with local file creation
-- File conflicts → Auto-increment version numbers
+### 6. Плавная Деградация
+- Отсутствующие API ключи → Режим демо с mock ответами
+- Сетевые ошибки → Показать ошибку, но продолжить с созданием локального файла
+- Конфликты файлов → Автоинкремент номеров версий
 
-### 7. User Experience
-- **Always show progress indicators**: 🚀 📥 ✅ 🤖 💾 📤
-- **Always provide clear status messages**
-- **Always show file paths and URLs created**
-- **Always indicate demo vs real mode**
+### 7. Пользовательский Опыт
+- **Всегда показывать индикаторы прогресса**: 🚀 📥 ✅ 🤖 💾 📤
+- **Всегда предоставлять четкие сообщения статуса**
+- **Всегда показывать созданные пути файлов и URL**
+- **Всегда указывать режим демо vs реальный**
 
-## Security
+## Безопасность
 
-### 8. Sensitive Data
-- Never log full API tokens (show only first 20 chars)
-- Use placeholder data for demos
-- Environment variables for all credentials
+### 8. Чувствительные Данные
+- Никогда не логировать полные API токены (показывать только первые 20 символов)
+- Использовать заглушки данных для демо
+- Переменные окружения для всех учетных данных
 
-## Templates
+## Шаблоны
 
-### 9. Analysis Templates
-- `prompt_internal.txt` - Team summary format
-- `prompt_notion.txt` - Structured CRM format
-- English language for all demo workspaces
-- Consistent emoji usage for visual clarity
+### 9. Шаблоны Анализа
+- `prompt_internal.txt` - Формат саммари для команды
+- `prompt_notion.txt` - Структурированный формат CRM
+- Английский язык для всех демо рабочих пространств
+- Консистентное использование эмодзи для визуальной ясности
 
-## Integration Points
+## Точки Интеграции
 
-### 10. Cursor Integration
-- Scripts auto-detect workspace context
-- Seamless integration with existing folder structures
-- No manual path configuration needed
-- Compatible with all demo workspaces
+### 10. Интеграция Cursor
+- Скрипты автоопределяют контекст рабочего пространства
+- Бесшовная интеграция с существующими структурами папок
+- Не требуется ручная настройка путей
+- Совместимо со всеми демо рабочими пространствами

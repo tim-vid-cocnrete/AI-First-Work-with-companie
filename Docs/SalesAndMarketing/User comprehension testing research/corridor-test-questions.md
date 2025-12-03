@@ -1,158 +1,158 @@
-# User Comprehension Test Questions
+# Вопросы для Теста Пользовательского Понимания
 
-## Testing Objective
-Evaluate the effectiveness of the landing page in conveying the value proposition of [PRODUCT NAME] and convincing the target audience (performance marketing managers, heads of acquisition, CMOs) to join the waitlist.
-
----
-
-## Block 1: Product Comprehension
-
-### 1.1 Core Function
-- **What do you think [PRODUCT NAME] does?** (open question)
-- **What main problems does this product solve?**
-- **Who is this product intended for?**
-
-### 1.2 Technical Understanding
-- **How do you understand the phrase "full-funnel automation rules"?**
-- **What does "attribution delays" mean in the context of advertising campaigns?**
-- **What platforms does [PRODUCT NAME] support?**
-- **How does the automation creation process work in [PRODUCT NAME]?**
-
-### 1.3 Complexity vs Simplicity
-- **How complex does using [PRODUCT NAME] seem?**
-- **What surprises you most about how the product works?**
-- **What technical skills are needed to work with [PRODUCT NAME]?**
+## Цель Тестирования
+Оценить эффективность лендинга в донесении ценностного предложения [PRODUCT NAME] и убеждении целевой аудитории (менеджеры по performance маркетингу, руководители по привлечению, CMO) присоединиться к листу ожидания.
 
 ---
 
-## Block 2: Value Proposition
+## Блок 1: Понимание Продукта
 
-### 2.1 Main Benefits
-- **What main benefits do you see from using [PRODUCT NAME]?**
-- **Which of the three main blocks (Automatic Rules, Unlimited Complexity, Simple Creation) seems most convincing to you?**
-- **How realistic does "automating 90% of manual work" sound?**
+### 1.1 Основная Функция
+- **Как вы думаете, что делает [PRODUCT NAME]?** (открытый вопрос)
+- **Какие основные проблемы решает этот продукт?**
+- **Для кого предназначен этот продукт?**
 
-### 2.2 Specific Results
-- **What specific results does [PRODUCT NAME] promise?** (time, money, efficiency)
-- **How convincing are the examples in the "What Was Possible vs What's Possible" section?**
-- **Which improvement metrics seem most important to you?**
+### 1.2 Техническое Понимание
+- **Как вы понимаете фразу "правила автоматизации полной воронки"?**
+- **Что означает "задержки атрибуции" в контексте рекламных кампаний?**
+- **Какие платформы поддерживает [PRODUCT NAME]?**
+- **Как работает процесс создания автоматизации в [PRODUCT NAME]?**
 
-### 2.3 Uniqueness
-- **How does [PRODUCT NAME] differ from other automation tools?**
-- **What unique capabilities do you see in [PRODUCT NAME]?**
-- **What makes [PRODUCT NAME] "impossible" in the context of automation?**
-
----
-
-## Block 3: Trust & Credibility
-
-### 3.1 Trust in Claims
-- **How much do you trust the claims about [PRODUCT NAME]'s capabilities?**
-- **Which statements seem exaggerated to you?**
-- **What raises doubts for you?**
-
-### 3.2 Use Cases
-- **How convincing are the use case examples?**
-- **Which of the three use cases seem most realistic to you?**
-- **Would you like to see more specific examples?**
-
-### 3.3 Technical Expertise
-- **How technically competent does the product description seem?**
-- **Do you understand the logic of the complex rules described in the examples?**
-- **What technical details interest you most?**
+### 1.3 Сложность vs Простота
+- **Насколько сложным кажется использование [PRODUCT NAME]?**
+- **Что вас больше всего удивляет в том, как работает продукт?**
+- **Какие технические навыки нужны для работы с [PRODUCT NAME]?**
 
 ---
 
-## Block 4: Emotional Response
+## Блок 2: Ценностное Предложение
 
-### 4.1 First Impression
-- **What first impression did the landing page make on you?**
-- **What interested you most?**
-- **What turned you off or seemed unclear?**
+### 2.1 Основные Преимущества
+- **Какие основные преимущества вы видите от использования [PRODUCT NAME]?**
+- **Какой из трех основных блоков (Автоматические Правила, Неограниченная Сложность, Простое Создание) кажется вам наиболее убедительным?**
+- **Насколько реалистично звучит "автоматизация 90% ручной работы"?**
 
-### 4.2 Pain Points and Needs
-- **Which of the described problems are familiar to you from experience?**
-- **How relevant are the described challenges to you?**
-- **What pain points in your work are not covered on the landing page?**
+### 2.2 Конкретные Результаты
+- **Какие конкретные результаты обещает [PRODUCT NAME]?** (время, деньги, эффективность)
+- **Насколько убедительны примеры в разделе "Что Было Возможно vs Что Возможно"?**
+- **Какие метрики улучшения кажутся вам наиболее важными?**
 
-### 4.3 Desire to Try
-- **Would you like to try [PRODUCT NAME]?**
-- **What stops you from registering for the waitlist?**
-- **What additional information do you need to make a decision?**
-
----
-
-## Block 5: Call-to-Action
-
-### 5.1 CTA Effectiveness
-- **How attractive is the "Join the Waitlist" button?**
-- **What do you expect after clicking the button?**
-- **What alternative CTAs would be more attractive?**
-
-### 5.2 Registration Barriers
-- **What prevents you from registering right now?**
-- **What doubts do you have before registering?**
-- **What additional information would you like to receive?**
-
-### 5.3 Waitlist Expectations
-- **What do you expect to get by joining the waitlist?**
-- **How important is "priority onboarding" to you?**
-- **What registration conditions would be acceptable to you?**
+### 2.3 Уникальность
+- **Чем [PRODUCT NAME] отличается от других инструментов автоматизации?**
+- **Какие уникальные возможности вы видите в [PRODUCT NAME]?**
+- **Что делает [PRODUCT NAME] "невозможным" в контексте автоматизации?**
 
 ---
 
-## Block 6: Overall Assessment
+## Блок 3: Доверие и Надежность
 
-### 6.1 General Impression
-- **On a scale of 1 to 10, how convincing does the landing page seem to you?**
-- **What would you change on the landing page?**
-- **Which sections seemed strongest/weakest to you?**
+### 3.1 Доверие к Заявлениям
+- **Насколько вы доверяете заявлениям о возможностях [PRODUCT NAME]?**
+- **Какие утверждения кажутся вам преувеличенными?**
+- **Что вызывает у вас сомнения?**
 
-### 6.2 Recommendations
-- **Would you recommend [PRODUCT NAME] to colleagues based on this landing page?**
-- **What companies/specialists would this product suit?**
-- **What needs to be added/removed for greater persuasiveness?**
+### 3.2 Юзкейсы
+- **Насколько убедительны примеры юзкейсов?**
+- **Какой из трех юзкейсов кажется вам наиболее реалистичным?**
+- **Хотели бы вы видеть более конкретные примеры?**
 
-### 6.3 Competitor Comparison
-- **What [PRODUCT NAME] alternatives do you know?**
-- **How is [PRODUCT NAME] better/worse than solutions you know?**
-- **What price would you expect for such a product?**
-
----
-
-## Test Methodology
-
-### Participants
-- **Primary:** Performance Marketing Managers, Heads of Acquisition, CMOs
-- **Secondary:** Marketing Directors, Growth Managers, Digital Marketing Specialists
-- **Number:** 8-12 people from target audience
-
-### Format
-- **Duration:** 15-20 minutes per person
-- **Method:** Personal interviews or video calls
-- **Materials:** Landing page in final version (prototype or screenshots)
-
-### Success Criteria
-- **Understanding:** 80%+ participants correctly understand the main function
-- **Value:** 70%+ see clear value for their work
-- **Trust:** 60%+ trust the claims about capabilities
-- **Action:** 50%+ ready to join the waitlist
+### 3.3 Техническая Экспертиза
+- **Насколько технически компетентным кажется описание продукта?**
+- **Понимаете ли вы логику сложных правил, описанных в примерах?**
+- **Какие технические детали интересуют вас больше всего?**
 
 ---
 
-## Additional Questions for In-Depth Analysis
+## Блок 4: Эмоциональный Отклик
 
-### For Technical Specialists
-- **How complex does integration with existing systems seem to you?**
-- **What technical requirements do you expect from [PRODUCT NAME]?**
-- **How do you assess the security of data transfer to [PRODUCT NAME]?**
+### 4.1 Первое Впечатление
+- **Какое первое впечатление произвел на вас лендинг?**
+- **Что вас заинтересовало больше всего?**
+- **Что оттолкнуло или показалось непонятным?**
 
-### For Managers
-- **What ROI do you expect from implementing [PRODUCT NAME]?**
-- **What risks do you see in using such a solution?**
-- **How will this affect your team structure?**
+### 4.2 Болевые Точки и Потребности
+- **Какие из описанных проблем знакомы вам из опыта?**
+- **Насколько актуальны для вас описанные вызовы?**
+- **Какие болевые точки в вашей работе не покрыты на лендинге?**
 
-### For End Users
-- **How much time will team training require?**
-- **What support is needed during implementation?**
-- **How will your workflow change with [PRODUCT NAME]?**
+### 4.3 Желание Попробовать
+- **Хотели бы вы попробовать [PRODUCT NAME]?**
+- **Что останавливает вас от регистрации в листе ожидания?**
+- **Какая дополнительная информация вам нужна для принятия решения?**
+
+---
+
+## Блок 5: Призыв к Действию (Call-to-Action)
+
+### 5.1 Эффективность CTA
+- **Насколько привлекательна кнопка "Присоединиться к Листу Ожидания"?**
+- **Что вы ожидаете после нажатия на кнопку?**
+- **Какие альтернативные CTA были бы более привлекательны?**
+
+### 5.2 Барьеры Регистрации
+- **Что мешает вам зарегистрироваться прямо сейчас?**
+- **Какие сомнения у вас есть перед регистрацией?**
+- **Какую дополнительную информацию вы хотели бы получить?**
+
+### 5.3 Ожидания от Листа Ожидания
+- **Что вы ожидаете получить, присоединившись к листу ожидания?**
+- **Насколько важно для вас "приоритетное внедрение"?**
+- **Какие условия регистрации были бы для вас приемлемы?**
+
+---
+
+## Блок 6: Общая Оценка
+
+### 6.1 Общее Впечатление
+- **По шкале от 1 до 10, насколько убедительным кажется вам лендинг?**
+- **Что бы вы изменили на лендинге?**
+- **Какие разделы показались вам самыми сильными/слабыми?**
+
+### 6.2 Рекомендации
+- **Порекомендовали бы вы [PRODUCT NAME] коллегам на основе этого лендинга?**
+- **Каким компаниям/специалистам подошел бы этот продукт?**
+- **Что нужно добавить/убрать для большей убедительности?**
+
+### 6.3 Сравнение с Конкурентами
+- **Какие альтернативы [PRODUCT NAME] вы знаете?**
+- **Чем [PRODUCT NAME] лучше/хуже решений, которые вы знаете?**
+- **Какую цену вы бы ожидали за такой продукт?**
+
+---
+
+## Методология Тестирования
+
+### Участники
+- **Основная:** Менеджеры по Performance Маркетингу, Руководители по Привлечению, CMO
+- **Вторичная:** Маркетинг Директора, Менеджеры по Росту, Специалисты по Цифровому Маркетингу
+- **Количество:** 8-12 человек из целевой аудитории
+
+### Формат
+- **Длительность:** 15-20 минут на человека
+- **Метод:** Личные интервью или видеозвонки
+- **Материалы:** Лендинг в финальной версии (прототип или скриншоты)
+
+### Критерии Успеха
+- **Понимание:** 80%+ участников правильно понимают основную функцию
+- **Ценность:** 70%+ видят четкую ценность для своей работы
+- **Доверие:** 60%+ доверяют заявлениям о возможностях
+- **Действие:** 50%+ готовы присоединиться к листу ожидания
+
+---
+
+## Дополнительные Вопросы для Глубинного Анализа
+
+### Для Технических Специалистов
+- **Насколько сложной кажется интеграция с существующими системами?**
+- **Какие технические требования вы ожидаете от [PRODUCT NAME]?**
+- **Как вы оцениваете безопасность передачи данных в [PRODUCT NAME]?**
+
+### Для Менеджеров
+- **Какой ROI вы ожидаете от внедрения [PRODUCT NAME]?**
+- **Какие риски вы видите в использовании такого решения?**
+- **Как это повлияет на структуру вашей команды?**
+
+### Для Конечных Пользователей
+- **Сколько времени потребует обучение команды?**
+- **Какая поддержка нужна во время внедрения?**
+- **Как изменится ваш рабочий процесс с [PRODUCT NAME]?**

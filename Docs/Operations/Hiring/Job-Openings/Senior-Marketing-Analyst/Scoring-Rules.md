@@ -1,33 +1,33 @@
-# Scoring Rules — Senior Marketing Analytics (Data Engineering Profile)
+# Правила Скоринга — Senior Marketing Analytics (Профиль Data Engineering)
 
-## Competency Thresholds:
+## Пороги Компетенций:
 
-- SQL Expert: minimum 5 (critical skill)
-- ETL & Data Pipelines: minimum 4 (critical skill)
-- API Integration: minimum 4 (critical skill)
-- Data Modeling: minimum 4
-- Marketing Analytics: minimum 3
-- Web Analytics Tools: minimum 3
-- Ad Platforms: minimum 3
-- Client Communication: minimum 4
-- Documentation: minimum 3
-- English Language: minimum 4
-- Russian Language: required (native level)
-- Salary Expectations: must be within approved budget range
+- Эксперт SQL: минимум 5 (критический навык)
+- ETL и Пайплайны Данных: минимум 4 (критический навык)
+- Интеграция API: минимум 4 (критический навык)
+- Моделирование Данных: минимум 4
+- Маркетинговая Аналитика: минимум 3
+- Инструменты Веб-Аналитики: минимум 3
+- Рекламные Платформы: минимум 3
+- Коммуникация с Клиентами: минимум 4
+- Документация: минимум 3
+- Английский Язык: минимум 4
+- Русский Язык: обязательно (уровень носителя)
+- Зарплатные Ожидания: должны быть в пределах утвержденного бюджетного диапазона
 
-## Salary Rule:
+## Правило Зарплаты:
 
-- For this role, the acceptable salary range is: $2500 — $4000 gross per month.**
-- If candidate salary expectations are above the maximum budget — mark as "Salary Misalignment" and flag for human review.
+- Для этой роли приемлемый диапазон зарплаты: $2500 — $4000 gross в месяц.**
+- Если зарплатные ожидания кандидата выше максимального бюджета — пометить как "Несоответствие Зарплаты" и отправить на ручное рассмотрение.
 
-## Overall Scoring Logic:
+## Общая Логика Скоринга:
 
-- **Strong Fit:** 80% or more of competencies meet or exceed threshold AND all critical skills (SQL, ETL, API) at required level AND salary within budget.
-- **Potential Fit:** 60–80% meet threshold, minor non-critical gaps, salary acceptable.
-- **Weak Fit:** Less than 60% meet threshold, OR any critical skill below threshold, OR salary outside budget.
+- **Сильное Соответствие:** 80% или более компетенций соответствуют или превышают порог И все критические навыки (SQL, ETL, API) на требуемом уровне И зарплата в бюджете.
+- **Потенциальное Соответствие:** 60–80% соответствуют порогу, незначительные некритические пробелы, зарплата приемлема.
+- **Слабое Соответствие:** Менее 60% соответствуют порогу, ИЛИ любой критический навык ниже порога, ИЛИ зарплата вне бюджета.
 
-## Notes:
+## Примечания:
 
-- Russian Language remains a hard requirement.
-- Insufficient data → mark clearly.
-- Always explain any red flags.
+- Русский Язык остается жестким требованием.
+- Недостаточно данных → помечать четко.
+- Всегда объяснять любые красные флаги.

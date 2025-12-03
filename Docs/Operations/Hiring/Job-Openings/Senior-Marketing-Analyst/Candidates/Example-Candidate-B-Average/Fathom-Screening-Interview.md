@@ -1,94 +1,94 @@
-# Screening Interview Transcript
-*[TEMPLATE EXAMPLE - This is a fictional interview transcript for demonstration purposes]*
+# Транскрипт Скрининг Интервью
+*[ПРИМЕР ШАБЛОНА - Это вымышленный транскрипт интервью для демонстрационных целей]*
 
-**Candidate:** Michael Thompson  
-**Interviewer:** Jennifer Clark (HR Manager)  
-**Date:** March 22, 2024  
-**Duration:** 35 minutes  
-**Position:** Senior Marketing Analyst
-
----
-
-## Company Introduction & Role Overview
-
-**Jennifer Clark:** Hi Michael! Thanks for joining us today. Let me start by explaining our role and company structure.
-
-We're a marketing analytics consultancy working primarily with US clients who have substantial digital advertising budgets. Our analysts work closely with project managers to build and maintain automated reporting systems.
-
-The technical focus is quite strong - about 80% SQL and data engineering work, 20% Power BI visualization. Does this align with your expectations?
-
-**Michael Thompson:** Yes, that sounds interesting. I'm actually looking to move more into the technical side. Right now I use mostly Python and Pandas, but I'd like to develop stronger SQL and data engineering skills.
-
-## Technical Experience Discussion
-
-**Jennifer Clark:** That's good to hear. Can you walk me through your current technical stack and responsibilities?
-
-**Michael Thompson:** Sure. At JewelCorp, I primarily work with Python in Google Colab. I built an automated monthly reporting system that processes CRM exports and generates multi-sheet reports in Google Sheets.
-
-I also maintain a Power BI dashboard for management. The challenge is that we don't have a proper data warehouse yet - I'm mostly working with Excel exports from our 1C system.
-
-**Jennifer Clark:** Interesting. What about SQL experience specifically?
-
-**Michael Thompson:** I studied SQL and completed some online courses, but honestly I don't use it daily at work. My current role is more Python-heavy since we don't have database infrastructure. I'd rate myself as intermediate in SQL knowledge but limited in production experience.
-
-**Jennifer Clark:** That's honest feedback. What about API integrations?
-
-**Michael Thompson:** That's actually something I want to learn. Right now I manually export data from Facebook Ads Manager, but I know there are APIs for that. I'm planning to take some courses on API integration and data engineering.
-
-## Motivation & Career Goals
-
-**Jennifer Clark:** What's motivating you to look for a new opportunity?
-
-**Michael Thompson:** I want to work in a more technical environment with experienced data engineers. In my current role, I'm the only analyst, so there's limited learning opportunities.
-
-I'm particularly interested in automation and building proper data pipelines rather than just doing analysis on static exports.
-
-**Jennifer Clark:** Where do you see yourself in 2-3 years?
-
-**Michael Thompson:** I'd like to transition fully into data engineering while maintaining the marketing domain knowledge. Eventually becoming a technical lead who can bridge the gap between business requirements and technical implementation.
-
-## Practical Considerations
-
-**Jennifer Clark:** Our team works across different time zones. We have morning meetings US time, which would be afternoon for you. Some client calls might be in the evening your time. How does that sound?
-
-**Michael Thompson:** That should work fine. I'm flexible with hours and actually prefer some later meetings since I'm more productive in the afternoons.
-
-**Jennifer Clark:** And you mentioned you're open to relocation?
-
-**Michael Thompson:** Yes, I'm quite flexible. I'm considering several European countries, particularly looking at tax-friendly options like Georgia or Portugal.
-
-**Jennifer Clark:** What about salary expectations?
-
-**Michael Thompson:** I'm looking for around $2,500-3,000 monthly, depending on location and growth opportunities. I understand this might be on the lower end given my current experience level.
-
-## Areas of Concern
-
-**Jennifer Clark:** I want to be transparent about some potential challenges. Our role requires strong SQL skills from day one, and you mentioned limited production experience.
-
-**Michael Thompson:** I appreciate the honesty. I'm confident I can learn quickly, and I have the foundational knowledge. I'm actually excited about the opportunity to work with real database systems instead of spreadsheet exports.
-
-**Jennifer Clark:** Also, we work with various APIs and data sources. Would you be comfortable learning these on the job?
-
-**Michael Thompson:** Absolutely. That's exactly what I'm looking for - hands-on learning with proper mentorship.
-
-## Next Steps
-
-**Jennifer Clark:** Thanks Michael. Your motivation and learning attitude are clear positives. The main question is whether your current technical level aligns with our immediate needs.
-
-We'll discuss internally and get back to you about next steps. If we proceed, it would be a technical interview focusing on SQL and problem-solving.
-
-**Michael Thompson:** That sounds fair. I'm ready to demonstrate what I can do and honest about areas where I need to grow.
+**Кандидат:** Michael Thompson
+**Интервьюер:** Jennifer Clark (HR Manager)
+**Дата:** 22 Марта 2024
+**Длительность:** 35 минут
+**Позиция:** Senior Marketing Analyst
 
 ---
 
-## Interview Assessment
+## Введение в Компанию и Обзор Роли
 
-**Technical Competency:** Basic-intermediate level, limited production SQL experience  
-**Learning Attitude:** Strong, eager to develop technical skills  
-**Cultural Fit:** Good, understands role requirements and challenges  
-**Red Flags:** SQL experience gap, may need significant ramp-up time  
-**Overall Assessment:** Potential candidate with growth mindset, but technical gaps need consideration
+**Jennifer Clark:** Привет, Майкл! Спасибо, что присоединились к нам сегодня. Позвольте мне начать с объяснения нашей роли и структуры компании.
+
+Мы консалтинговая компания по маркетинговой аналитике, работающая в основном с клиентами из США, у которых есть значительные бюджеты на цифровую рекламу. Наши аналитики тесно сотрудничают с проектными менеджерами для построения и поддержки автоматизированных систем отчетности.
+
+Технический фокус довольно сильный - около 80% работы с SQL и инженерией данных, 20% визуализация в Power BI. Соответствует ли это вашим ожиданиям?
+
+**Michael Thompson:** Да, это звучит интересно. Я на самом деле хочу перейти больше на техническую сторону. Сейчас я использую в основном Python и Pandas, но я хотел бы развить более сильные навыки SQL и инженерии данных.
+
+## Обсуждение Технического Опыта
+
+**Jennifer Clark:** Приятно слышать. Можете провести меня через ваш текущий технический стек и обязанности?
+
+**Michael Thompson:** Конечно. В JewelCorp я в основном работаю с Python в Google Colab. Я построил автоматизированную систему ежемесячной отчетности, которая обрабатывает экспорты CRM и генерирует многостраничные отчеты в Google Sheets.
+
+Я также поддерживаю дашборд Power BI для менеджмента. Проблема в том, что у нас пока нет нормального хранилища данных - я в основном работаю с экспортами Excel из нашей системы 1C.
+
+**Jennifer Clark:** Интересно. А как насчет опыта SQL конкретно?
+
+**Michael Thompson:** Я изучал SQL и прошел несколько онлайн-курсов, но честно говоря, я не использую его ежедневно на работе. Моя текущая роль больше ориентирована на Python, так как у нас нет инфраструктуры баз данных. Я бы оценил свои знания SQL как средние, но с ограниченным опытом в продакшене.
+
+**Jennifer Clark:** Это честная обратная связь. А как насчет интеграций API?
+
+**Michael Thompson:** Это на самом деле то, чему я хочу научиться. Сейчас я вручную экспортирую данные из Facebook Ads Manager, но я знаю, что для этого есть API. Я планирую пройти курсы по интеграции API и инженерии данных.
+
+## Мотивация и Карьерные Цели
+
+**Jennifer Clark:** Что мотивирует вас искать новую возможность?
+
+**Michael Thompson:** Я хочу работать в более технической среде с опытными инженерами данных. В моей текущей роли я единственный аналитик, поэтому возможности для обучения ограничены.
+
+Я особенно заинтересован в автоматизации и построении правильных пайплайнов данных, а не просто в анализе статических экспортов.
+
+**Jennifer Clark:** Где вы видите себя через 2-3 года?
+
+**Michael Thompson:** Я бы хотел полностью перейти в инженерию данных, сохраняя при этом знания предметной области маркетинга. В конечном итоге стать техническим лидом, который может преодолеть разрыв между бизнес-требованиями и техническим внедрением.
+
+## Практические Соображения
+
+**Jennifer Clark:** Наша команда работает в разных часовых поясах. У нас утренние встречи по времени США, что будет второй половиной дня для вас. Некоторые звонки с клиентами могут быть вечером по вашему времени. Как вам это?
+
+**Michael Thompson:** Это должно подойти. Я гибок с часами и на самом деле предпочитаю некоторые поздние встречи, так как я более продуктивен во второй половине дня.
+
+**Jennifer Clark:** И вы упомянули, что открыты к релокации?
+
+**Michael Thompson:** Да, я довольно гибок. Я рассматриваю несколько европейских стран, особенно смотрю на варианты с благоприятным налогообложением, такие как Грузия или Португалия.
+
+**Jennifer Clark:** А как насчет зарплатных ожиданий?
+
+**Michael Thompson:** Я ищу около $2,500-3,000 ежемесячно, в зависимости от локации и возможностей роста. Я понимаю, что это может быть на нижней границе, учитывая мой текущий уровень опыта.
+
+## Зоны Беспокойства
+
+**Jennifer Clark:** Я хочу быть прозрачной относительно некоторых потенциальных вызовов. Наша роль требует сильных навыков SQL с первого дня, а вы упомянули ограниченный опыт в продакшене.
+
+**Michael Thompson:** Я ценю честность. Я уверен, что смогу быстро научиться, и у меня есть фундаментальные знания. Я на самом деле воодушевлен возможностью работать с реальными системами баз данных вместо экспортов электронных таблиц.
+
+**Jennifer Clark:** Также мы работаем с различными API и источниками данных. Вам было бы комфортно изучать их в процессе работы?
+
+**Michael Thompson:** Абсолютно. Это именно то, что я ищу - практическое обучение с надлежащим менторством.
+
+## Следующие Шаги
+
+**Jennifer Clark:** Спасибо, Майкл. Ваша мотивация и отношение к обучению - явные плюсы. Главный вопрос в том, соответствует ли ваш текущий технический уровень нашим немедленным потребностям.
+
+Мы обсудим внутри и вернемся к вам по поводу следующих шагов. Если мы продолжим, это будет техническое интервью с фокусом на SQL и решении проблем.
+
+**Michael Thompson:** Это звучит справедливо. Я готов продемонстрировать, что я могу сделать, и честен в тех областях, где мне нужно расти.
 
 ---
 
-*Template Note: This demonstrates a candidate with potential but clear skill gaps. Use this to evaluate how to assess candidates who don't meet all technical requirements but show strong learning motivation.*
+## Оценка Интервью
+
+**Техническая Компетенция:** Базовый-средний уровень, ограниченный опыт SQL в продакшене
+**Отношение к Обучению:** Сильное, стремление развивать технические навыки
+**Культурное Соответствие:** Хорошее, понимает требования роли и вызовы
+**Красные Флаги:** Пробел в опыте SQL, может потребоваться значительное время на разгон
+**Общая Оценка:** Потенциальный кандидат с мышлением роста, но технические пробелы требуют рассмотрения
+
+---
+
+*Примечание к шаблону: Это демонстрирует кандидата с потенциалом, но явными пробелами в навыках. Используйте это для оценки того, как оценивать кандидатов, которые не соответствуют всем техническим требованиям, но показывают сильную мотивацию к обучению.*

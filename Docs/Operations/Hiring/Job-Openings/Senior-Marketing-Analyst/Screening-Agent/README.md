@@ -1,86 +1,86 @@
-# [COMPANY_NAME] Screening Agent
-*[TEMPLATE EXAMPLE - This is a functional screening agent for demonstration purposes]*
+# Агент Скрининга [COMPANY_NAME]
+*[ПРИМЕР ШАБЛОНА - Это функциональный агент скрининга для демонстрационных целей]*
 
-This automated agent assists with the initial screening of candidates for the Senior Marketing Analyst role by analyzing their CVs and screening interview notes.
+Этот автоматизированный агент помогает с начальным скринингом кандидатов на роль Senior Marketing Analyst, анализируя их резюме и заметки скрининг-интервью.
 
-## Template Configuration
+## Конфигурация Шаблона
 
-**Before using this agent in your company:**
+**Перед использованием этого агента в вашей компании:**
 
-1. **Replace Company Name Placeholder:**
-   - In `agent-prompt.md`: Replace `[COMPANY_NAME]` with your actual company name
-   - In `agent.py`: Replace `[COMPANY_NAME]` with your actual company name
-   - In `agent-config.json`: Replace `[COMPANY_NAME]` with your actual company name
-   - In `run-agent.sh`: Replace `[COMPANY_NAME]` with your actual company name
+1. **Замените Плейсхолдер Имени Компании:**
+   - В `agent-prompt.md`: Замените `[COMPANY_NAME]` на ваше реальное имя компании
+   - В `agent.py`: Замените `[COMPANY_NAME]` на ваше реальное имя компании
+   - В `agent-config.json`: Замените `[COMPANY_NAME]` на ваше реальное имя компании
+   - В `run-agent.sh`: Замените `[COMPANY_NAME]` на ваше реальное имя компании
 
-2. **Customize Evaluation Criteria:**
-   - Modify the critical competencies in `agent-config.json`
-   - Update fit thresholds based on your hiring standards
-   - Adjust the red flags and role expectation factors
+2. **Настройте Критерии Оценки:**
+   - Измените критические компетенции в `agent-config.json`
+   - Обновите пороги соответствия на основе ваших стандартов найма
+   - Настройте красные флаги и факторы ожиданий от роли
 
-3. **Set Up Directory Structure:**
-   - Ensure your global rules files exist in the expected locations
-   - Update file paths in `agent-config.json` if your structure differs
+3. **Настройте Структуру Директорий:**
+   - Убедитесь, что ваши файлы глобальных правил существуют в ожидаемых местах
+   - Обновите пути к файлам в `agent-config.json`, если ваша структура отличается
 
-## Overview
+## Обзор
 
-The screening agent uses AI-powered analysis to:
+Агент скрининга использует анализ на основе AI для:
 
-1. Review candidate CVs and screening interview transcripts
-2. Evaluate candidate suitability based on initial impressions
-3. Assess alignment with role requirements
-4. Generate structured screening evaluations
-5. Provide recommendations on next steps in the hiring process
+1. Обзора резюме кандидатов и транскриптов скрининг-интервью
+2. Оценки пригодности кандидата на основе начальных впечатлений
+3. Оценки соответствия требованиям роли
+4. Генерации структурированных оценок скрининга
+5. Предоставления рекомендаций по следующим шагам в процессе найма
 
-> **⚠️ IMPORTANT NOTE:** This is a demonstration agent that uses placeholder screening logic. For production use, you need to integrate it with a real LLM API (OpenAI, Anthropic, etc.) or custom AI model to perform actual intelligent evaluation of candidate materials.
+> **⚠️ ВАЖНОЕ ПРИМЕЧАНИЕ:** Это демонстрационный агент, который использует логику скрининга-заглушку. Для использования в продакшене вам нужно интегрировать его с реальным LLM API (OpenAI, Anthropic и т.д.) или кастомной AI моделью для выполнения реальной интеллектуальной оценки материалов кандидата.
 
-## Quick Start for Template Users
+## Быстрый Старт для Пользователей Шаблона
 
-1. **Setup:**
+1. **Настройка:**
    ```bash
-   # Install dependencies
+   # Установка зависимостей
    pip install markdown
    
-   # Replace company name placeholders
+   # Замена плейсхолдеров имени компании
    sed -i 's/\[COMPANY_NAME\]/YourCompany/g' agent-prompt.md
    sed -i 's/\[COMPANY_NAME\]/YourCompany/g' agent.py
    sed -i 's/\[COMPANY_NAME\]/YourCompany/g' agent-config.json
    sed -i 's/\[COMPANY_NAME\]/YourCompany/g' run-agent.sh
    ```
 
-2. **Run screening:**
+2. **Запуск скрининга:**
    ```bash
-   # Make script executable
+   # Сделать скрипт исполняемым
    chmod +x run-agent.sh
    
-   # Screen all candidates
+   # Скрининг всех кандидатов
    ./run-agent.sh
    
-   # Or screen specific candidate
+   # Или скрининг конкретного кандидата
    ./run-agent.sh --candidate Candidate-John-Doe
    ```
 
-3. **Customize for your needs:**
-   - Modify critical competencies in `agent-config.json`
-   - Adjust red flags and role expectation factors
-   - Update file paths for your directory structure
+3. **Настройка под ваши нужды:**
+   - Измените критические компетенции в `agent-config.json`
+   - Настройте красные флаги и факторы ожиданий от роли
+   - Обновите пути к файлам для вашей структуры директорий
 
-## Setup Requirements
+## Требования к Настройке
 
-- Python 3.7 or higher
-- Required Python packages:
+- Python 3.7 или выше
+- Необходимые пакеты Python:
   - markdown
   - argparse
 
-You can install the required packages using pip:
+Вы можете установить необходимые пакеты с помощью pip:
 
 ```
 pip install markdown
 ```
 
-## Directory Structure
+## Структура Директорий
 
-The agent expects a specific directory structure:
+Агент ожидает специфическую структуру директорий:
 
 ```
 Senior-Marketing-Analyst/
@@ -95,53 +95,53 @@ Senior-Marketing-Analyst/
 │   │   ├── CV.md
 │   │   ├── Fathom-Screening-Interview.md
 │   │   └── ...
-│   └── Other candidates...
+│   └── Другие кандидаты...
 └── Screening-Agent/
     ├── agent.py
     ├── agent-config.json
     ├── agent-prompt.md
-    └── README.md (this file)
+    └── README.md (этот файл)
 ```
 
-## Configuration
+## Конфигурация
 
-The agent is configured via the `agent-config.json` file. Key settings include:
+Агент конфигурируется через файл `agent-config.json`. Ключевые настройки включают:
 
-- Context files that define evaluation criteria
-- Critical competencies for the role
-- Fit thresholds for candidate evaluation
-- Output file settings
+- Контекстные файлы, которые определяют критерии оценки
+- Критические компетенции для роли
+- Пороги соответствия для оценки кандидата
+- Настройки выходных файлов
 
-## Usage
+## Использование
 
-To evaluate all candidates:
+Чтобы оценить всех кандидатов:
 
 ```bash
 python agent.py
 ```
 
-To evaluate a specific candidate:
+Чтобы оценить конкретного кандидата:
 
 ```bash
 python agent.py --candidate Candidate-John-Doe
 ```
 
-## Output Files
+## Выходные Файлы
 
-For each candidate, the agent generates:
+Для каждого кандидата агент генерирует:
 
-1. **Screening-Evaluation.md** - Initial evaluation with recommendations
-2. **AI-Notes.md** - Additional AI-generated insights about the candidate
+1. **Screening-Evaluation.md** - Начальная оценка с рекомендациями
+2. **AI-Notes.md** - Дополнительные инсайты, сгенерированные AI о кандидате
 
-## Human Approval
+## Одобрение Человеком
 
-By default, the agent requires human approval before finalizing evaluations. This setting can be adjusted in the configuration file.
+По умолчанию агент требует одобрения человеком перед финализацией оценок. Эту настройку можно изменить в файле конфигурации.
 
-## Relationship to Full Evaluation Agent
+## Отношение к Агенту Полной Оценки
 
-The Screening Agent works alongside the Full Evaluation Agent in a two-stage process:
+Агент Скрининга работает вместе с Агентом Полной Оценки в двухэтапном процессе:
 
-1. **Screening Agent**: Performs initial candidate screening based on CV and screening interview
-2. **Full Evaluation Agent**: Conducts comprehensive evaluation including technical interview results
+1. **Агент Скрининга**: Выполняет начальный скрининг кандидата на основе резюме и скрининг-интервью
+2. **Агент Полной Оценки**: Проводит комплексную оценку, включая результаты технического интервью
 
-This allows for a more efficient hiring process by quickly identifying promising candidates for more in-depth evaluation. 
+Это позволяет сделать процесс найма более эффективным, быстро выявляя перспективных кандидатов для более глубокой оценки.

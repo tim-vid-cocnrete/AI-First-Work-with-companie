@@ -1,15 +1,15 @@
-# Final Candidate Score
+# Финальный Балл Кандидата
 
-## Technical Competency: [Score 1-10]
-[Justification for score]
+## Техническая Компетенция: [Оценка 1-10]
+[Обоснование оценки]
 
-## Experience Relevance: [Score 1-10]
-[Justification for score]
+## Релевантность Опыта: [Оценка 1-10]
+[Обоснование оценки]
 
-## Cultural Fit: [Score 1-10]
-[Justification for score]
+## Культурное Соответствие: [Оценка 1-10]
+[Обоснование оценки]
 
-## Communication Skills: [Score 1-10]
-[Justification for score]
+## Навыки Коммуникации: [Оценка 1-10]
+[Обоснование оценки]
 
-## Overall Score: [Average of above scores]
+## Общий Балл: [Среднее из оценок выше]

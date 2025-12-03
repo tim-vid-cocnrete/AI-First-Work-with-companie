@@ -1,24 +1,23 @@
-# Scoring Framework
+# Фреймворк Оценки
 
-*This is a template example. Adjust scoring criteria based on your company's role requirements and evaluation standards.*
+*Это пример шаблона. Настройте критерии оценки на основе требований роли вашей компании и стандартов оценки.*
 
-## Evaluation Scale:
+## Шкала Оценки:
 
-- **5 — Expert Level**: Candidate demonstrates deep knowledge and consistent practical experience, capable of teaching others
-- **4 — Strong Level**: Candidate confidently possesses required skills, capable of independently solving tasks
-- **3 — Meets Expectations**: Basic required competency level for task execution
-- **2 — Partially Meets**: Limited experience, requires additional training or support
-- **1 — Weak**: Practically no relevant experience or skills in this competency
+- **5 — Экспертный Уровень**: Кандидат демонстрирует глубокие знания и последовательный практический опыт, способен обучать других
+- **4 — Сильный Уровень**: Кандидат уверенно владеет необходимыми навыками, способен самостоятельно решать задачи
+- **3 — Соответствует Ожиданиям**: Базовый необходимый уровень компетенции для выполнения задач
+- **2 — Частично Соответствует**: Ограниченный опыт, требует дополнительного обучения или поддержки
+- **1 — Слабый**: Практически нет релевантного опыта или навыков в этой компетенции
 
-## General Evaluation Rules:
+## Общие Правила Оценки:
 
-- Each competency is evaluated separately
-- Evaluation based on all available sources: CV, Interview Transcripts, AI Notes, Evaluations
-- When data is insufficient, competency marked as "Insufficient Data"
-- Overall final fit calculated according to individual Scoring Rules for each specific position
-- Evaluation has expert-analytical nature: must consider both direct competency confirmations and context (e.g., task complexity, company size, independence level)
+- Каждая компетенция оценивается отдельно
+- Оценка основывается на всех доступных источниках: CV, Транскрипты Интервью, AI Заметки, Оценки
+- Когда данных недостаточно, компетенция помечается как "Недостаточно Данных"
+- Общее финальное соответствие рассчитывается согласно индивидуальным Правилам Скоринга для каждой конкретной позиции
+- Оценка носит экспертно-аналитический характер: должна учитывать как прямые подтверждения компетенции, так и контекст (например, сложность задач, размер компании, уровень самостоятельности)
 
 ---
 
-*Template Note: Customize scoring criteria and weights based on your specific role requirements, company standards, and industry benchmarks.*
-
+*Примечание к шаблону: Кастомизируйте критерии оценки и веса на основе ваших специфичных требований роли, стандартов компании и бенчмарков индустрии.*

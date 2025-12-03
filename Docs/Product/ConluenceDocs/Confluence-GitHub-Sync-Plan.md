@@ -1,60 +1,60 @@
-# Confluence-GitHub Documentation Strategy Template
-*[TEMPLATE EXAMPLE - Research-based evaluation of options for working with Confluence content in development workflows]*
+# Стратегия Документации Confluence-GitHub Шаблон
+*[ПРИМЕР ШАБЛОНА - Оценка опций для работы с контентом Confluence в рабочих процессах разработки на основе исследований]*
 
-## Overview
-This template provides a research-based comparison of approaches for integrating Confluence documentation with development workflows, particularly for working with AI coding assistants like Cursor.
+## Обзор
+Этот шаблон предоставляет сравнение подходов для интеграции документации Confluence с рабочими процессами разработки на основе исследований, особенно для работы с AI ассистентами кодирования, такими как Cursor.
 
-## 🎯 Goals
-1. **Enable AI-powered development**: Work with Confluence docs directly in Cursor/VS Code with AI assistance
-2. **Maintain single source of truth**: Avoid sync conflicts and data duplication issues
-3. **Minimize maintenance overhead**: Choose solutions that don't require constant upkeep
-4. **Leverage existing tools**: Build on proven technologies rather than custom solutions
+## 🎯 Цели
+1. **Включить AI-powered разработку**: Работать с документами Confluence напрямую в Cursor/VS Code с помощью AI
+2. **Поддерживать единый источник истины**: Избегать конфликтов синхронизации и проблем дублирования данных
+3. **Минимизировать накладные расходы на обслуживание**: Выбирать решения, не требующие постоянного ухода
+4. **Использовать существующие инструменты**: Строить на проверенных технологиях, а не на кастомных решениях
 
-## 📊 Research Findings: Sync Solutions Reality Check
+## 📊 Результаты Исследования: Проверка Реальности Решений Синхронизации
 
-### Real User Experiences (2024)
-Based on community research and user reports:
+### Реальный Опыт Пользователей (2024)
+На основе исследования сообщества и отчетов пользователей:
 
-**❌ Traditional Sync Approaches - Major Issues:**
-- "We found a few open source GitHub projects but all aren't maintained" - Atlassian Community user
-- Multiple users report sync solutions break frequently 
-- Versioning conflicts between Confluence and Git become unmanageable
-- Custom scripts require ongoing maintenance as APIs change
-- Performance issues with large documentation sets
+**❌ Традиционные Подходы Синхронизации - Основные Проблемы:**
+- "Мы нашли несколько open source проектов GitHub, но все они не поддерживаются" - пользователь Atlassian Community
+- Множество пользователей сообщают, что решения синхронизации часто ломаются
+- Конфликты версий между Confluence и Git становятся неуправляемыми
+- Кастомные скрипты требуют постоянного обслуживания при изменении API
+- Проблемы производительности с большими наборами документации
 
-**📈 Confluence Service Reliability (2024):**
-- 132 incidents affecting Jira/Confluence services
-- Over 2,100+ hours of service disruptions in 2024
-- Regular API changes breaking custom integrations
+**📈 Надежность Сервиса Confluence (2024):**
+- 132 инцидента, затрагивающих сервисы Jira/Confluence
+- Более 2,100+ часов перебоев в обслуживании в 2024
+- Регулярные изменения API, ломающие кастомные интеграции
 
-**🔍 Tool Evaluation Results:**
+**🔍 Результаты Оценки Инструментов:**
 
-| Approach | User Rating | Maintenance | Reliability | Best For |
-|----------|-------------|-------------|-------------|----------|
-| Manual Export/Import | 2/5 | High | Low | One-time migration |
-| Git for Confluence | 3/5 | Medium | Medium | Embedding GitHub in Confluence |
-| Custom Python Scripts | 2/5 | Very High | Low | Deprecated |
-| GitHub-to-Confluence Publishers | 3/5 | Medium | Medium | One-way sync only |
-| **MCP Integration** | **5/5** | **Low** | **High** | **AI-powered workflows** |
+| Подход | Рейтинг Пользователей | Обслуживание | Надежность | Лучше Для |
+|----------|-------------|-------------|-------------|------------|
+| Ручной Экспорт/Импорт | 2/5 | Высокое | Низкая | Одноразовая миграция |
+| Git for Confluence | 3/5 | Среднее | Средняя | Встраивание GitHub в Confluence |
+| Кастомные Python Скрипты | 2/5 | Очень Высокое | Низкая | Устарело |
+| GitHub-to-Confluence Publishers | 3/5 | Среднее | Средняя | Только односторонняя синхронизация |
+| **MCP Интеграция** | **5/5** | **Низкое** | **Высокая** | **AI-powered рабочие процессы** |
 
-## ⭐ Recommended Approach: Model Context Protocol (MCP)
+## ⭐ Рекомендуемый Подход: Model Context Protocol (MCP)
 
-### Why MCP is the Game-Changer
+### Почему MCP - Прорыв
 
-**🆕 Official Atlassian MCP Server (2024)**
-- Atlassian released an official Remote MCP Server for Jira and Confluence
-- Direct access to Confluence content through AI agents
-- No sync required - single source of truth maintained
-- OAuth authentication with proper permission boundaries
+**🆕 Официальный Atlassian MCP Сервер (2024)**
+- Atlassian выпустил официальный Remote MCP Server для Jira и Confluence
+- Прямой доступ к контенту Confluence через AI агентов
+- Синхронизация не требуется - поддерживается единый источник истины
+- OAuth аутентификация с правильными границами разрешений
 
-**✅ Key Advantages:**
-1. **No Version Conflicts**: Direct access eliminates sync issues
-2. **Low Maintenance**: Official support from Atlassian
-3. **AI-Native**: Designed specifically for AI agent workflows
-4. **Secure**: OAuth 2.0 authentication with permission controls
-5. **Real-time**: Always up-to-date content access
+**✅ Ключевые Преимущества:**
+1. **Нет Конфликтов Версий**: Прямой доступ устраняет проблемы синхронизации
+2. **Низкое Обслуживание**: Официальная поддержка от Atlassian
+3. **AI-Native**: Разработан специально для рабочих процессов AI агентов
+4. **Безопасность**: OAuth 2.0 аутентификация с контролем разрешений
+5. **Реальное Время**: Всегда актуальный доступ к контенту
 
-### How MCP Works with Cursor
+### Как MCP Работает с Cursor
 
 ```mermaid
 graph LR
@@ -63,15 +63,15 @@ graph LR
     C --> D[Confluence Cloud API]
     D --> E[Your Confluence Content]
     
-    A --> F[User Request: "Update docs for this feature"]
+    A --> F["User Request: Update docs for this feature"]
     E --> G[Real-time access to pages]
 ```
 
-### MCP Implementation Options
+### Опции Внедрения MCP
 
-#### 1. Atlassian Official MCP Server ⭐ Recommended
+#### 1. Официальный Atlassian MCP Сервер ⭐ Рекомендуется
 ```bash
-# Configure in Claude Desktop or Cursor
+# Настройка в Claude Desktop или Cursor
 {
   "atlassian-mcp": {
     "command": "npx",
@@ -84,18 +84,18 @@ graph LR
 }
 ```
 
-**Capabilities:**
-- Search Confluence pages and spaces
-- Read page content with proper formatting
-- Create and update pages
-- Respect all Confluence permissions
-- Multi-step operations (create issues AND link to docs)
+**Возможности:**
+- Поиск страниц и пространств Confluence
+- Чтение содержимого страниц с правильным форматированием
+- Создание и обновление страниц
+- Соблюдение всех разрешений Confluence
+- Многошаговые операции (создание задач И связывание с документами)
 
-#### 2. Custom MCP Server (Advanced)
-For specialized workflows, build a custom MCP server:
+#### 2. Кастомный MCP Сервер (Продвинутый)
+Для специализированных рабочих процессов, создайте кастомный MCP сервер:
 
 ```python
-# Example MCP server structure
+# Пример структуры MCP сервера
 from fastmcp import FastMCP
 from atlassian import Confluence
 
@@ -103,137 +103,137 @@ mcp = FastMCP("Custom Confluence MCP")
 
 @mcp.tool()
 def search_confluence_docs(query: str, space_key: str = None):
-    """Search Confluence with filters specific to your workflow"""
-    # Your custom logic here
+    """Поиск Confluence с фильтрами, специфичными для вашего рабочего процесса"""
+    # Ваша кастомная логика здесь
     pass
 
 @mcp.prompt()
 def create_technical_spec(feature_name: str):
-    """Template for creating technical specifications"""
-    return f"""Create a technical specification for {feature_name}...."""
+    """Шаблон для создания технических спецификаций"""
+    return f"""Создать техническую спецификацию для {feature_name}...."""
 ```
 
-## 🔄 Alternative Approaches (Not Recommended)
+## 🔄 Альтернативные Подходы (Не Рекомендуются)
 
-### 1. Traditional Sync Solutions
-**Status**: Maintenance nightmare based on 2024 user reports
+### 1. Традиционные Решения Синхронизации
+**Статус**: Кошмар обслуживания на основе отчетов пользователей 2024
 
-- **Git for Confluence**: Good for embedding, poor for full sync
-- **GitHub-to-Confluence Publisher**: One-way only, breaks frequently  
-- **Custom Scripts**: High maintenance, API changes break them
-- **Zapier/Tray.ai**: Limited functionality, expensive for enterprise
+- **Git for Confluence**: Хорош для встраивания, плох для полной синхронизации
+- **GitHub-to-Confluence Publisher**: Только односторонний, часто ломается
+- **Кастомные Скрипты**: Высокое обслуживание, изменения API их ломают
+- **Zapier/Tray.ai**: Ограниченная функциональность, дорого для enterprise
 
-### 2. Manual Export/Import
-**Status**: Only for one-time migrations
+### 2. Ручной Экспорт/Импорт
+**Статус**: Только для одноразовых миграций
 
-- Export Confluence spaces to Markdown
-- Manually maintain in GitHub
-- Loses all Confluence-specific features
-- No bidirectional updates
+- Экспорт пространств Confluence в Markdown
+- Ручное обслуживание в GitHub
+- Теряет все специфичные для Confluence функции
+- Нет двунаправленных обновлений
 
-## 🚀 Implementation Guide
+## 🚀 Руководство по Внедрению
 
-### Phase 1: Evaluation (Week 1)
-1. **Test Atlassian MCP Server**
+### Фаза 1: Оценка (Неделя 1)
+1. **Тестирование Atlassian MCP Сервера**
    ```bash
-   # Install Anthropic's Claude Desktop
-   # Configure Atlassian MCP server
-   # Test with sample Confluence content
+   # Установить Claude Desktop от Anthropic
+   # Настроить Atlassian MCP сервер
+   # Протестировать с примером контента Confluence
    ```
 
-2. **Assess Current Documentation**
-   - Audit critical Confluence spaces
-   - Identify most-used content
-   - Map user workflows and requirements
+2. **Оценка Текущей Документации**
+   - Аудит критических пространств Confluence
+   - Идентификация наиболее используемого контента
+   - Картирование пользовательских рабочих процессов и требований
 
-### Phase 2: MCP Setup (Week 2)
-1. **OAuth Configuration**
-   - Set up Atlassian API tokens
-   - Configure OAuth 2.0 flow
-   - Test permission boundaries
+### Фаза 2: Настройка MCP (Неделя 2)
+1. **Конфигурация OAuth**
+   - Настройка API токенов Atlassian
+   - Конфигурация OAuth 2.0 потока
+   - Тестирование границ разрешений
 
-2. **Cursor/Claude Integration**
-   - Install MCP server
-   - Configure client applications
-   - Train team on new workflows
+2. **Интеграция Cursor/Claude**
+   - Установка MCP сервера
+   - Конфигурация клиентских приложений
+   - Обучение команды новым рабочим процессам
 
-### Phase 3: Workflow Optimization (Ongoing)
-1. **Custom Prompts**
-   - Create templates for common doc types
-   - Set up automated workflows
-   - Build team-specific shortcuts
+### Фаза 3: Оптимизация Рабочего Процесса (Постоянно)
+1. **Кастомные Промпты**
+   - Создание шаблонов для общих типов документов
+   - Настройка автоматизированных рабочих процессов
+   - Создание специфичных для команды ярлыков
 
-2. **Monitoring and Maintenance**
-   - Track usage and performance
-   - Monitor for API changes
-   - Gather team feedback
+2. **Мониторинг и Обслуживание**
+   - Отслеживание использования и производительности
+   - Мониторинг изменений API
+   - Сбор обратной связи от команды
 
-## 📋 Decision Matrix
+## 📋 Матрица Решений
 
-Use this matrix to evaluate approaches for your organization:
+Используйте эту матрицу для оценки подходов для вашей организации:
 
-| Criteria | Weight | MCP | Sync Solutions | Manual |
+| Критерий | Вес | MCP | Решения Синхронизации | Ручной |
 |----------|--------|-----|----------------|--------|
-| **Maintenance Effort** | 25% | 9/10 | 3/10 | 2/10 |
-| **Reliability** | 20% | 9/10 | 4/10 | 5/10 |
-| **AI Integration** | 20% | 10/10 | 2/10 | 1/10 |
-| **Real-time Updates** | 15% | 10/10 | 5/10 | 1/10 |
-| **Security** | 10% | 9/10 | 6/10 | 8/10 |
-| **Setup Complexity** | 10% | 7/10 | 4/10 | 9/10 |
-| ****Total Score** | | **9.1/10** | **3.8/10** | **3.1/10** |
+| **Усилия на Обслуживание** | 25% | 9/10 | 3/10 | 2/10 |
+| **Надежность** | 20% | 9/10 | 4/10 | 5/10 |
+| **AI Интеграция** | 20% | 10/10 | 2/10 | 1/10 |
+| **Обновления в Реальном Времени** | 15% | 10/10 | 5/10 | 1/10 |
+| **Безопасность** | 10% | 9/10 | 6/10 | 8/10 |
+| **Сложность Настройки** | 10% | 7/10 | 4/10 | 9/10 |
+| **Общий Счет** | | **9.1/10** | **3.8/10** | **3.1/10** |
 
-## 🔒 Security Considerations
+## 🔒 Соображения Безопасности
 
-### MCP Security Best Practices
-1. **Permission Controls**: Respect existing Confluence permissions
-2. **OAuth Tokens**: Rotate regularly, limit scope
-3. **Audit Logging**: Track all AI-generated changes
-4. **Content Review**: Implement approval workflows for AI-created content
+### Лучшие Практики Безопасности MCP
+1. **Контроль Разрешений**: Соблюдение существующих разрешений Confluence
+2. **OAuth Токены**: Регулярная ротация, ограничение области
+3. **Логирование Аудита**: Отслеживание всех изменений, сгенерированных AI
+4. **Проверка Контента**: Внедрение рабочих процессов одобрения для контента, созданного AI
 
-### Data Privacy
-- AI agents only access explicitly permitted content
-- No data stored outside Confluence
-- Full audit trail of all interactions
+### Конфиденциальность Данных
+- AI агенты получают доступ только к явно разрешенному контенту
+- Данные не хранятся вне Confluence
+- Полный аудит-трейл всех взаимодействий
 
-## 📚 Additional Resources
+## 📚 Дополнительные Ресурсы
 
-### Official Documentation
-- [Atlassian MCP Server Documentation](https://www.atlassian.com/blog/announcements/remote-mcp-server)
-- [Model Context Protocol Specification](https://spec.modelcontextprotocol.io/)
-- [Anthropic MCP Introduction](https://www.anthropic.com/news/model-context-protocol)
+### Официальная Документация
+- [Документация Atlassian MCP Сервера](https://www.atlassian.com/blog/announcements/remote-mcp-server)
+- [Спецификация Model Context Protocol](https://spec.modelcontextprotocol.io/)
+- [Введение в MCP от Anthropic](https://www.anthropic.com/news/model-context-protocol)
 
-### Community Resources
-- [MCP Server Collection](https://cursor.directory/mcp)
+### Ресурсы Сообщества
+- [Коллекция MCP Серверов](https://cursor.directory/mcp)
 - [FastMCP Python Framework](https://github.com/jlowin/fastmcp)
-- [MCP Examples and Templates](https://github.com/modelcontextprotocol)
+- [Примеры и Шаблоны MCP](https://github.com/modelcontextprotocol)
 
-### Migration Guides
-- [Confluence REST API Documentation](https://developer.atlassian.com/cloud/confluence/rest/v1/)
-- [OAuth 2.0 Setup for Atlassian](https://developer.atlassian.com/cloud/confluence/oauth-2-3lo-apps/)
+### Руководства по Миграции
+- [Документация Confluence REST API](https://developer.atlassian.com/cloud/confluence/rest/v1/)
+- [Настройка OAuth 2.0 для Atlassian](https://developer.atlassian.com/cloud/confluence/oauth-2-3lo-apps/)
 
 ---
 
-## 📊 Success Metrics
+## 📊 Метрики Успеха
 
-### Measure Implementation Success
-- **Developer Productivity**: Time to find/update documentation
-- **Content Freshness**: Average age of documentation
-- **AI Adoption**: Percentage of docs touched by AI assistance  
-- **Error Reduction**: Fewer sync conflicts and broken links
-- **Team Satisfaction**: Survey results on new workflow
+### Измерение Успеха Внедрения
+- **Продуктивность Разработчиков**: Время на поиск/обновление документации
+- **Свежесть Контента**: Средний возраст документации
+- **Принятие AI**: Процент документов, затронутых AI помощью
+- **Снижение Ошибок**: Меньше конфликтов синхронизации и битых ссылок
+- **Удовлетворенность Команды**: Результаты опроса по новому рабочему процессу
 
-### Key Performance Indicators
+### Ключевые Показатели Эффективности
 ```yaml
 target_metrics:
-  doc_search_time: "< 30 seconds"
-  content_update_frequency: "Weekly for active projects"
-  ai_assistance_usage: "> 80% of team"
-  sync_conflict_rate: "0% (eliminated with MCP)"
-  system_uptime: "> 99% (leveraging Atlassian infrastructure)"
+  doc_search_time: "< 30 секунд"
+  content_update_frequency: "Еженедельно для активных проектов"
+  ai_assistance_usage: "> 80% команды"
+  sync_conflict_rate: "0% (устранено с MCP)"
+  system_uptime: "> 99% (используя инфраструктуру Atlassian)"
 ```
 
 ---
 
-*Last Updated: Based on 2024 research and user experiences*  
-*Status: Template for organizations evaluating documentation workflows*  
-*Recommendation: Start with MCP evaluation - it's the clear winner for AI-powered development*
+*Последнее Обновление: На основе исследований и опыта пользователей 2024*
+*Статус: Шаблон для организаций, оценивающих рабочие процессы документации*
+*Рекомендация: Начните с оценки MCP - это явный победитель для AI-powered разработки*

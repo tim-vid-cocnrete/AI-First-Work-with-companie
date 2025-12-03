@@ -1,114 +1,114 @@
-# Automated Sales Meeting Processing - Demo
+# Автоматизированная Обработка Встреч Продаж - Демо
 
-🚀 **Demo system for processing Fireflies.ai meeting transcripts and creating structured client profiles.**
+🚀 **Демо система для обработки транскриптов встреч Fireflies.ai и создания структурированных профилей клиентов.**
 
-This is a demonstration version designed for presentations and workshops. It processes a specific demo meeting to show AI-powered sales automation capabilities.
+Это демонстрационная версия, разработанная для презентаций и воркшопов. Она обрабатывает конкретную демо встречу, чтобы показать возможности автоматизации продаж с помощью AI.
 
-## 🎯 Demo Meeting
+## 🎯 Демо Встреча
 
-**Meeting:** Elly Analytics XS Discovery Call  
-**Meeting ID:** `01K1ZF3FGSY686JHZV0QSFG57K`  
+**Встреча:** Elly Analytics XS Discovery Call
+**ID Встречи:** `01K1ZF3FGSY686JHZV0QSFG57K`
 **URL:** https://app.fireflies.ai/view/Elly-Analytics-XS-discovery-call::01K1ZF3FGSY686JHZV0QSFG57K
 
-## 🚀 Quick Start
+## 🚀 Быстрый Старт
 
-### 1. Install Dependencies
+### 1. Установить Зависимости
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Set Up Environment (Optional)
+### 2. Настроить Окружение (Опционально)
 ```bash
 cp .env.example .env
-# Edit .env with your API keys
+# Отредактировать .env с вашими API ключами
 ```
 
-### 3. Run Demo
+### 3. Запустить Демо
 ```bash
 python demo-meeting-processor.py
 ```
 
-## 📋 What It Does
+## 📋 Что Это Делает
 
-1. **Fetches Meeting Transcript** from Fireflies.ai API
-2. **Processes with AI** using two different analysis templates:
-   - `prompt_internal.txt` - Internal team summary
-   - `prompt_notion.txt` - Structured sales analysis
-3. **Saves Results** in markdown format with timestamps
-4. **Auto-detects Workspace** and saves files appropriately
+1. **Получает Транскрипт Встречи** из Fireflies.ai API
+2. **Обрабатывает с AI**, используя два разных шаблона анализа:
+   - `prompt_internal.txt` - Внутреннее саммари для команды
+   - `prompt_notion.txt` - Структурированный анализ продаж
+3. **Сохраняет Результаты** в формате markdown с временными метками
+4. **Автоопределяет Рабочее Пространство** и сохраняет файлы соответственно
 
-## 📁 Output Files
+## 📁 Выходные Файлы
 
-The script creates files in the `output/` directory:
+Скрипт создает файлы в директории `output/`:
 - `XS Discovery Call_prompt_internal_[timestamp].md`
 - `XS Discovery Call_prompt_notion_[timestamp].md`
 
-## 🔧 Demo Mode
+## 🔧 Режим Демо
 
-**Without API Keys:** Script runs in demo mode with mock data  
-**With API Keys:** Connects to real Fireflies.ai and OpenAI APIs
+**Без API Ключей:** Скрипт работает в режиме демо с mock данными
+**С API Ключами:** Подключается к реальным Fireflies.ai и OpenAI API
 
-## 📊 Example Output
+## 📊 Пример Вывода
 
-### Internal Summary
+### Внутреннее Саммари
 ```markdown
-🎯 **Meeting Purpose**
-- Discovery call with XS Corp
-- Initial exploration of marketing analytics needs
+🎯 **Цель Встречи**
+- Discovery звонок с XS Corp
+- Первичное исследование потребностей в маркетинговой аналитике
 
-👥 **Client Overview**
-- XS Corp - B2C SaaS company
-- Subscription-based business model
+👥 **Обзор Клиента**
+- XS Corp - B2C SaaS компания
+- Бизнес-модель на основе подписки
 
-💻 **Current Tech Stack**
-- Google Ads and Facebook campaigns
-- $50K monthly ad spend
-- Attribution challenges
+💻 **Текущий Технический Стек**
+- Кампании Google Ads и Facebook
+- $50K ежемесячные расходы на рекламу
+- Проблемы атрибуции
 ```
 
-### Notion Summary
+### Notion Саммари
 ```markdown
-# 📌 Short Summary
+# 📌 Краткое Саммари
 
-**Lead Information**
-- **Lead Source:** Inbound
-- **🚀 Next Step:** Meeting scheduled: Yes - Jan 22, 2024
-- **👤 Business Type:** B2C SaaS
-- **💸 Ad Spend & Channels:** $50K monthly - Google Ads, Facebook
+**Информация о Лиде**
+- **Источник Лида:** Входящий
+- **🚀 Следующий Шаг:** Встреча запланирована: Да - 22 Янв, 2024
+- **👤 Тип Бизнеса:** B2C SaaS
+- **💸 Расходы на Рекламу и Каналы:** $50K ежемесячно - Google Ads, Facebook
 ```
 
-## 🎬 Live Demo Instructions
+## 🎬 Инструкции для Живого Демо
 
-1. **Show Fireflies.ai** with the demo meeting
-2. **Run the script** and explain the process
-3. **Display results** showing AI-generated analysis
-4. **Highlight key features:**
-   - Automatic workspace detection
-   - Dual analysis templates
-   - Structured output format
-   - Real-time processing
+1. **Показать Fireflies.ai** с демо встречей
+2. **Запустить скрипт** и объяснить процесс
+3. **Показать результаты**, демонстрируя AI-сгенерированный анализ
+4. **Подсветить ключевые функции:**
+   - Автоматическое определение рабочего пространства
+   - Двойные шаблоны анализа
+   - Структурированный формат вывода
+   - Обработка в реальном времени
 
-## 🔗 Integration Possibilities
+## 🔗 Возможности Интеграции
 
-- **Notion:** Automatic client profile creation
-- **CRM Systems:** Lead scoring and data enrichment  
-- **Slack/Teams:** Automated meeting summaries
-- **Email:** Follow-up action items
+- **Notion:** Автоматическое создание профиля клиента
+- **CRM Системы:** Скоринг лидов и обогащение данных
+- **Slack/Teams:** Автоматизированные саммари встреч
+- **Email:** Пункты действий для фоллоу-апа
 
-## ⚙️ Configuration
+## ⚙️ Конфигурация
 
-The script automatically detects the workspace:
-- `Personal-Super-Agent-Ru` → Saves in this workspace
-- `Personal-Super-Agent` → Saves in this workspace  
-- `ai-first-workspace-template` → Saves in this workspace
+Скрипт автоматически определяет рабочее пространство:
+- `Personal-Super-Agent-Ru` → Сохраняет в этом рабочем пространстве
+- `Personal-Super-Agent` → Сохраняет в этом рабочем пространстве
+- `ai-first-workspace-template` → Сохраняет в этом рабочем пространстве
 
-## 🎯 Use Cases
+## 🎯 Варианты Использования
 
-- **Sales Teams:** Automated meeting summaries
-- **Account Managers:** Client profile building
-- **Marketing:** Lead qualification insights
-- **Management:** Pipeline analysis and coaching
+- **Команды Продаж:** Автоматизированные саммари встреч
+- **Менеджеры Аккаунтов:** Построение профилей клиентов
+- **Маркетинг:** Инсайты квалификации лидов
+- **Менеджмент:** Анализ пайплайна и коучинг
 
 ---
 
-*This is a demonstration tool designed to showcase AI-powered sales automation capabilities. Perfect for presentations, workshops, and proof-of-concept demonstrations.*
+*Это демонстрационный инструмент, разработанный для демонстрации возможностей автоматизации продаж с помощью AI. Идеально подходит для презентаций, воркшопов и демонстраций proof-of-concept.*

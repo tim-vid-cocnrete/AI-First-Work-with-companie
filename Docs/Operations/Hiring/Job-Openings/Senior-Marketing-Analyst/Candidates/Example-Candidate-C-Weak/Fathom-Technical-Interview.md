@@ -1,21 +1,21 @@
-# Technical Interview
+# Техническое Интервью
 
-[This file will contain the transcript or notes from the technical interview with the candidate]
+[Этот файл будет содержать транскрипт или заметки с технического интервью с кандидатом]
 
-## SQL Assessment
-[Notes on candidate's SQL skills demonstration]
+## Оценка SQL
+[Заметки о демонстрации навыков SQL кандидатом]
 
-## Data Modeling Assessment
-[Notes on candidate's data modeling knowledge]
+## Оценка Моделирования Данных
+[Заметки о знаниях моделирования данных кандидата]
 
-## Power BI/Visualization Assessment
-[Notes on candidate's visualization skills]
+## Оценка Power BI/Визуализации
+[Заметки о навыках визуализации кандидата]
 
-## API/Integration Knowledge
-[Notes on candidate's API and integration knowledge]
+## Знания API/Интеграции
+[Заметки о знаниях API и интеграции кандидата]
 
-## Technical Communication
-[Assessment of how well the candidate explains technical concepts]
+## Техническая Коммуникация
+[Оценка того, насколько хорошо кандидат объясняет технические концепции]
 
-## Overall Technical Assessment
-[Summary of technical strengths and weaknesses]
+## Общая Техническая Оценка
+[Саммари технических сильных и слабых сторон]

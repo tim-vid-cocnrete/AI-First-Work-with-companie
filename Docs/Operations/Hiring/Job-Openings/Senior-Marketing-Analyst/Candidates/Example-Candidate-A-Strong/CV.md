@@ -1,90 +1,90 @@
 # SARAH JOHNSON
-*[TEMPLATE EXAMPLE - This is a fictional candidate profile for demonstration purposes]*
+*[ПРИМЕР ШАБЛОНА - Это вымышленный профиль кандидата для демонстрационных целей]*
 
-**Senior Marketing Analyst**  
-📧 sarah.johnson@example.com | 📱 +1-555-0123 | 🌍 New York, NY  
+**Senior Marketing Analyst**
+📧 sarah.johnson@example.com | 📱 +1-555-0123 | 🌍 New York, NY
 LinkedIn: linkedin.com/in/sarahjohnson-analytics | GitHub: github.com/sarahjohnson
 
 ---
 
-## EDUCATION
+## ОБРАЗОВАНИЕ
 
-**University of California, Berkeley**  
-*2016 — 2020*  
-Bachelor of Science in Business Analytics, Minor in Computer Science  
+**University of California, Berkeley**
+*2016 — 2020*
+Бакалавр наук в Бизнес-аналитике, Minor в Computer Science
 GPA: 3.8/4.0, Dean's List 2018-2020
 
-**Google Analytics Certified** (2022)  
+**Google Analytics Certified** (2022)
 **Microsoft Power BI Certified** (2023)
 
 ---
 
-## CORE COMPETENCIES
+## КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ
 
-**Analytics & Visualization:**  
-SQL • Power BI • Tableau • Google Analytics 4 • Looker Studio • Amplitude  
+**Аналитика и Визуализация:**
+SQL • Power BI • Tableau • Google Analytics 4 • Looker Studio • Amplitude
 
-**Programming & Tools:**  
-Python • R • Git • BigQuery • Snowflake • dbt • Apache Airflow  
+**Программирование и Инструменты:**
+Python • R • Git • BigQuery • Snowflake • dbt • Apache Airflow
 
-**Marketing & Business:**  
-A/B Testing • Customer Segmentation • Attribution Modeling • UTM Management  
-Funnel Analysis • Cohort Analysis • CLV Modeling • Marketing Mix Modeling  
+**Маркетинг и Бизнес:**
+A/B Тестирование • Сегментация Клиентов • Моделирование Атрибуции • Управление UTM
+Воронки Продаж • Когортный Анализ • CLV Моделирование • Marketing Mix Modeling
 
-**Languages:**  
-English (Native) • Spanish (Conversational)
+**Языки:**
+Английский (Родной) • Испанский (Разговорный)
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## ПРОФЕССИОНАЛЬНЫЙ ОПЫТ
 
 ### **TechFlow Inc.**
-**Senior Marketing Analyst** | *Jan 2023 — Present*
+**Senior Marketing Analyst** | *Янв 2023 — Наст. время*
 
-• Increased marketing ROI by 35% through implementation of advanced attribution modeling across 12+ digital channels, directly contributing to $2.3M additional revenue  
-• Built automated data pipeline processing 50M+ events daily, reducing manual reporting time by 80% and enabling real-time campaign optimization  
-• Led cross-functional team of 5 to redesign customer segmentation strategy, resulting in 28% improvement in email campaign performance  
-• Developed comprehensive A/B testing framework for product teams, standardizing experiment design and increasing statistical power by 40%
+• Увеличила маркетинговый ROI на 35% за счет внедрения продвинутого моделирования атрибуции по 12+ цифровым каналам, что принесло $2.3M дополнительной выручки
+• Построила автоматизированный пайплайн данных, обрабатывающий 50M+ событий ежедневно, сократив время на ручную отчетность на 80% и обеспечив оптимизацию кампаний в реальном времени
+• Возглавляла кросс-функциональную команду из 5 человек для редизайна стратегии сегментации клиентов, что привело к 28% улучшению эффективности email кампаний
+• Разработала комплексный фреймворк A/B тестирования для продуктовых команд, стандартизировав дизайн экспериментов и увеличив статистическую мощность на 40%
 
 ### **DataDriven Solutions**
-**Marketing Analyst** | *Mar 2021 — Dec 2022*
+**Marketing Analyst** | *Мар 2021 — Дек 2022*
 
-• Created dynamic Power BI dashboards for C-level executives, providing real-time visibility into $10M+ annual marketing spend across 8 business units  
-• Implemented cohort analysis methodology that identified 25% improvement opportunity in customer retention, leading to product roadmap prioritization  
-• Designed and executed 45+ A/B tests, achieving average 15% improvement in conversion rates across web and mobile platforms  
-• Collaborated with engineering team to implement event tracking architecture, improving data quality by 90%
+• Создавала динамические дашборды Power BI для C-level руководителей, обеспечивая видимость в реальном времени $10M+ ежегодных маркетинговых расходов по 8 бизнес-юнитам
+• Внедрила методологию когортного анализа, которая выявила возможность улучшения удержания клиентов на 25%, что привело к приоритизации продуктового роадмапа
+• Спроектировала и провела 45+ A/B тестов, достигнув среднего улучшения конверсии на 15% на веб и мобильных платформах
+• Сотрудничала с инженерной командой для внедрения архитектуры трекинга событий, улучшив качество данных на 90%
 
 ### **Growth Analytics Agency**
-**Junior Marketing Analyst** | *Jun 2020 — Feb 2021*
+**Junior Marketing Analyst** | *Июн 2020 — Фев 2021*
 
-• Supported client analytics initiatives for e-commerce companies with $1M-$50M annual revenue  
-• Built automated UTM tracking and reporting system, reducing client reporting cycle from 2 weeks to 2 days  
-• Conducted competitive analysis and market research for 12+ clients across retail, SaaS, and fintech verticals  
-• Developed standardized reporting templates used across 20+ client accounts
-
----
-
-## KEY PROJECTS
-
-**Multi-Touch Attribution Model** | *TechFlow Inc.*  
-Built machine learning-based attribution model using Python and BigQuery, processing 100M+ touchpoints monthly. Resulted in 22% budget reallocation optimization and $800K incremental revenue.
-
-**Customer Lifetime Value Prediction** | *DataDriven Solutions*  
-Developed CLV model using regression analysis and cohort data, enabling marketing team to optimize customer acquisition costs and improve unit economics by 18%.
-
-**Real-Time Campaign Dashboard** | *Growth Analytics Agency*  
-Created automated dashboard connecting Google Ads, Facebook, and GA4 APIs, providing hourly campaign performance updates for 15+ concurrent campaigns.
+• Поддерживала аналитические инициативы клиентов для e-commerce компаний с выручкой $1M-$50M
+• Построила автоматизированную систему UTM трекинга и отчетности, сократив цикл отчетности клиентов с 2 недель до 2 дней
+• Проводила конкурентный анализ и исследование рынка для 12+ клиентов в ритейле, SaaS и финтехе
+• Разработала стандартизированные шаблоны отчетности, используемые на 20+ клиентских аккаунтах
 
 ---
 
-## CERTIFICATIONS & AWARDS
+## КЛЮЧЕВЫЕ ПРОЕКТЫ
 
-• **Google Analytics Individual Qualification (IQ)** - 2022  
-• **Microsoft Power BI Data Analyst Associate** - 2023  
-• **AWS Cloud Practitioner** - 2023  
-• **"Analyst of the Year"** - TechFlow Inc. 2023  
+**Multi-Touch Attribution Model** | *TechFlow Inc.*
+Построила модель атрибуции на основе машинного обучения с использованием Python и BigQuery, обрабатывающую 100M+ точек касания ежемесячно. Результатом стала оптимизация перераспределения бюджета на 22% и $800K инкрементальной выручки.
+
+**Customer Lifetime Value Prediction** | *DataDriven Solutions*
+Разработала CLV модель с использованием регрессионного анализа и когортных данных, позволив маркетинговой команде оптимизировать стоимость привлечения клиентов и улучшить юнит-экономику на 18%.
+
+**Real-Time Campaign Dashboard** | *Growth Analytics Agency*
+Создала автоматизированный дашборд, соединяющий API Google Ads, Facebook и GA4, предоставляющий ежечасные обновления эффективности кампаний для 15+ одновременных кампаний.
+
+---
+
+## СЕРТИФИКАТЫ И НАГРАДЫ
+
+• **Google Analytics Individual Qualification (IQ)** - 2022
+• **Microsoft Power BI Data Analyst Associate** - 2023
+• **AWS Cloud Practitioner** - 2023
+• **"Analyst of the Year"** - TechFlow Inc. 2023
 • **Dean's List** - UC Berkeley 2018-2020
 
 ---
 
-*Template Note: This is a fictional resume example designed to demonstrate strong candidate qualifications for a Senior Marketing Analyst position. Use this as a reference for the type of experience and skills to look for in actual candidates.*
+*Примечание к шаблону: Это вымышленный пример резюме, созданный для демонстрации сильных квалификаций кандидата на позицию Senior Marketing Analyst. Используйте это как референс для типа опыта и навыков, которые стоит искать в реальных кандидатах.*

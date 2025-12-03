@@ -1,30 +1,30 @@
-# Role Competency Matrix — Senior Marketing Analytics (Data Engineering Profile)
+# Матрица Компетенций Роли — Senior Marketing Analytics (Профиль Data Engineering)
 
-| Competency          | Description                                                         |
+| Компетенция | Описание |
 |----------------------|---------------------------------------------------------------------|
-| SQL Expert           | Writing highly optimized complex SQL queries for large datasets.   |
-| ETL & Data Pipelines | Experience designing ETL processes, integrating multiple data sources. |
-| API Integration      | Experience working with APIs to collect and manage data.           |
-| Data Modeling        | Designing and maintaining normalized data models and schemas.      |
-| Marketing Analytics  | Understanding marketing metrics, KPIs, attribution models.         |
-| Web Analytics Tools  | Experience with GA UA, GA4, GTM.                                    |
-| Ad Platforms         | Experience with Google Ads, Facebook/Instagram Ads, etc.           |
-| Client Communication | Direct communication with clients, requirements gathering.         |
-| Documentation        | Maintaining clean and up-to-date technical documentation.          |
-| English Language     | Upper-intermediate or advanced level.                               |
-| Russian Language     | Native proficiency.                                                  |
-| Salary Expectations  | Candidate's expected salary fits within company budget and grade level. |
-| Role Expectation Alignment | Candidate's career expectations align with the technical nature of the role (80% technical implementation, 20% business/strategic input). |
+| Эксперт SQL | Написание высокооптимизированных сложных SQL запросов для больших наборов данных. |
+| ETL и Пайплайны Данных | Опыт проектирования ETL процессов, интеграции множества источников данных. |
+| Интеграция API | Опыт работы с API для сбора и управления данными. |
+| Моделирование Данных | Проектирование и поддержка нормализованных моделей данных и схем. |
+| Маркетинговая Аналитика | Понимание маркетинговых метрик, KPI, моделей атрибуции. |
+| Инструменты Веб-Аналитики | Опыт с GA UA, GA4, GTM. |
+| Рекламные Платформы | Опыт с Google Ads, Facebook/Instagram Ads и т.д. |
+| Коммуникация с Клиентами | Прямая коммуникация с клиентами, сбор требований. |
+| Документация | Поддержание чистой и актуальной технической документации. |
+| Английский Язык | Уровень Upper-intermediate или Advanced. |
+| Русский Язык | Владение на уровне носителя. |
+| Зарплатные Ожидания | Ожидаемая зарплата кандидата укладывается в бюджет компании и грейд. |
+| Соответствие Ожиданий Роли | Карьерные ожидания кандидата соответствуют технической природе роли (80% техническое внедрение, 20% бизнес/стратегический вклад). |
 
-## Role Reality vs. Expectations
+## Реальность Роли vs. Ожидания
 
-### Actual Role Balance
-- **Technical Implementation**: ~80% (SQL, ETL, data modeling, Power BI implementation)
-- **Business/Strategic**: ~20% (Requirements gathering, metric definition)
+### Фактический Баланс Роли
+- **Техническое Внедрение**: ~80% (SQL, ETL, моделирование данных, внедрение Power BI)
+- **Бизнес/Стратегия**: ~20% (Сбор требований, определение метрик)
 
-### Red Flags in Candidate Expectations
-- Career trajectory moving from technical to strategic roles
-- Expressed desire to influence product development
-- Primary interest in business decision-making rather than technical execution
-- Seeking role with significant input into strategic direction
-- Preference for creating new features/capabilities vs. implementing existing requirements
+### Красные Флаги в Ожиданиях Кандидата
+- Карьерная траектория движется от технических к стратегическим ролям
+- Выраженное желание влиять на развитие продукта
+- Первичный интерес в принятии бизнес-решений, а не в техническом исполнении
+- Поиск роли со значительным вкладом в стратегическое направление
+- Предпочтение создания новых фич/возможностей vs внедрение существующих требований

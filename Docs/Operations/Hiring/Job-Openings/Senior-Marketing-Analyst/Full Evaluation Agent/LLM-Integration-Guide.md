@@ -1,11 +1,11 @@
-# LLM Integration Guide
-*[TEMPLATE DOCUMENTATION - Guide for implementing real AI evaluation]*
+# Руководство по Интеграции LLM
+*[ШАБЛОН ДОКУМЕНТАЦИИ - Руководство по внедрению реальной AI оценки]*
 
-This agent currently uses placeholder logic for demonstration purposes. To make it production-ready, you need to integrate it with a real Large Language Model (LLM).
+Этот агент в настоящее время использует логику-заглушку для демонстрационных целей. Чтобы сделать его готовым к продакшену, вам нужно интегрировать его с реальной Большой Языковой Моделью (LLM).
 
-## Integration Options
+## Опции Интеграции
 
-### 1. OpenAI GPT Integration
+### 1. Интеграция OpenAI GPT
 ```python
 import openai
 
@@ -24,7 +24,7 @@ def evaluate_with_openai(prompt, candidate_data):
     return response.choices[0].message.content
 ```
 
-### 2. Anthropic Claude Integration
+### 2. Интеграция Anthropic Claude
 ```python
 import anthropic
 
@@ -42,7 +42,7 @@ def evaluate_with_claude(prompt, candidate_data):
     return response.content[0].text
 ```
 
-### 3. Local Model Integration (Ollama)
+### 3. Интеграция Локальной Модели (Ollama)
 ```python
 import requests
 
@@ -57,65 +57,65 @@ def evaluate_with_ollama(prompt, candidate_data):
     return response.json()['response']
 ```
 
-## Implementation Steps
+## Шаги Внедрения
 
-### Step 1: Replace Placeholder Functions
-In `agent.py`, replace these methods with real LLM calls:
+### Шаг 1: Замена Функций-Заглушек
+В `agent.py` замените эти методы на реальные вызовы LLM:
 - `_evaluate_critical_competency()`
 - `_evaluate_competency()`
 - `_generate_notes()`
 
-### Step 2: Add Environment Variables
+### Шаг 2: Добавление Переменных Окружения
 ```bash
 # .env file
 OPENAI_API_KEY=your_openai_key
 ANTHROPIC_API_KEY=your_anthropic_key
-LLM_PROVIDER=openai  # or anthropic, ollama
+LLM_PROVIDER=openai  # или anthropic, ollama
 ```
 
-### Step 3: Update Dependencies
+### Шаг 3: Обновление Зависимостей
 ```bash
 pip install openai anthropic python-dotenv
 ```
 
-### Step 4: Implement Structured Output
-Use the LLM to return structured JSON for consistent scoring:
+### Шаг 4: Внедрение Структурированного Вывода
+Используйте LLM для возврата структурированного JSON для последовательного скоринга:
 
 ```python
 evaluation_prompt = f"""
 {self.prompt}
 
-Please evaluate this candidate and return a JSON response with:
+Пожалуйста, оцените этого кандидата и верните JSON ответ с:
 {{
     "competencyScores": {{
         "SQL Proficiency": 1-5,
         "ETL Experience": 1-5,
-        // ... other competencies
+        // ... другие компетенции
     }},
     "fitResult": "Strong Fit" | "Potential Fit" | "Weak Fit",
-    "notes": "Detailed explanation of concerns or strengths"
+    "notes": "Детальное объяснение опасений или сильных сторон"
 }}
 
-Candidate Data: {candidate_data}
+Данные Кандидата: {candidate_data}
 """
 ```
 
-## Cost Considerations
+## Соображения по Стоимости
 
-### Token Usage Estimates:
-- **OpenAI GPT-4:** ~$0.03-0.06 per evaluation
-- **Claude 3 Sonnet:** ~$0.015-0.03 per evaluation  
-- **Local Models:** Free after setup
+### Оценки Использования Токенов:
+- **OpenAI GPT-4:** ~$0.03-0.06 за оценку
+- **Claude 3 Sonnet:** ~$0.015-0.03 за оценку
+- **Локальные Модели:** Бесплатно после настройки
 
-### Optimization Tips:
-1. Cache context files to avoid re-sending
-2. Use cheaper models for initial screening
-3. Implement batch processing for multiple candidates
-4. Set token limits to control costs
+### Советы по Оптимизации:
+1. Кэшируйте контекстные файлы, чтобы избежать повторной отправки
+2. Используйте более дешевые модели для начального скрининга
+3. Внедрите пакетную обработку для нескольких кандидатов
+4. Установите лимиты токенов для контроля затрат
 
-## Testing Your Integration
+## Тестирование Вашей Интеграции
 
-### Unit Tests:
+### Юнит-тесты:
 ```python
 def test_llm_integration():
     agent = CandidateEvaluationAgent()
@@ -128,24 +128,24 @@ def test_llm_integration():
     assert isinstance(evaluation["notes"], str)
 ```
 
-### Validation:
-1. Test with known good/bad candidates
-2. Compare LLM results with human evaluations
-3. Monitor consistency across multiple runs
-4. Validate JSON structure and scoring ranges
+### Валидация:
+1. Протестируйте на известных хороших/плохих кандидатах
+2. Сравните результаты LLM с оценками человека
+3. Отслеживайте последовательность через несколько запусков
+4. Валидируйте структуру JSON и диапазоны оценок
 
-## Production Considerations
+## Соображения для Продакшена
 
-### Error Handling:
+### Обработка Ошибок:
 ```python
 try:
     evaluation = evaluate_with_llm(prompt, candidate_data)
 except Exception as e:
     logger.error(f"LLM evaluation failed: {e}")
-    # Fallback to human evaluation or default scoring
+    # Откат к оценке человеком или дефолтному скорингу
 ```
 
-### Rate Limiting:
+### Ограничение Скорости (Rate Limiting):
 ```python
 import time
 from functools import wraps
@@ -160,12 +160,12 @@ def rate_limit(calls_per_minute=60):
     return decorator
 ```
 
-### Security:
-- Store API keys securely (environment variables, secrets manager)
-- Sanitize candidate data before sending to external APIs
-- Implement audit logging for all LLM calls
-- Consider data privacy regulations (GDPR, etc.)
+### Безопасность:
+- Храните API ключи безопасно (переменные окружения, менеджер секретов)
+- Очищайте данные кандидатов перед отправкой во внешние API
+- Внедрите аудит логгирование для всех вызовов LLM
+- Учитывайте правила конфиденциальности данных (GDPR и т.д.)
 
 ---
 
-*This guide provides the foundation for implementing real AI evaluation. Choose the LLM provider that best fits your technical requirements, budget, and data privacy needs.* 
+*Это руководство предоставляет основу для внедрения реальной AI оценки. Выберите провайдера LLM, который лучше всего соответствует вашим техническим требованиям, бюджету и потребностям в конфиденциальности данных.*
