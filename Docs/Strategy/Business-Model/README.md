@@ -1,152 +1,152 @@
-# Business Model Templates
-*[TEMPLATE COLLECTION - Comprehensive business model framework for B2B SaaS companies]*
+# Шаблоны Бизнес-Модели
+*[КОЛЛЕКЦИЯ ШАБЛОНОВ - Комплексный фреймворк бизнес-модели для B2B SaaS компаний]*
 
-## Overview
-This folder contains complete business model templates for B2B SaaS companies, particularly those with complex feature sets and enterprise sales models. These templates provide structured frameworks for unit economics, pricing strategy, and financial planning.
+## Обзор
+Эта папка содержит полные шаблоны бизнес-модели для B2B SaaS компаний, особенно тех, у которых сложные наборы функций и модели enterprise продаж. Эти шаблоны предоставляют структурированные фреймворки для unit economics, стратегии ценообразования и финансового планирования.
 
-## File Architecture & Canonical References
+## Архитектура Файлов и Канонические Ссылки
 
-### 📊 `business-model.md` [CANONICAL: Business Strategy & Unit Economics]
-**Purpose**: Comprehensive business model framework covering strategic and financial components
+### 📊 `business-model.md` [CANONICAL: Бизнес-Стратегия и Unit Economics]
+**Цель**: Комплексный фреймворк бизнес-модели, покрывающий стратегические и финансовые компоненты
 
-**Canonical Elements:**
-- Revenue model and subscription strategy [CANONICAL]
-- Unit economics (CAC, LTV, key ratios) [CANONICAL]
-- Cost structure breakdown [CANONICAL]
-- Sales model and team structure [CANONICAL]
-- Growth strategy and customer acquisition [CANONICAL]
-- Financial projections and scaling plans [CANONICAL]
-- Risk analysis and scenario planning [CANONICAL]
+**Канонические Элементы:**
+- Модель выручки и стратегия подписки [CANONICAL]
+- Unit economics (CAC, LTV, ключевые коэффициенты) [CANONICAL]
+- Разбивка структуры затрат [CANONICAL]
+- Модель продаж и структура команды [CANONICAL]
+- Стратегия роста и привлечения клиентов [CANONICAL]
+- Финансовые прогнозы и планы масштабирования [CANONICAL]
+- Анализ рисков и сценарное планирование [CANONICAL]
 
-**References External Sources:**
-- Pricing philosophy: [REF: pricing-model.md#pricing-philosophy]
-- Pricing structure: [REF: pricing-model.md#pricing-calculator-structure]
-- Volume pricing: [REF: pricing-model.md#volume-based-pricing]
+**Ссылки на Внешние Источники:**
+- Философия ценообразования: [REF: pricing-model.md#pricing-philosophy]
+- Структура ценообразования: [REF: pricing-model.md#pricing-calculator-structure]
+- Объемное ценообразование: [REF: pricing-model.md#volume-based-pricing]
 
-### 💰 `pricing-model.md` [CANONICAL: Pricing Strategy & Structure]
-**Purpose**: Feature-based pricing strategy framework for complex products
+### 💰 `pricing-model.md` [CANONICAL: Стратегия и Структура Ценообразования]
+**Цель**: Фреймворк стратегии ценообразования на основе функций для сложных продуктов
 
-**Canonical Elements:**
-- Pricing philosophy and principles [CANONICAL]
-- Complete pricing calculator structure [CANONICAL]
-- Volume-based pricing rules [CANONICAL]
-- Pricing strategy benefits [CANONICAL]
-- Competitive advantage framework [CANONICAL]
+**Канонические Элементы:**
+- Философия и принципы ценообразования [CANONICAL]
+- Полная структура калькулятора цен [CANONICAL]
+- Правила объемного ценообразования [CANONICAL]
+- Преимущества стратегии ценообразования [CANONICAL]
+- Фреймворк конкурентного преимущества [CANONICAL]
 
-**Key Features:**
-- Feature-based vs usage-based pricing philosophy
-- Modular pricing calculator structure
-- Enterprise and volume pricing considerations
-- Transparent, value-based pricing strategies
+**Ключевые Функции:**
+- Философия ценообразования на основе функций vs на основе использования
+- Модульная структура калькулятора цен
+- Соображения enterprise и объемного ценообразования
+- Прозрачные стратегии ценообразования на основе ценности
 
-### 🧮 `Price-Calculator-Template-Guide.md` [CANONICAL: Implementation Guide]
-**Purpose**: Implementation guide for building feature-based pricing calculators
+### 🧮 `Price-Calculator-Template-Guide.md` [CANONICAL: Руководство по Внедрению]
+**Цель**: Руководство по внедрению для построения калькуляторов цен на основе функций
 
-**Canonical Elements:**
-- Calculator structure and format
-- Technical implementation options
-- Feature categorization framework
-- Sample calculator table
-- Best practices for sales integration
+**Канонические Элементы:**
+- Структура и формат калькулятора
+- Опции технической реализации
+- Фреймворк категоризации функций
+- Пример таблицы калькулятора
+- Лучшие практики для интеграции с продажами
 
-## Information Architecture Benefits
+## Преимущества Информационной Архитектуры
 
-### 1. Eliminates Duplication
-- **Single Source of Truth**: Each concept has one canonical definition
-- **Searchable References**: Use [REF:] tags to find all dependencies
-- **Update Propagation**: Change canonical source once, references stay current
+### 1. Устраняет Дублирование
+- **Единый Источник Истины**: Каждая концепция имеет одно каноническое определение
+- **Поисковые Ссылки**: Используйте теги [REF:] для поиска всех зависимостей
+- **Распространение Обновлений**: Измените канонический источник один раз, ссылки остаются актуальными
 
-### 2. Clear Responsibilities
-- **Business Model**: Strategic framework, unit economics, financial projections
-- **Pricing Model**: Detailed pricing structure, philosophy, competitive positioning
-- **Calculator Guide**: Technical implementation and sales tools
+### 2. Четкие Обязанности
+- **Бизнес-Модель**: Стратегический фреймворк, unit economics, финансовые прогнозы
+- **Модель Ценообразования**: Детальная структура ценообразования, философия, конкурентное позиционирование
+- **Руководство по Калькулятору**: Техническая реализация и инструменты продаж
 
-### 3. Template Integration
-- **Standalone Use**: Each file can be used independently
-- **Comprehensive Framework**: Together they provide complete business model
-- **Customization Flexibility**: Adapt individual components as needed
+### 3. Интеграция Шаблонов
+- **Автономное Использование**: Каждый файл может использоваться независимо
+- **Комплексный Фреймворк**: Вместе они предоставляют полную бизнес-модель
+- **Гибкость Кастомизации**: Адаптируйте отдельные компоненты по необходимости
 
-## Template Value Proposition
+## Ценностное Предложение Шаблона
 
-### Business Model Benefits:
-1. **Comprehensive Framework**: All key business model components with canonical sources
-2. **SaaS-Specific**: Tailored for subscription business models
-3. **Investor-Ready**: Structured for due diligence and fundraising
-4. **Operational**: Actionable frameworks for day-to-day business
+### Преимущества Бизнес-Модели:
+1. **Комплексный Фреймворк**: Все ключевые компоненты бизнес-модели с каноническими источниками
+2. **Специфично для SaaS**: Адаптировано для моделей подписного бизнеса
+3. **Готово для Инвесторов**: Структурировано для due diligence и фандрайзинга
+4. **Операционное**: Действенные фреймворки для повседневного бизнеса
 
-### Pricing Model Benefits:
-1. **Transparent Pricing**: [REF: pricing-model.md#pricing-strategy-benefits]
-2. **Scalable**: Works for customers of all sizes
-3. **Competitive**: [REF: pricing-model.md#competitive-advantage]
-4. **Flexible**: Easy to modify and expand features
+### Преимущества Модели Ценообразования:
+1. **Прозрачное Ценообразование**: [REF: pricing-model.md#pricing-strategy-benefits]
+2. **Масштабируемое**: Работает для клиентов всех размеров
+3. **Конкурентное**: [REF: pricing-model.md#competitive-advantage]
+4. **Гибкое**: Легко модифицировать и расширять функции
 
-### Implementation Benefits:
-1. **Sales Enablement**: Clear tools for pricing conversations
-2. **Customer Experience**: Transparent and predictable pricing
-3. **Internal Alignment**: Consistent pricing across teams
-4. **Operational Efficiency**: Streamlined quote generation
+### Преимущества Внедрения:
+1. **Поддержка Продаж**: Четкие инструменты для разговоров о ценах
+2. **Клиентский Опыт**: Прозрачное и предсказуемое ценообразование
+3. **Внутреннее Согласование**: Консистентное ценообразование между командами
+4. **Операционная Эффективность**: Упрощенная генерация предложений
 
-## Customization Guidelines
+## Руководство по Кастомизации
 
-### Quick Adaptation (2-4 hours):
-1. Replace all `[PLACEHOLDER]` values with your specifics
-2. Update financial metrics with your actual data: [REF: business-model.md#unit-economics]
-3. Modify feature lists: [REF: pricing-model.md#pricing-calculator-structure]
-4. Adjust market segments: [REF: business-model.md#sales-model]
+### Быстрая Адаптация (2-4 часа):
+1. Замените все значения `[PLACEHOLDER]` на ваши конкретные
+2. Обновите финансовые метрики вашими реальными данными: [REF: business-model.md#unit-economics]
+3. Модифицируйте списки функций: [REF: pricing-model.md#pricing-calculator-structure]
+4. Настройте рыночные сегменты: [REF: business-model.md#sales-model]
 
-### Complete Customization (1-2 days):
-1. Full financial model adaptation: [REF: business-model.md#financial-projections]
-2. Custom pricing calculator development: [REF: Price-Calculator-Template-Guide.md]
-3. Industry-specific modifications
-4. Integration with existing business systems
+### Полная Кастомизация (1-2 дня):
+1. Адаптация полной финансовой модели: [REF: business-model.md#financial-projections]
+2. Разработка кастомного калькулятора цен: [REF: Price-Calculator-Template-Guide.md]
+3. Модификации, специфичные для индустрии
+4. Интеграция с существующими бизнес-системами
 
-### Advanced Implementation (1-2 weeks):
-1. Build interactive pricing calculator
-2. Integrate with CRM and sales tools
-3. Create custom reporting dashboards
-4. Develop scenario planning models: [REF: business-model.md#scenario-planning]
+### Продвинутое Внедрение (1-2 недели):
+1. Построение интерактивного калькулятора цен
+2. Интеграция с CRM и инструментами продаж
+3. Создание кастомных дашбордов отчетности
+4. Разработка моделей сценарного планирования: [REF: business-model.md#scenario-planning]
 
-## Business Model Variations
+## Вариации Бизнес-Модели
 
-### Alternative Models Supported:
-- **Usage-Based Pricing**: Adapt pricing framework for consumption models
-- **Freemium Strategy**: Add free tier conversion metrics to unit economics
-- **Marketplace Models**: Modify cost structure for multi-sided markets
-- **Professional Services**: Adapt cost structure for service-heavy businesses
+### Поддерживаемые Альтернативные Модели:
+- **Ценообразование на Основе Использования**: Адаптируйте фреймворк ценообразования для моделей потребления
+- **Freemium Стратегия**: Добавьте метрики конверсии бесплатного уровня в unit economics
+- **Модели Маркетплейса**: Модифицируйте структуру затрат для многосторонних рынков
+- **Профессиональные Услуги**: Адаптируйте структуру затрат для бизнесов с большим объемом услуг
 
-### Industry Adaptations:
-- **Fintech**: Add compliance costs to [REF: business-model.md#cost-structure]
-- **Healthcare**: Include HIPAA compliance in implementation costs
-- **Enterprise Software**: Focus on long sales cycles: [REF: business-model.md#sales-process]
-- **Developer Tools**: Adapt for technical buyer personas
+### Адаптации для Индустрий:
+- **Fintech**: Добавьте затраты на соответствие в [REF: business-model.md#cost-structure]
+- **Healthcare**: Включите соответствие HIPAA в затраты на внедрение
+- **Enterprise Software**: Фокус на длинных циклах продаж: [REF: business-model.md#sales-process]
+- **Developer Tools**: Адаптируйте для технических покупательских персон
 
-## Getting Started
+## Начало Работы
 
-### Phase 1: Business Model Foundation
-1. Complete business model template: [REF: business-model.md#unit-economics]
-2. Validate unit economics and key ratios
-3. Align team on core business model components
+### Фаза 1: Фундамент Бизнес-Модели
+1. Заполните шаблон бизнес-модели: [REF: business-model.md#unit-economics]
+2. Валидируйте unit economics и ключевые коэффициенты
+3. Согласуйте команду по основным компонентам бизнес-модели
 
-### Phase 2: Pricing Optimization
-1. Adapt pricing model framework: [REF: pricing-model.md#pricing-philosophy]
-2. Build initial pricing calculator: [REF: Price-Calculator-Template-Guide.md]
-3. Test with sales team and customers
+### Фаза 2: Оптимизация Ценообразования
+1. Адаптируйте фреймворк модели ценообразования: [REF: pricing-model.md#pricing-philosophy]
+2. Постройте начальный калькулятор цен: [REF: Price-Calculator-Template-Guide.md]
+3. Протестируйте с командой продаж и клиентами
 
-### Phase 3: Implementation & Scaling
-1. Integrate tools with business systems
-2. Train sales team: [REF: business-model.md#sales-team-structure]
-3. Monitor performance: [REF: business-model.md#key-metrics-actuals]
+### Фаза 3: Внедрение и Масштабирование
+1. Интегрируйте инструменты с бизнес-системами
+2. Обучите команду продаж: [REF: business-model.md#sales-team-structure]
+3. Мониторьте производительность: [REF: business-model.md#key-metrics-actuals]
 
-## Reference Architecture Summary
+## Саммари Референсной Архитектуры
 
-**Financial Planning**: Use `business-model.md` for overall strategy, unit economics, and projections
-**Pricing Strategy**: Use `pricing-model.md` for detailed pricing philosophy and structure
-**Implementation**: Use `Price-Calculator-Template-Guide.md` for building sales tools
+**Финансовое Планирование**: Используйте `business-model.md` для общей стратегии, unit economics и прогнозов
+**Стратегия Ценообразования**: Используйте `pricing-model.md` для детальной философии и структуры ценообразования
+**Внедрение**: Используйте `Price-Calculator-Template-Guide.md` для построения инструментов продаж
 
-**Cross-References**: Follow [REF:] tags to understand dependencies and maintain consistency
+**Перекрестные Ссылки**: Следуйте тегам [REF:] для понимания зависимостей и поддержания консистентности
 
 ---
 
-*Template Collection Purpose: Complete B2B SaaS business model framework with canonical source architecture*
-*Best For: Growing SaaS companies with complex products and enterprise customers*
-*ROI: Improved pricing strategy, clearer unit economics, faster sales cycles* 
+*Цель Коллекции Шаблонов: Полный фреймворк бизнес-модели B2B SaaS с архитектурой канонических источников*
+*Лучше Для: Растущих SaaS компаний со сложными продуктами и enterprise клиентами*
+*ROI: Улучшенная стратегия ценообразования, более четкая unit economics, более быстрые циклы продаж*

@@ -1,144 +1,144 @@
-# Company Story Template
-*[TEMPLATE EXAMPLE - Replace all content below with your actual company story and evolution]*
+# Шаблон Истории Компании
+*[ПРИМЕР ШАБЛОНА - Замените весь контент ниже фактической историей и эволюцией вашей компании]*
 
 ---
 
-**⚠️ TEMPLATE NOTICE:** This file contains the example company story for "Elly Analytics" as a demonstration of how to document strategic company evolution and narrative. Replace all details below with your own company's actual story, maintaining the same structure and canonical marking system.
+**⚠️ УВЕДОМЛЕНИЕ О ШАБЛОНЕ:** Этот файл содержит пример истории компании для "Elly Analytics" в качестве демонстрации того, как документировать стратегическую эволюцию и нарратив компании. Замените все детали ниже фактической историей вашей собственной компании, сохраняя ту же структуру и систему канонической маркировки.
 
 ---
 
-# Company Story - Elly Analytics
-*[EXAMPLE COMPANY - Replace with your company story]*
+# История Компании - Elly Analytics
+*[ПРИМЕР КОМПАНИИ - Замените историей вашей компании]*
 
-*The strategic evolution from agency to AI-powered marketing automation platform*
+*Стратегическая эволюция от агентства к AI-powered платформе маркетинговой автоматизации*
 
-**Last Updated:** June 2025  
-**Source:** [CANONICAL - from founder narrative June 2025]
-
----
-
-## 📖 The Complete Elly Analytics Journey
-
-### The Agency Foundation (2004-2022) [CANONICAL]
-Co-founders Seva Ustinov and Kirill Kasimsky spent 15 years building and scaling a successful marketing agency that grew to 100+ employees, working with Tier-1 clients. Through managing hundreds of performance marketing cases across Google, Facebook, TikTok and other platforms, they discovered that end-to-end analytics was critical for companies to grow revenue and profitability.
-
-### The Market Gap Discovery [CANONICAL]
-While working with agency clients, the founders identified a significant market gap:
-- **E-commerce/DTC brands:** Well-served by solutions like Triple Whale, Polar Analytics
-- **Enterprise companies:** Have dedicated data teams using tools like Funnel.io, Supermetrics
-- **Mid-market lead-generating businesses ($50k+/month ad spend):** No viable solution
-
-Companies generating leads (calls, forms, signups, subscriptions, chats, quizzes) were forced to either:
-1. Hire their own data team and spend a year building custom analytics infrastructure: data streaming, data warehouse, attribution, reports & dashboards
-2. Operate without proper attribution, essentially "throwing money down the drain"
-
-### The Spin-off Decision (2022) [CANONICAL]
-Recognizing this underserved market, the founders created Elly Analytics as a spin-off from their agency to focus specifically on multi-touch attribution for lead-generating businesses spending >$50k/month on performance marketing.
-
-### The Hybrid Service Model [CANONICAL]
-Elly developed a unique "white gloves" approach:
-- Each client gets a dedicated analyst and customer success manager
-- Full-service implementation and ongoing optimization of analytics infrastructure
-- Custom attribution models tailored to each business type
-- Built on their proprietary platform with 15 years of agency expertise
-- All-inclusive subscription model (~$2.5-3k/month) covering integration, customization, and ongoing support
-
-### The Attribution Expertise [CANONICAL]
-Through decades of implementation, Elly developed superior multi-touch attribution capabilities:
-- Specialized for lead-generating businesses (not e-commerce focused like competitors)
-- Addresses the "attribution lies" problem where Facebook/Klaviyo claim credit for most conversions
-- Enables optimization for actual paying customers and LTV, not just lead volume
-- Prevents companies from wasting budget on high-lead, low-conversion channels
-
-### The AI Transformation (2024-2025) [CANONICAL]
-After implementing analytics for dozens of companies, the founders observed marketing directors spending 2+ hours daily in reports, manually analyzing trends and making optimization decisions. With the emergence of AI agents, they realized they could automate 90% of this work.
-
-**"Cursor for Performance Marketing" Vision:**
-- Natural language interface: marketers describe desired logic in plain text
-- AI converts descriptions into executable algorithms
-- Iterative refinement with preview functionality
-- Semi-automatic mode with daily decision suggestions
-- Full automation once rules are proven
-
-### Current AI Development [CANONICAL - June 2025]
-**Two Primary Use Cases:**
-1. **Creative/Ad Management Automation:** For clients running 50+ new creatives daily with complex optimization logic
-2. **Data Quality Control:** AI-powered auto-tests for data integrity and attribution accuracy
-
-**Technical Approach:**
-- AI-first automation (not no-code rule builders like previous generation tools)
-- Client-facing web interface (previously internal-only for analysts)
-- (Soon) Self-service entry point + (current) full-service enterprise offering
-- Can provide value with or without full attribution implementation
-
-### Strategic Transition [CANONICAL]
-**From:** Analytics platform providing reports and dashboards
-**To:** Marketing automation platform with AI-powered decision making
-
-**Market Expansion:**
-- **Self-service tier:** Quick setup for smaller companies using ad platform data
-- **Enterprise tier:** Full attribution integration for companies with existing analytics
-- **Broader appeal:** Useful even without 2-month full integration process
-
-### Where We Are Today [CANONICAL - June 2025]
-- **Platform Status:** L2.0 analytics platform operational, L3.0 AI platform in development
-- **AI Development:** 3 new senior developers hired, testing with 3 pilot clients
-- **Strategic Focus:** Expanding from analytics to automation, self-service to enterprise
-- **Current Initiative:** Building "Cursor for performance marketing" with natural language AI interface
+**Последнее Обновление:** Июнь 2025
+**Источник:** [CANONICAL - из нарратива основателя Июнь 2025]
 
 ---
 
-## 🎯 Strategic Narrative Summary
+## 📖 Полный Путь Elly Analytics
 
-**The Evolution:** 15-year agency expertise → Attribution platform for underserved market → AI-powered automation leader
+### Основа Агентства (2004-2022) [CANONICAL]
+Со-основатели Seva Ustinov и Kirill Kasimsky провели 15 лет, строя и масштабируя успешное маркетинговое агентство, которое выросло до 100+ сотрудников, работая с клиентами Tier-1. Управляя сотнями кейсов performance маркетинга через Google, Facebook, TikTok и другие платформы, они обнаружили, что end-to-end аналитика была критична для компаний для роста выручки и прибыльности.
 
-**The Insight:** Lead-generating businesses need different solutions than e-commerce companies, and AI can automate 90% of marketing optimization work
+### Обнаружение Рыночного Пробела [CANONICAL]
+Работая с клиентами агентства, основатели идентифицировали значительный рыночный пробел:
+- **E-commerce/DTC бренды:** Хорошо обслуживаются решениями типа Triple Whale, Polar Analytics
+- **Enterprise компании:** Имеют выделенные команды данных, использующие инструменты типа Funnel.io, Supermetrics
+- **Mid-market бизнесы, генерирующие лиды ($50k+/месяц на рекламу):** Нет жизнеспособного решения
 
-**The Opportunity:** Transition from analytics to automation, from enterprise-only to self-service + enterprise
+Компании, генерирующие лиды (звонки, формы, регистрации, подписки, чаты, квизы), были вынуждены либо:
+1. Нанять свою собственную команду данных и потратить год на построение кастомной инфраструктуры аналитики: стриминг данных, хранилище данных, атрибуция, отчеты и дашборды
+2. Работать без правильной атрибуции, по сути "выбрасывая деньги на ветер"
 
-**The Vision:** "Cursor for performance marketing" - natural language AI interface for campaign control
+### Решение о Спин-оффе (2022) [CANONICAL]
+Признавая этот недообслуживаемый рынок, основатели создали Elly Analytics как спин-офф от своего агентства, чтобы сфокусироваться специально на multi-touch атрибуции для бизнесов, генерирующих лиды, тратящих >$50k/месяц на performance маркетинг.
+
+### Гибридная Сервисная Модель [CANONICAL]
+Elly разработала уникальный подход "белых перчаток":
+- Каждый клиент получает выделенного аналитика и менеджера по успеху клиентов
+- Full-service внедрение и постоянная оптимизация инфраструктуры аналитики
+- Кастомные модели атрибуции, адаптированные под каждый тип бизнеса
+- Построено на их проприетарной платформе с 15-летней экспертизой агентства
+- All-inclusive модель подписки (~$2.5-3k/месяц), покрывающая интеграцию, кастомизацию и постоянную поддержку
+
+### Экспертиза Атрибуции [CANONICAL]
+Через десятилетия внедрения Elly разработала превосходные возможности multi-touch атрибуции:
+- Специализация для бизнесов, генерирующих лиды (не фокус на e-commerce как у конкурентов)
+- Решает проблему "лжи атрибуции", где Facebook/Klaviyo приписывают себе большинство конверсий
+- Позволяет оптимизировать для фактических платящих клиентов и LTV, а не только объема лидов
+- Предотвращает трату бюджета компаниями на каналы с высоким объемом лидов, но низкой конверсией
+
+### AI Трансформация (2024-2025) [CANONICAL]
+После внедрения аналитики для десятков компаний, основатели наблюдали, как маркетинговые директора тратят 2+ часа ежедневно в отчетах, вручную анализируя тренды и принимая решения по оптимизации. С появлением AI агентов они поняли, что могут автоматизировать 90% этой работы.
+
+**Видение "Cursor для Performance Маркетинга":**
+- Интерфейс на естественном языке: маркетологи описывают желаемую логику простым текстом
+- AI конвертирует описания в исполняемые алгоритмы
+- Итеративное уточнение с функциональностью предпросмотра
+- Полуавтоматический режим с ежедневными предложениями решений
+- Полная автоматизация после доказательства правил
+
+### Текущая AI Разработка [CANONICAL - Июнь 2025]
+**Два Основных Use Case:**
+1. **Автоматизация Управления Креативами/Рекламой:** Для клиентов, запускающих 50+ новых креативов ежедневно со сложной логикой оптимизации
+2. **Контроль Качества Данных:** AI-powered авто-тесты для целостности данных и точности атрибуции
+
+**Технический Подход:**
+- AI-first автоматизация (не no-code конструкторы правил как инструменты предыдущего поколения)
+- Клиентский веб-интерфейс (ранее только внутренний для аналитиков)
+- (Скоро) Self-service точка входа + (текущее) full-service enterprise предложение
+- Может предоставлять ценность с или без полного внедрения атрибуции
+
+### Стратегический Переход [CANONICAL]
+**От:** Платформа аналитики, предоставляющая отчеты и дашборды
+**К:** Платформа маркетинговой автоматизации с AI-powered принятием решений
+
+**Расширение Рынка:**
+- **Self-service уровень:** Быстрая настройка для меньших компаний, использующих данные рекламных платформ
+- **Enterprise уровень:** Полная интеграция атрибуции для компаний с существующей аналитикой
+- **Более широкая привлекательность:** Полезно даже без 2-месячного процесса полной интеграции
+
+### Где Мы Сегодня [CANONICAL - Июнь 2025]
+- **Статус Платформы:** L2.0 платформа аналитики операционная, L3.0 AI платформа в разработке
+- **AI Разработка:** Наняты 3 новых senior разработчика, тестирование с 3 пилотными клиентами
+- **Стратегический Фокус:** Расширение от аналитики к автоматизации, от self-service к enterprise
+- **Текущая Инициатива:** Построение "Cursor для performance маркетинга" с интерфейсом AI на естественном языке
 
 ---
 
-## Template Customization Guide
+## 🎯 Саммари Стратегического Нарратива
 
-### Replace All Company-Specific Content:
-- **Company Names**: Replace "Elly Analytics" with your company name throughout
-- **Founder Names**: Update with your actual founders/key personnel
-- **Timeline/Dates**: Replace with your actual company timeline and key milestones
-- **Business Details**: Update industry focus, market positioning, and business model
-- **Product Evolution**: Replace with your actual product development journey
-- **Strategic Vision**: Update with your company's actual vision and strategic direction
+**Эволюция:** 15-летняя экспертиза агентства → Платформа атрибуции для недообслуживаемого рынка → Лидер AI-powered автоматизации
 
-### Maintain Narrative Structure:
-- **Keep chronological flow** from founding through current state
-- **Preserve [CANONICAL] markings** for key strategic information
-- **Maintain section organization** (Foundation → Discovery → Transformation → Current State)
-- **Update strategic summary** to reflect your company's evolution
+**Инсайт:** Бизнесам, генерирующим лиды, нужны другие решения, чем e-commerce компаниям, и AI может автоматизировать 90% работы по оптимизации маркетинга
 
-### Strategic Documentation Best Practices:
-- **Document key insights** that led to pivotal business decisions
-- **Explain market gaps** your company identified and addressed
-- **Detail business model evolution** and strategic transitions
-- **Connect story to current strategy** and competitive positioning
-- **Source attribution** - mark where narrative information comes from
+**Возможность:** Переход от аналитики к автоматизации, от enterprise-only к self-service + enterprise
 
-### Integration with Other Documents:
-- **Align with company-info.md** basic information and vision
-- **Coordinate with business-model.md** evolution and strategy
-- **Reference in competitive analysis** for company background context
-- **Use in pitch materials** as company background narrative
-
-### Key Story Elements to Include:
-1. **Founding Story**: Why the company was created
-2. **Market Discovery**: What gap or opportunity was identified
-3. **Product Evolution**: How the solution developed over time
-4. **Strategic Pivots**: Major business model or strategy changes
-5. **Current Position**: Where the company stands today
-6. **Future Vision**: Where the company is heading
+**Видение:** "Cursor для performance маркетинга" - интерфейс AI на естественном языке для контроля кампаний
 
 ---
 
-*[REF: This narrative provides the strategic context for company positioning, competitive differentiation, and product development decisions]*
+## Руководство по Кастомизации Шаблона
 
-[LAST UPDATED: June 2025 - TEMPLATE EXAMPLE] 
+### Замените Весь Контент, Специфичный для Компании:
+- **Названия Компаний**: Замените "Elly Analytics" на название вашей компании повсюду
+- **Имена Основателей**: Обновите вашими фактическими основателями/ключевым персоналом
+- **Таймлайн/Даты**: Замените вашим фактическим таймлайном компании и ключевыми вехами
+- **Детали Бизнеса**: Обновите фокус индустрии, позиционирование на рынке и бизнес-модель
+- **Эволюция Продукта**: Замените вашим фактическим путем разработки продукта
+- **Стратегическое Видение**: Обновите фактическим видением и стратегическим направлением вашей компании
+
+### Поддерживайте Структуру Нарратива:
+- **Сохраняйте хронологический поток** от основания через текущее состояние
+- **Сохраните маркировку [CANONICAL]** для ключевой стратегической информации
+- **Поддерживайте организацию разделов** (Основа → Обнаружение → Трансформация → Текущее Состояние)
+- **Обновите стратегическое саммари**, чтобы отразить эволюцию вашей компании
+
+### Лучшие Практики Стратегической Документации:
+- **Документируйте ключевые инсайты**, которые привели к поворотным бизнес-решениям
+- **Объясните рыночные пробелы**, которые ваша компания идентифицировала и решила
+- **Детализируйте эволюцию бизнес-модели** и стратегические переходы
+- **Связывайте историю с текущей стратегией** и конкурентным позиционированием
+- **Атрибуция источников** - отмечайте, откуда берется информация нарратива
+
+### Интеграция с Другими Документами:
+- **Согласуйте с company-info.md** основную информацию и видение
+- **Координируйте с business-model.md** эволюцию и стратегию
+- **Ссылайтесь в конкурентном анализе** для контекста бэкграунда компании
+- **Используйте в питч-материалах** как нарратив бэкграунда компании
+
+### Ключевые Элементы Истории для Включения:
+1. **История Основания**: Почему была создана компания
+2. **Обнаружение Рынка**: Какой пробел или возможность была идентифицирована
+3. **Эволюция Продукта**: Как решение развивалось со временем
+4. **Стратегические Повороты**: Крупные изменения бизнес-модели или стратегии
+5. **Текущая Позиция**: Где компания находится сегодня
+6. **Будущее Видение**: Куда компания направляется
+
+---
+
+*[REF: Этот нарратив предоставляет стратегический контекст для позиционирования компании, конкурентной дифференциации и решений по разработке продукта]*
+
+[ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ: Июнь 2025 - ПРИМЕР ШАБЛОНА]

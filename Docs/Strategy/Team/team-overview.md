@@ -1,57 +1,57 @@
-⚠️ **TEMPLATE EXAMPLE - CUSTOMIZE FOR YOUR TEAM**
+⚠️ **ПРИМЕР ШАБЛОНА - КАСТОМИЗИРУЙТЕ ПОД ВАШУ КОМАНДУ**
 
-> **📋 Template Notice**: This document contains a real team overview example that demonstrates professional team documentation structure. When using this template:
-> - **Founders Section**: Keep the founders section as-is - this shows the actual founders of the original company
-> - **Advisory Board**: Replace example advisors with your actual advisors and their real expertise/backgrounds
-> - **Team Size**: Update headcount numbers and department structure to match your actual organization
-> - **Contact Information**: Replace placeholder emails, LinkedIn profiles, and messaging handles with real information
-> - This example shows how to present team composition and leadership backgrounds effectively
+> **📋 Уведомление о Шаблоне**: Этот документ содержит реальный пример обзора команды, демонстрирующий профессиональную структуру документации команды. При использовании этого шаблона:
+> - **Раздел Основателей**: Сохраните раздел основателей как есть - это показывает фактических основателей оригинальной компании
+> - **Совет Советников**: Замените примеры советников вашими фактическими советниками и их реальной экспертизой/бэкграундом
+> - **Размер Команды**: Обновите численность и структуру отделов в соответствии с вашей фактической организацией
+> - **Контактная Информация**: Замените плейсхолдер email, профили LinkedIn и мессенджеры реальной информацией
+> - Этот пример показывает, как эффективно представить состав команды и бэкграунд руководства
 
 ---
 
-# Team Overview - Elly Analytics [CANONICAL]
+# Обзор Команды - Elly Analytics [CANONICAL]
 
-## 👥 Founders [CANONICAL]
+## 👥 Основатели [CANONICAL]
 
 ### Seva Ustinov [CANONICAL]
-**Title:** CEO & Founder  
-**Email:** seva.ustinov@ellyanalytics.com  
-**LinkedIn:** linkedin.com/in/sevaustinov  
-**Telegram:** t.me/SevaUstinov  
+**Должность:** CEO & Founder
+**Email:** seva.ustinov@ellyanalytics.com
+**LinkedIn:** linkedin.com/in/sevaustinov
+**Telegram:** t.me/SevaUstinov
 
-**Background:** CS MSU Alumni, Co-founder & co-CEO IT-Agency (till 2022) - top-15 in Russia, 150 clients, 120 employees, $15M revenue
+**Бэкграунд:** Выпускник ВМК МГУ, Со-основатель и со-CEO IT-Agency (до 2022) - топ-15 в России, 150 клиентов, 120 сотрудников, $15M выручки
 
 ### Kirill Kasimskiy [CANONICAL]
-**Title:** Co-founder  
-**Email:** kirill.kasimskiy@ellyanalytics.com  
-**LinkedIn:** linkedin.com/in/kirill-kasimskiy  
-**Telegram:** t.me/kkass  
+**Должность:** Co-founder
+**Email:** kirill.kasimskiy@ellyanalytics.com
+**LinkedIn:** linkedin.com/in/kirill-kasimskiy
+**Telegram:** t.me/kkass
 
-**Background:** Co-founder IT-Agency (till 2019), Partner & CEO NewBeautyBox (10x revenue growth, raised 2 rounds), Marketing Advisor @ JustFood (2.7x revenue growth)
+**Бэкграунд:** Со-основатель IT-Agency (до 2019), Партнер и CEO NewBeautyBox (10x рост выручки, привлечено 2 раунда), Маркетинговый Советник @ JustFood (2.7x рост выручки)
 
-## 🧭 Advisory Board [TEMPLATE EXAMPLE]
+## 🧭 Совет Советников [ПРИМЕР ШАБЛОНА]
 
-### [Example Advisor Name] [TEMPLATE EXAMPLE]
-**Expertise:** [Replace with actual advisor expertise area]  
-**Background:** [Replace with actual advisor background and relevant experience]  
+### [Пример Имени Советника] [ПРИМЕР ШАБЛОНА]
+**Экспертиза:** [Замените фактической областью экспертизы советника]
+**Бэкграунд:** [Замените фактическим бэкграундом советника и релевантным опытом]
 
-### [Example Advisor Name] [TEMPLATE EXAMPLE]
-**Expertise:** [Replace with actual advisor expertise area]  
-**Background:** [Replace with actual advisor background and relevant experience]  
+### [Пример Имени Советника] [ПРИМЕР ШАБЛОНА]
+**Экспертиза:** [Замените фактической областью экспертизы советника]
+**Бэкграунд:** [Замените фактическим бэкграундом советника и релевантным опытом]
 
-## 👷 Current Team Size [TEMPLATE EXAMPLE]
+## 👷 Текущий Размер Команды [ПРИМЕР ШАБЛОНА]
 
-**Total Headcount:** [Replace with actual number] people (as of [Replace with current date])
+**Общая Численность:** [Замените фактическим числом] человек (на [Замените текущей датой])
 
-**By Department:**
-- **[Department Name]:** [Replace with actual number]
-- **[Department Name]:** [Replace with actual number]  
-- **[Department Name]:** [Replace with actual number]
-- **[Department Name]:** [Replace with actual number]
-- **Founders:** [Replace with actual number] (included in above)
+**По Отделам:**
+- **[Название Отдела]:** [Замените фактическим числом]
+- **[Название Отдела]:** [Замените фактическим числом]
+- **[Название Отдела]:** [Замените фактическим числом]
+- **[Название Отдела]:** [Замените фактическим числом]
+- **Основатели:** [Замените фактическим числом] (включены в вышеуказанные)
 
-**Key Focus:** [Replace with actual strategic focus or team allocation]
+**Ключевой Фокус:** [Замените фактическим стратегическим фокусом или распределением команды]
 
 ---
 
-[LAST UPDATED: [Replace with actual date] with factual information only] 
+[ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ: [Замените фактической датой] только с фактической информацией]
