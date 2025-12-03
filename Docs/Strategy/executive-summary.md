@@ -1,145 +1,139 @@
-⚠️ **TEMPLATE EXAMPLE - CUSTOMIZE FOR YOUR COMPANY**
+# ⚠️ ШАБЛОН — НАСТРОЙТЕ ПОД СВОЮ КОМПАНИЮ
 
-> **📋 Template Notice**: This document contains a real executive summary example from "Elly Analytics" that demonstrates comprehensive one-page company overview structure. When using this template:
-> - **Keep Core Structure**: This shows how to present company vision, product architecture, competitive positioning, and strategic direction effectively
-> - **Replace Financial Data**: Update metrics, team size, and advisory board with your actual information
-> - **Adapt Product Details**: While keeping the example structure, replace product specifics with your actual offerings
-> - **Customize Market Focus**: Replace target market and competitive positioning with your specific industry and advantages
-> - **Update References**: Ensure all [REF:] tags point to your actual repository files
-> - This example demonstrates how to create compelling executive summaries that tell a complete strategic story
+> **📋 Примечание:** Документ показывает реальный пример executive summary компании «Elly Analytics». Используйте структуру, но замените данные на свои:
+> - **Сохраняйте композицию** — видение, продукт, конкуренты, стратегия
+> - **Обновите метрики** — ARR, количество клиентов, размеры команды
+> - **Адаптируйте продукт** — опишите ваши решения
+> - **Настройте рынок и позиционирование** под свою отрасль
+> - **Проверьте ссылки** — все `[REF:]` должны вести на ваши файлы
 
 ---
 
-# Executive Summary - Elly Analytics [CANONICAL]
+# Executive Summary — Elly Analytics [CANONICAL]
 
-*One-page company overview with competitive positioning*
+*Одностраничный обзор компании с конкурентным позиционированием*
 
-**Source Files:** [REF: Product/product-overview.md + Business-Model/pricing-model.md + Team/team-overview.md + Competitors/competitive-landscape-summary.md]
+**Источники:** [REF: Product/product-overview.md + Business-Model/pricing-model.md + Team/team-overview.md + Competitors/competitive-landscape-summary.md]
 
 ## 🏢 Company Overview [REF: Company-Overview/]
-**Founded:** 2022 | **Product:** AI-First Marketing Automation Platform | **Target:** Lead-based businesses spending >$50k/month on ads
+- **Основана:** 2022  
+- **Продукт:** AI-first платформа маркетинговой автоматизации  
+- **ЦА:** lead-based бизнесы с рекламным бюджетом >$50k/мес
 
-**Vision:** Making "vibe marketing" a reality - building "Cursor for performance marketing" that automates 90% of performance marketers' work through natural language commands, eliminating complex software interfaces
+**Vision:** сделать «vibe marketing» реальностью — «Cursor для performance marketing», автоматизирующий 90% задач перфоманс-маркетологов через команды на естественном языке (без тяжёлых интерфейсов).
 
-**Category:** AI-first performance marketing automation platform
+**Категория:** AI-first платформа автоматизации performance marketing.
 
 ## 🏗️ Product Architecture [REF: Product/product-overview.md]
 
-### Elly 2.0 - Data Platform Foundation (Current Production)
-- **Purpose:** Marketing data platform with attribution, customer profiles, and offline conversion streaming to optimize ad algorithms
-- **Client Interface:** Power BI reports (version 1.14) with standardized but customizable dashboards
-- **Key Features:** Multi-touch attribution, universal data model, offline conversion streaming
-- **Status:** Production platform serving all current clients with proven ROI
+### Elly 2.0 — фундаментальная дата-платформа (прод)
+- **Назначение:** атрибуция, customer profiles, offline conversion streaming для оптимизации алгоритмов
+- **Интерфейс:** Power BI (v1.14) — стандартные отчёты с кастомизацией
+- **Функции:** multi-touch attribution, универсальная модель данных, экспорт оффлайн-конверсий
+- **Статус:** в продакшене, ROI подтверждён
 
-### Elly 3.0 - AI Automation Layer (Launching in 1-2 weeks)
-- **Purpose:** AI platform making "vibe marketing" a reality - automate 90% of performance marketers' work across five core use cases
-- **Client Interface:** Web-based AI chat for comprehensive marketing operations management
-- **Five Core Use Cases:** Dashboard management, campaign control, analytics insights, automation rules, marketing operations
-- **Architecture:** Three-pillar approach - specific use case mastery, universal chat agent, technology research
-- **Status:** 8 weeks in development, first production feature launching with 3 pilot clients
+### Elly 3.0 — AI-слой автоматизации (релиз через 1–2 недели)
+- **Назначение:** платформа, делающая vibe marketing реальностью — автоматизация 90% работы на 5 основных сценариях
+- **Интерфейс:** веб-чат с ИИ для управления маркетинговыми операциями
+- **Use case'ы:** dashboards, campaign control, analytics insights, automation rules, marketing ops
+- **Архитектура:** mastery по use case'ам + универсальный чат-агент + технологические R&D
+- **Статус:** 8 недель разработки, запуск первого фичерелиза у 3 пилотных клиентов
 
-### Combined Value Proposition
-- **Current State:** Elly 2.0 provides attribution + analytics + conversion streaming
-- **Future State:** Elly 3.0 creates comprehensive "vibe marketing" platform across five core use cases - from "Set up a revenue dashboard for our new product" to "Pause all Facebook ads with ROAS below 2.0 except new product launch"
-- **Unique Position:** Only comprehensive AI marketing platform built on proven attribution foundation - competitors cannot easily replicate this combination
+### Совокупная ценность
+- **Сейчас:** Elly 2.0 = атрибуция + аналитика + конверсионный стриминг
+- **Будущее:** Elly 3.0 = платформа vibe marketing на 5 сценариев («Собери revenue dashboard» → «Поставь на паузу все FB кампании с ROAS < 2, кроме запуска»)
+- **Уникальность:** единственная AI-маркетинговая платформа на проверенном фундаменте атрибуции — конкуренты не могут повторить
 
-## 📊 Key Metrics [TEMPLATE EXAMPLE]
+## 📊 Ключевые метрики *(пример)*
 | Metric | Current | Target |
-|--------|---------|--------|
+| --- | --- | --- |
 | ARR | $[REPLACE] | $[REPLACE] (Q[X]'[YEAR]) |
 | MRR | $[REPLACE] | $[REPLACE] (Q[X]'[YEAR]) |
-| Customers | [REPLACE] active | [REPLACE] (Q[X]'[YEAR]) |
-| ACV | ~$[REPLACE]/month | [REPLACE] with [NEW_FEATURES] |
-| Team | [REPLACE] employees | [REPLACE] in R&D, [X]% on [STRATEGIC_FOCUS] |
+| Customers | [REPLACE] активных | [REPLACE] (Q[X]'[YEAR]) |
+| ACV | ~$[REPLACE]/мес | [REPLACE] с [NEW_FEATURES] |
+| Team | [REPLACE] человек | [REPLACE] в R&D, [X]% на [STRATEGIC_FOCUS] |
 
 ## 🎯 Market Focus [REF: Competitors/competitive-landscape-summary.md]
-- **Primary Target:** Lead-based businesses spending >$50k/month on ads (healthcare, home services, digital services)
-- **Sweet Spot:** $50k-500k/month ad spend companies seeking predictable costs vs percentage-based pricing
-- **Geographic Scope:** Primary focus North America (60%+ of revenue), secondary markets in Europe, select clients globally
-- **Market Gap:** Lead-based businesses underserved by e-commerce-focused attribution platforms
-- **Future Expansion Hypothesis:** AI Automation may significantly expand addressable market beyond current lead-based focus
+- **Primary Target:** lead-based компании >$50k/мес (healthcare, home services, digital services)
+- **Sweet Spot:** $50k–500k/мес — ценят фиксированную стоимость вместо % бюджета
+- **География:** Северная Америка (60%+ выручки), далее Европа и выборочно глобально
+- **Market Gap:** lead-based сегмент недосервирован e-commerce платформами атрибуции
+- **Expansion Hypothesis:** AI-автоматизация расширит рынок за пределы текущего фокуса
 
 ## 💰 Business Model [REF: Business-Model/pricing-model.md]
-- **Pricing Philosophy:** Feature-based pricing, NOT volume-based (no % of ad spend or revenue)
-- **Base Price Range:** ~$2,820/month (varies by features selected)
-- **Integration Included:** 6-8 weeks standard onboarding included in subscription
-- **Volume Threshold:** +50% markup only for >100k sessions/day
-- **Competitive Advantage:** Large clients love predictable costs vs percentage-based competitors
+- **Принцип:** оплата за функционал, НЕ за объём (никаких % от spend/revenue)
+- **Диапазон:** ~$2 820/мес
+- **Онбординг:** 6–8 недель интеграции включены
+- **Порог объёмов:** +50% только при >100k sessions/день
+- **Преимущество:** крупные клиенты ценят предсказуемые расходы
 
 ## 👥 Team & Leadership [REF: Team/team-overview.md]
-**Total Headcount:** [REPLACE WITH ACTUAL] people (as of [REPLACE DATE])
-
-**Key People:**
-- **Seva Ustinov** - CEO & Founder, CS MSU Alumni, Co-founder IT-Agency (top-15 Russia, $15M revenue)
-- **Kirill Kasimskiy** - Co-founder, Co-founder IT-Agency, Marketing expertise with proven scaling track record
-
-**Advisory Board:** [TEMPLATE EXAMPLE]
-- **[Replace with Actual Advisor]** - [Replace with expertise area], [Replace with background]
-- **[Replace with Actual Advisor]** - [Replace with expertise area], [Replace with background]
-
-**Key Focus:** [REPLACE]% of team allocated to [REPLACE STRATEGIC INITIATIVE]
+- **Штат:** [REPLACE] человек (на [DATE])
+- **Ключевые лица:**
+  - **Seva Ustinov** — CEO & Founder, выпускник ВМК МГУ, кофаундер IT-Agency (топ‑15 в РФ, $15M выручки)
+  - **Kirill Kasimskiy** — Co-founder, кофаундер IT-Agency, эксперт в масштабировании маркетинга
+- **Advisory Board (пример):**
+  - **[Advisor]** — [экспертиза], [background]
+  - **[Advisor]** — [экспертиза], [background]
+- **Фокус:** [REPLACE]% команды занято [STRATEGIC INITIATIVE]
 
 ## ⚔️ Competitive Position [REF: Competitors/competitive-landscape-summary.md]
 
-### Elly 2.0 Competition (Attribution & Analytics)
-- **vs Attribution Platforms** (Hyros, Triple Whale): Lead-based business specialization + universal data model + proven integration expertise
-- **vs Analytics Tools** (Google Analytics, Adobe): Multi-touch attribution + customer profile building + CRM integration depth
-- **vs E-commerce Platforms**: Lead-based business focus vs e-commerce optimization
+### Elly 2.0 (атрибуция/аналитика)
+- **vs Hyros, Triple Whale:** специализация на lead-based + универсальная модель данных + опыт интеграций
+- **vs Google Analytics, Adobe:** multi-touch + customer profiles + глубина CRM-интеграций
+- **vs e-commerce платформы:** фокус на lead-based против e-commerce оптимизации
 
-### Elly 3.0 Competition (AI Marketing Automation)
-- **vs Rule-Based Automation Platforms** (Smartly.io, Birch): "Vibe marketing" natural language interface across five core use cases vs manual rule configuration, comprehensive marketing operations vs narrow automation scope, full-funnel attribution data vs surface-level platform metrics
-- **Key Differentiators**: Complete marketing data platform foundation, five core use cases coverage (dashboards, campaigns, analytics, automation, operations), "Cursor for marketing" conversational interface making vibe marketing reality vs complex rule builders
-- **Competitive Advantage**: Only comprehensive AI marketing platform built on deep attribution expertise and full customer journey data
+### Elly 3.0 (AI-маркетинг)
+- **vs Smartly.io, Birch:** natural language интерфейс на 5 use case'ах vs ручная настройка правил; полный стек маркетинговых операций; глубина данных атрибуции
+- **Дифференциаторы:** фундамент дата-платформы, покрытие dashboards/campaigns/analytics/automation/ops, «Cursor for marketing» UI
+- **Преимущество:** единственная AI-платформа, построенная на глубокой атрибуции и customer journey data
 
-### Strategic Competitive Moat
-**Four-Pillar Defensible Position:**
-1. **Deep Attribution Expertise** - Battle-tested with 30+ enterprise clients, proven ROI
-2. **AI-First Interface** - "Cursor for marketing" natural language control vs traditional UIs
-3. **Universal Automation** - Code + workflow generation vs predefined rule limitations
-4. **Lead-Business Specialization** - Underserved market vs e-commerce-focused competitors
+### Moat: 4 столпа
+1. Глубокая экспертиза атрибуции (30+ enterprise клиентов)
+2. AI-first интерфейс («Cursor для маркетинга»)
+3. Универсальная автоматизация (код/воркфлоу вместо фиксированных правил)
+4. Специализация на lead-бизнесах (недосервированный рынок)
 
-**Market Position:** First comprehensive AI marketing platform making "vibe marketing" a reality - competitors cannot easily replicate by adding AI features to existing fragmented platforms
+**Позиция:** первая комплексная AI маркетинговая платформа, делающая vibe marketing реальностью — конкуренты не могут просто «добавить AI».
 
 ## 🚀 Current Product Capabilities [REF: Product/product-overview.md]
 
-### What Clients Use Today
-- **Power BI Report Suite:** Overview Dashboard, Main Report, Channel Reports, Cohort Analysis, Customer Profiles
-- **Multi-Touch Attribution:** Recommended hierarchy (Last Click → Last non-Direct → Last Ad Click → Last non-Brand Ad Click)
-- **Universal Data Model:** Standardized architecture handling any business type with pre-built reports v1.14
-- **Conversion Streaming:** Export qualified conversions back to ad platforms (Facebook, Google, Microsoft, LinkedIn, etc.)
+### Что клиенты используют сейчас
+- **Power BI Report Suite:** Overview, Main, Channel, Cohort, Customer Profiles
+- **Multi-touch атрибуция:** рекомендованная иерархия (Last Click → Last non-Direct → Last Ad Click → Last non-Brand Ad Click)
+- **Universal Data Model:** стандартизированная архитектура с pre-built отчётами v1.14
+- **Conversion Streaming:** возврат квалифицированных лидов в рекламные платформы (Facebook, Google, Microsoft, LinkedIn и др.)
 
-### AI Features (Launching 1-2 weeks)
-- **Natural Language Rule Creation:** Chat interface converts to SQL queries with preview and approval workflow
-- **Campaign Management Automation:** Pause, scale, optimize campaigns based on attribution data
-- **Data Quality Control:** Automated monitoring and integrity checks across all data pipelines
+### AI-фичи (релиз через 1–2 недели)
+- **Создание правил на естественном языке:** чат → SQL с предпросмотром и апрувалом
+- **Автоматизация управления кампаниями:** пауза/масштабирование/оптимизация по данным атрибуции
+- **Data Quality Control:** автоматический мониторинг и алерты по пайплайнам
 
-## 🏆 Key Differentiators [REF: Product/product-overview.md]
-1. **Universal Data Model:** Evolved from custom implementations to standardized architecture enabling true product scalability
-2. **Proven Data Foundation:** Battle-tested attribution platform serving 30+ enterprise clients across diverse industries
-3. **Offline Conversion Streaming:** Export quality leads and paying customers back to ad platforms for 10+ percent efficiency gains - most attribution platforms only provide reports
-4. **AI on Attribution:** Natural language automation built on comprehensive multi-touch data, not just platform metrics
-5. **Lead-Business Focus:** Specialized for complex attribution needs vs e-commerce-focused competitors
-6. **Full-Service Integration:** Handle all technical complexity - from any CRM/backend to unified reporting
-7. **"Vibe Marketing" Reality:** "Cursor for Marketing" conversational AI interface making marketing feel natural vs complex multi-step rule builders
+## 🏆 Ключевые дифференциаторы [REF: Product/product-overview.md]
+1. Универсальная модель данных (масштабируется от кастомных внедрений)
+2. Проверенный фундамент (30+ enterprise клиентов)
+3. Offline conversion streaming (возврат лидов в платформы → +10% эффективности)
+4. AI поверх атрибуции (настоящие multi-touch данные, а не поверхностные метрики)
+5. Lead-business фокус (решаем сложные кейсы атрибуции)
+6. Full-service интеграция (берём на себя всю техническую работу)
+7. «Vibe marketing» UX (диалоговый интерфейс вместо rule builders)
 
 ## 📈 Strategic Direction
-**Current Transition:** From analytics + conversion streaming platform to comprehensive "vibe marketing" platform that eliminates 90% of manual marketing work across five core use cases
-
-**Technology Evolution:** Building "Cursor for performance marketing" - natural language interface transforming marketing from complex software interfaces to natural conversation across dashboards, campaigns, analytics, automation, and operations
-
-**Market Position:** First comprehensive AI marketing platform making "vibe marketing" a reality - built on proven attribution foundation with defensible four-pillar position that competitors cannot easily replicate
+- **Переход:** от аналитики + conversion streaming → к полной платформе vibe marketing, убирающей 90% ручной работы
+- **Технология:** строим «Cursor для performance marketing» — natural language UI для dashboards/campaigns/analytics/automation/ops
+- **Позиция:** первая комплексная AI-платформа на проверенном фундаменте атрибуции с четырьмя защитными столпами
 
 ---
 
-## 📞 Contact & Resources [REF: Team/team-overview.md]
-**Website:** ellyanalytics.com  
-**CEO:** Seva Ustinov - seva.ustinov@ellyanalytics.com  
-**Co-founder:** Kirill Kasimskiy - kirill.kasimskiy@ellyanalytics.com  
-
-**Strategic Documents:** Company-Overview/, Product/, Business-Model/, Team/, Competitors/
+## 📞 Контакты и ресурсы [REF: Team/team-overview.md]
+- **Website:** ellyanalytics.com  
+- **CEO:** Seva Ustinov — seva.ustinov@ellyanalytics.com  
+- **Co-founder:** Kirill Kasimskiy — kirill.kasimskiy@ellyanalytics.com  
+- **Ключевые документы:** Company-Overview/, Product/, Business-Model/, Team/, Competitors/
 
 ---
 
-*Last Updated: June 2025 with "vibe marketing" vision and five core use cases | Source: Canonical files in Docs/Strategy/*
+*Last Updated: June 2025 — vision «vibe marketing» и пять core use case'ов | Источник: канонические файлы Docs/Strategy/*
 
-**External Use - One-Page Company Overview** 
+**External Use — One-Page Company Overview**
