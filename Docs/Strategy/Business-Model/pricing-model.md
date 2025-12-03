@@ -1,238 +1,238 @@
-# B2B SaaS Pricing Model Template
-*[TEMPLATE EXAMPLE - Feature-based pricing strategy framework for complex B2B SaaS products]*
+# Шаблон Модели Ценообразования B2B SaaS
+*[ПРИМЕР ШАБЛОНА - Фреймворк стратегии ценообразования на основе функций для сложных B2B SaaS продуктов]*
 
-## �� Pricing Philosophy [CANONICAL]
+## 💡 Философия Ценообразования [CANONICAL]
 
-**Core Principle**: Price based on features and complexity, NOT on client size or growth
+**Основной Принцип**: Цена основана на функциях и сложности, НЕ на размере клиента или росте
 
-**What DOESN'T affect pricing:**
-- ❌ [PRIMARY_USAGE_METRIC] size ($[X]k vs $[Y]k/month)
-- ❌ [BUSINESS_OUTCOME] volume ($[X]M vs $[Y]M annually) 
-- ❌ [DATA_VOLUME] (within standard limits)
-- ❌ Business growth over time
+**Что НЕ влияет на ценообразование:**
+- ❌ Размер [PRIMARY_USAGE_METRIC] ($[X]k vs $[Y]k/месяц)
+- ❌ Объем [BUSINESS_OUTCOME] ($[X]M vs $[Y]M годовой)
+- ❌ [DATA_VOLUME] (в пределах стандартных лимитов)
+- ❌ Рост бизнеса со временем
 
-**What DOES affect pricing:**
-- ✅ Features and integrations selected
-- ✅ [DATA_SOURCES] complexity  
-- ✅ Number of [EVENT_TYPES] in data model
-- ✅ [CORE_COMPLEXITY] (multiple objects)
-- ✅ Volume threshold: >[X]k [SESSIONS/UNITS] per day (+50% markup)
+**Что ВЛИЯЕТ на ценообразование:**
+- ✅ Выбранные функции и интеграции
+- ✅ Сложность [DATA_SOURCES]
+- ✅ Количество [EVENT_TYPES] в модели данных
+- ✅ [CORE_COMPLEXITY] (множественные объекты)
+- ✅ Порог объема: >[X]k [SESSIONS/UNITS] в день (+50% наценка)
 
-**Client Impact:** [CANONICAL]
-- **Small Clients**: Higher initial investment ($[X]-[Y]k/month) but predictable costs
-- **Large Clients**: Love predictable pricing - no cost increases as they scale
-- **Enterprise Advantage**: Exceptional value compared to percentage-based competitors
+**Влияние на Клиентов:** [CANONICAL]
+- **Малые Клиенты**: Более высокие начальные инвестиции ($[X]-[Y]k/месяц), но предсказуемые затраты
+- **Крупные Клиенты**: Любят предсказуемое ценообразование - никаких увеличений затрат при масштабировании
+- **Enterprise Преимущество**: Исключительная ценность по сравнению с конкурентами на основе процентов
 
-## 🧮 Pricing Calculator Structure [CANONICAL]
+## 🧮 Структура Калькулятора Цен [CANONICAL]
 
-**Base Price Range**: ~$[X]/month (example configuration) [CANONICAL]
-**Calculator Method**: Feature-based checkboxes with monthly costs
+**Базовый Диапазон Цен**: ~$[X]/месяц (пример конфигурации) [CANONICAL]
+**Метод Калькулятора**: Чекбоксы функций с месячными затратами
 
-### Core Components
+### Основные Компоненты
 
 #### 1. [PRIMARY_DATA_STREAMING] [CANONICAL]
-**Standard Rate**: $[X]/month per platform
-**Available Platforms**: 
+**Стандартная Ставка**: $[X]/месяц за платформу
+**Доступные Платформы**:
 - [PLATFORM_1] ([SUB_PLATFORMS]): $[X]
-- [PLATFORM_2] ([SUB_PLATFORMS]): $[X]  
+- [PLATFORM_2] ([SUB_PLATFORMS]): $[X]
 - [PLATFORM_3]: $[X]
 - [PLATFORM_4]: $[X]
-- [PLATFORM_5], [PLATFORM_6], [PLATFORM_7]: $[X] each
-- International: [INTERNATIONAL_PLATFORMS]: $[X] each
-- [SPECIAL_CATEGORY]: [SPECIAL_PLATFORMS]: $[X] each
+- [PLATFORM_5], [PLATFORM_6], [PLATFORM_7]: $[X] каждая
+- Международные: [INTERNATIONAL_PLATFORMS]: $[X] каждая
+- [SPECIAL_CATEGORY]: [SPECIAL_PLATFORMS]: $[X] каждая
 
-**[SPECIAL_INTEGRATION]**: $[2X]/month (vs $[X] for API-based platforms)
-**[MANUAL_INTEGRATION]**: $[X]/month ([TOOL] integration)
+**[SPECIAL_INTEGRATION]**: $[2X]/месяц (vs $[X] для API-based платформ)
+**[MANUAL_INTEGRATION]**: $[X]/месяц (интеграция [TOOL])
 
 #### 2. [SECONDARY_DATA_CATEGORY]
-**[INTEGRATION_TYPE] Data Streaming**: $[X]/month
-**[RELATED_FEATURE] Reporting**: $0 (included)
+**Стриминг Данных [INTEGRATION_TYPE]**: $[X]/месяц
+**Отчетность [RELATED_FEATURE]**: $0 (включено)
 
 #### 3. [THIRD_DATA_CATEGORY]
-**Standard Integration**: $[X]/month ([PROVIDER_EXAMPLES])
+**Стандартная Интеграция**: $[X]/месяц ([PROVIDER_EXAMPLES])
 
-#### 4. [FOURTH_DATA_CATEGORY] Data Connectors
-**Standard [CATEGORY] with API**: $[X]/month ([PROVIDER_LIST])
-**[SPECIAL_PROVIDER]**: $[X]/month  
-**Custom [CATEGORY]/Backend**: $[2X]/month (may increase if >[X] tables)
-**Custom [TOOL]**: $[X]/month per sheet
+#### 4. Коннекторы Данных [FOURTH_DATA_CATEGORY]
+**Стандартный [CATEGORY] с API**: $[X]/месяц ([PROVIDER_LIST])
+**[SPECIAL_PROVIDER]**: $[X]/месяц
+**Кастомный [CATEGORY]/Backend**: $[2X]/месяц (может увеличиться если >[X] таблиц)
+**Кастомный [TOOL]**: $[X]/месяц за лист
 
-#### 5. [REPORTING_PLATFORM] Reports & Dashboards
-**Pre-built Report Set**: $[X]/month
-- [DASHBOARD_TYPE] Dashboard (fixed layout, customizable metrics)
-- [REPORT_TYPE] Report (pivot with grouping/filters)  
-- [CHANNEL_TYPE] Reports ([CHANNEL_EXAMPLES])
-- [PROFILE_TYPE] Profiles
-- [MONITORING_TYPE] Monitoring
+#### 5. Отчеты и Дашборды [REPORTING_PLATFORM]
+**Предустановленный Набор Отчетов**: $[X]/месяц
+- Дашборд [DASHBOARD_TYPE] (фиксированный layout, кастомизируемые метрики)
+- Отчет [REPORT_TYPE] (pivot с группировкой/фильтрами)
+- Отчеты [CHANNEL_TYPE] ([CHANNEL_EXAMPLES])
+- Профили [PROFILE_TYPE]
+- Мониторинг [MONITORING_TYPE]
 
-**Additional Pre-built Reports**:
-- [ANALYSIS_TYPE] Analysis: $[X]/month
-- [PAGE_TYPE] Report: $[X]/month  
-- [FUNNEL_TYPE] Analysis: $[X]/month
+**Дополнительные Предустановленные Отчеты**:
+- Анализ [ANALYSIS_TYPE]: $[X]/месяц
+- Отчет [PAGE_TYPE]: $[X]/месяц
+- Анализ [FUNNEL_TYPE]: $[X]/месяц
 
-**Custom Reports**: $[X]-$[Y]/month (discussed individually, rarely done now)
+**Кастомные Отчеты**: $[X]-$[Y]/месяц (обсуждается индивидуально, редко делается сейчас)
 
-### Advanced Features
+### Продвинутые Функции
 
-#### 6. [EVENT_TYPES] & Data Model Complexity
-**Standard Events**: $0-[X]/month each
-- [BASIC_EVENTS] (up to [Y]): $0
-- [STANDARD_EVENTS]: $[X] each
+#### 6. [EVENT_TYPES] и Сложность Модели Данных
+**Стандартные События**: $0-[X]/месяц каждое
+- [BASIC_EVENTS] (до [Y]): $0
+- [STANDARD_EVENTS]: $[X] каждое
 
-**[BUSINESS_MODEL_A] Funnel**: $[X]/month each
+**Воронка [BUSINESS_MODEL_A]**: $[X]/месяц каждая
 - [EVENT_LIST_A]
 
-**[BUSINESS_MODEL_B] Funnel**: $[X]/month each  
+**Воронка [BUSINESS_MODEL_B]**: $[X]/месяц каждая
 - [EVENT_LIST_B]
 
-**Tags/Filters**: $0-[X]/month per [Y]-tag group
+**Теги/Фильтры**: $0-[X]/месяц за группу из [Y] тегов
 - [TAG_CATEGORY_A]: $0 ([TAG_EXAMPLES])
 - [TAG_CATEGORY_B]: $[X] ([TAG_EXAMPLES])
 
-#### 7. [CORE_FEATURE] Models
-**Single [FEATURE] Object**: $[X]/month
-**Multiple [FEATURE] Models per Object**: $[3X]/month
-- Up to [X] models per unique event type ([EVENT_EXAMPLES])
-- Up to [X] models per non-unique event type ([EVENT_EXAMPLES])  
-- [SPECIAL_CASE] attribution: $[3X]/month
+#### 7. Модели [CORE_FEATURE]
+**Один Объект [FEATURE]**: $[X]/месяц
+**Множественные Модели [FEATURE] на Объект**: $[3X]/месяц
+- До [X] моделей на уникальный тип события ([EVENT_EXAMPLES])
+- До [X] моделей на неуникальный тип события ([EVENT_EXAMPLES])
+- Атрибуция [SPECIAL_CASE]: $[3X]/месяц
 
-**Advanced [FEATURE]**:
-- **[ADVANCED_MODEL_A]**: $[2X]/month
-- **[ADVANCED_MODEL_B]** ([MODEL_TYPES]): $[2X]/month per model
-- **[ADVANCED_MODEL_C]**: $[4X]/month
+**Продвинутый [FEATURE]**:
+- **[ADVANCED_MODEL_A]**: $[2X]/месяц
+- **[ADVANCED_MODEL_B]** ([MODEL_TYPES]): $[2X]/месяц за модель
+- **[ADVANCED_MODEL_C]**: $[4X]/месяц
 
-**[RELATED_FEATURE]**: $0 (recommend client-side, can do server-side if needed)
+**[RELATED_FEATURE]**: $0 (рекомендуем client-side, можем сделать server-side если нужно)
 
-### Specialized Packages
+### Специализированные Пакеты
 
-#### 8. [CHANNEL_A] Integration
-**Pack 0**: $0 - [BASIC_TRACKING] based reporting only
-**Pack 1**: $[X]/month - Campaign data streaming ([PROVIDERS]) + metrics + full-funnel
-**Pack 2**: $[X]/month - Participation attribution (indirect influence analysis)
+#### 8. Интеграция [CHANNEL_A]
+**Pack 0**: $0 - отчетность только на основе [BASIC_TRACKING]
+**Pack 1**: $[X]/месяц - Стриминг данных кампаний ([PROVIDERS]) + метрики + full-funnel
+**Pack 2**: $[X]/месяц - Атрибуция участия (анализ косвенного влияния)
 
-#### 9. [CHANNEL_B] Integration  
-**Pack 0**: $0 - [BASIC_TRACKING] based reporting only
-**Pack 1**: $[X]/month - Campaign data streaming ([PROVIDERS]) + metrics + full-funnel
-**Pack 2**: $[X]/month - Participation attribution (indirect influence analysis)
+#### 9. Интеграция [CHANNEL_B]
+**Pack 0**: $0 - отчетность только на основе [BASIC_TRACKING]
+**Pack 1**: $[X]/месяц - Стриминг данных кампаний ([PROVIDERS]) + метрики + full-funnel
+**Pack 2**: $[X]/месяц - Атрибуция участия (анализ косвенного влияния)
 
-#### 10. [PLATFORM_TYPE] Integration
-**Pack 0**: $0 - Basic [PLATFORM] reporting (no [ADVANCED_FEATURE])
-**Pack 1**: $[4X]/month - Full [ADVANCED_FEATURE] integration
-- [PROVIDER] data streaming
+#### 10. Интеграция [PLATFORM_TYPE]
+**Pack 0**: $0 - Базовая отчетность [PLATFORM] (без [ADVANCED_FEATURE])
+**Pack 1**: $[4X]/месяц - Полная интеграция [ADVANCED_FEATURE]
+- Стриминг данных [PROVIDER]
 - [EVENT_TYPES]
-- Cross-platform customer journey ([PLATFORM_A] ↔ [PLATFORM_B])
+- Кросс-платформенный путь клиента ([PLATFORM_A] ↔ [PLATFORM_B])
 - [PERFORMANCE_REPORTS]
 
-### Enterprise Features
+### Enterprise Функции
 
-#### 11. Data Access & Export
-**[INFRASTRUCTURE_OPTION]**: $[X]/month (required for direct DB access)
-**Database Views Access**: $[X]/month per view
-**External DB Export**: $[X]/month per table
-**Manual Spreadsheet Export**: $0 (standard [TOOL] feature)
+#### 11. Доступ к Данным и Экспорт
+**[INFRASTRUCTURE_OPTION]**: $[X]/месяц (требуется для прямого доступа к DB)
+**Доступ к Database Views**: $[X]/месяц за view
+**Экспорт во Внешнюю DB**: $[X]/месяц за таблицу
+**Ручной Экспорт в Spreadsheet**: $0 (стандартная функция [TOOL])
 
 #### 12. [CONVERSION_FEATURE] [CANONICAL]
-**Critical Feature**: Export qualified conversions back to [PLATFORMS]
-**Available Platforms**: $[X]/month each
+**Критическая Функция**: Экспорт квалифицированных конверсий обратно в [PLATFORMS]
+**Доступные Платформы**: $[X]/месяц каждая
 - [PLATFORM_LIST]
 
-**Strategic Value**: Optimize [CAMPAIGNS] for actual [OUTCOME] vs just [INTERMEDIATE_METRIC]
-**Implementation**: Pre-built - already have APIs, [SYSTEM] connections, [FEATURE] logic
+**Стратегическая Ценность**: Оптимизация [CAMPAIGNS] для фактических [OUTCOME] vs просто [INTERMEDIATE_METRIC]
+**Внедрение**: Предустановлено - уже есть APIs, подключения [SYSTEM], логика [FEATURE]
 
-#### 13. Data Streaming & Integration
-**[TOOL] Export**: $[X]/month per sheet (for [USE_CASES])
-**[SYSTEM] Write-Back**: $[X]/month ([FEATURE] data into [SYSTEM] records)
-**Multi-Currency Support**: $[X]/month (convert all data to single currency)
+#### 13. Стриминг Данных и Интеграция
+**Экспорт [TOOL]**: $[X]/месяц за лист (для [USE_CASES])
+**Write-Back [SYSTEM]**: $[X]/месяц (данные [FEATURE] в записи [SYSTEM])
+**Поддержка Мультивалют**: $[X]/месяц (конвертация всех данных в единую валюту)
 
-#### 14. Forecasting & Predictions
-**Calculated Metrics**: $0 (simple formulas: [EXAMPLE_FORMULA])
-**IF/ELSE Linear Forecast**: $[X]/month per metric (segment-based [METRIC])
-**[COMPANY] Forecast Engine**: $[7X]/month per metric (custom ML models)
+#### 14. Прогнозирование и Предсказания
+**Расчетные Метрики**: $0 (простые формулы: [EXAMPLE_FORMULA])
+**IF/ELSE Линейный Прогноз**: $[X]/месяц за метрику (сегментированный [METRIC])
+**Движок Прогнозов [COMPANY]**: $[7X]/месяц за метрику (кастомные ML модели)
 
-#### 15. Additional Features
-**[MONITORING_FEATURE]**: $[X]/month per account ([MONITORING_DESCRIPTION])
-**Custom [NOTIFICATION_CHANNELS] Digests**: $[X]/month
-**Email Dashboard Screenshots**: $0 (standard [TOOL])
-**Multi-Currency Support**: $[X]/month
-**[ORGANIC_DATA] Connectors**: $[X]/month each ([PROVIDER_EXAMPLES])
+#### 15. Дополнительные Функции
+**[MONITORING_FEATURE]**: $[X]/месяц за аккаунт ([MONITORING_DESCRIPTION])
+**Кастомные Дайджесты [NOTIFICATION_CHANNELS]**: $[X]/месяц
+**Email Скриншоты Дашборда**: $0 (стандартный [TOOL])
+**Поддержка Мультивалют**: $[X]/месяц
+**Коннекторы [ORGANIC_DATA]**: $[X]/месяц каждый ([PROVIDER_EXAMPLES])
 
-### [PLATFORM] Account Management
-**Default**: $0 - One [PLATFORM] Pro account on [COMPANY] tenant
-**Extra Accounts on [COMPANY] Tenant**: $[X]/month each (we administer)
-**Client Tenant Integration**: $[X]/month setup + $[X]/month per account (client pays [VENDOR] directly)
+### Управление Аккаунтами [PLATFORM]
+**По умолчанию**: $0 - Один Pro аккаунт [PLATFORM] на тенанте [COMPANY]
+**Дополнительные Аккаунты на Тенанте [COMPANY]**: $[X]/месяц каждый (мы администрируем)
+**Интеграция Клиентского Тенанта**: $[X]/месяц настройка + $[X]/месяц за аккаунт (клиент платит [VENDOR] напрямую)
 
-### Support & Users
-**Baseline Support**: [X] active users included
-**Additional User Support**: $[X]/month per user above baseline
+### Поддержка и Пользователи
+**Базовая Поддержка**: [X] активных пользователей включено
+**Дополнительная Поддержка Пользователей**: $[X]/месяц за пользователя сверх базового
 
-## 📊 Volume-Based Pricing [CANONICAL]
+## 📊 Ценообразование на Основе Объема [CANONICAL]
 
-**Standard Pricing**: Fixed feature-based pricing regardless of data volume
+**Стандартное Ценообразование**: Фиксированное ценообразование на основе функций независимо от объема данных
 
-**Volume Threshold**: >[X] [SESSIONS/UNITS] per day (~[Y]M per month) [CANONICAL]
-**Volume Markup**: +50% to standard price [CANONICAL]
-**Technical Reason**: Requires dedicated virtual server, performance optimization, [FEATURE] recalculation complexity
+**Порог Объема**: >[X] [SESSIONS/UNITS] в день (~[Y]M в месяц) [CANONICAL]
+**Наценка за Объем**: +50% к стандартной цене [CANONICAL]
+**Техническая Причина**: Требуется выделенный виртуальный сервер, оптимизация производительности, сложность пересчета [FEATURE]
 
-**Example Impact**: $[X] standard → $[Y] with volume markup
+**Пример Влияния**: $[X] стандартная → $[Y] с наценкой за объем
 
-## 🎯 Pricing Strategy Benefits [CANONICAL]
+## 🎯 Преимущества Стратегии Ценообразования [CANONICAL]
 
-### For Small Clients
-- **Predictable Costs**: No surprises as business grows
-- **Enterprise Features**: Access to same capabilities as large clients
-- **Growth Protection**: Price locked as [BUSINESS_METRICS] scale
+### Для Малых Клиентов
+- **Предсказуемые Затраты**: Никаких сюрпризов при росте бизнеса
+- **Enterprise Функции**: Доступ к тем же возможностям, что и у крупных клиентов
+- **Защита Роста**: Цена зафиксирована при масштабировании [BUSINESS_METRICS]
 
-### For Large Clients
-- **Exceptional Value**: No [BUSINESS_OUTCOME]/[USAGE_METRIC] percentage fees
-- **Cost Certainty**: Budget planning without growth penalties  
-- **Feature Scaling**: Add capabilities without base price inflation
+### Для Крупных Клиентов
+- **Исключительная Ценность**: Никаких процентных сборов от [BUSINESS_OUTCOME]/[USAGE_METRIC]
+- **Определенность Затрат**: Планирование бюджета без штрафов за рост
+- **Масштабирование Функций**: Добавление возможностей без инфляции базовой цены
 
-### Competitive Advantage [CANONICAL]
-- **vs Percentage Models**: [COMPETITOR_A] (% of [METRIC]), others charge based on volume
-- **vs Enterprise**: Much lower cost than percentage-based enterprise solutions
-- **Transparent**: Feature-based calculator, no hidden volume pricing
+### Конкурентное Преимущество [CANONICAL]
+- **vs Процентные Модели**: [COMPETITOR_A] (% от [METRIC]), другие берут плату на основе объема
+- **vs Enterprise**: Гораздо ниже стоимость, чем процентные enterprise решения
+- **Прозрачность**: Калькулятор на основе функций, никакого скрытого объемного ценообразования
 
-## 🔮 Future Pricing Evolution
+## 🔮 Будущая Эволюция Ценообразования
 
-**Current Status**: Feature-based pricing established and working
+**Текущий Статус**: Ценообразование на основе функций установлено и работает
 
-**Self-Service Considerations**: May introduce tiered pricing for self-service vs full-service
-**Possible Changes**: Could add data volume tiers or simplified packages
-**Strategic Constraint**: Large clients love current model - changes must preserve this advantage
+**Соображения Self-Service**: Может ввести уровневое ценообразование для self-service vs full-service
+**Возможные Изменения**: Может добавить уровни объема данных или упрощенные пакеты
+**Стратегическое Ограничение**: Крупные клиенты любят текущую модель - изменения должны сохранить это преимущество
 
-**Key Principle**: Maintain feature-based philosophy vs volume-based competitors
-
----
-
-## Template Customization Guide
-
-### Key Placeholders to Replace:
-- **[COMPANY]**: Your company name
-- **[X], [Y], [Z]**: Your specific pricing amounts
-- **[PRIMARY_USAGE_METRIC]**: Main metric clients are measured by (e.g., "ad spend", "monthly users")
-- **[PLATFORM_1], [PLATFORM_2]**: Your integration platforms
-- **[CORE_FEATURE]**: Your main value proposition feature (e.g., "attribution", "analytics")
-- **[BUSINESS_MODEL_A/B]**: Different customer types (e.g., "B2B", "E-commerce")
-
-### Pricing Model Adaptations:
-1. **Replace dollar amounts** with your actual pricing structure
-2. **Update platform lists** with your specific integrations
-3. **Modify feature categories** to match your product capabilities
-4. **Adjust volume thresholds** based on your infrastructure constraints
-
-### Alternative Pricing Models:
-- **Usage-Based**: Replace features with usage tiers
-- **Seat-Based**: Add per-user pricing components
-- **Outcome-Based**: Price based on client results achieved
-- **Hybrid Model**: Combine multiple pricing approaches
-
-### Implementation Considerations:
-- **Pricing Calculator**: Build interactive tool based on this structure
-- **Sales Training**: Use this framework to train sales team on value-based selling
-- **Customer Communication**: Extract key benefits for marketing materials
+**Ключевой Принцип**: Поддерживать философию на основе функций vs конкуренты на основе объема
 
 ---
 
-*Template Purpose: Feature-based B2B SaaS pricing framework*
-*Best For: Complex products with multiple integrations and advanced features*
-*Customization Time: 2-4 hours to adapt pricing structure and amounts* 
+## Руководство по Кастомизации Шаблона
+
+### Ключевые Плейсхолдеры для Замены:
+- **[COMPANY]**: Название вашей компании
+- **[X], [Y], [Z]**: Ваши специфические суммы ценообразования
+- **[PRIMARY_USAGE_METRIC]**: Основная метрика измерения клиентов (например, "ad spend", "monthly users")
+- **[PLATFORM_1], [PLATFORM_2]**: Ваши платформы интеграции
+- **[CORE_FEATURE]**: Ваша основная функция ценностного предложения (например, "attribution", "analytics")
+- **[BUSINESS_MODEL_A/B]**: Разные типы клиентов (например, "B2B", "E-commerce")
+
+### Адаптации Модели Ценообразования:
+1. **Замените суммы в долларах** вашей фактической структурой ценообразования
+2. **Обновите списки платформ** вашими специфическими интеграциями
+3. **Модифицируйте категории функций** под возможности вашего продукта
+4. **Настройте пороги объема** на основе ограничений вашей инфраструктуры
+
+### Альтернативные Модели Ценообразования:
+- **На Основе Использования**: Замените функции на уровни использования
+- **На Основе Мест**: Добавьте компоненты ценообразования за пользователя
+- **На Основе Результатов**: Цена на основе достигнутых результатов клиента
+- **Гибридная Модель**: Комбинируйте множественные подходы к ценообразованию
+
+### Соображения Внедрения:
+- **Калькулятор Цен**: Постройте интерактивный инструмент на основе этой структуры
+- **Обучение Продаж**: Используйте этот фреймворк для обучения команды продаж продажам на основе ценности
+- **Коммуникация с Клиентами**: Извлеките ключевые преимущества для маркетинговых материалов
+
+---
+
+*Цель Шаблона: Фреймворк ценообразования B2B SaaS на основе функций*
+*Лучше Для: Сложных продуктов с множественными интеграциями и продвинутыми функциями*
+*Время Кастомизации: 2-4 часа для адаптации структуры ценообразования и сумм*

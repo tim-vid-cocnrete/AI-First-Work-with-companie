@@ -1,59 +1,59 @@
-# Price Calculator Template - Implementation Guide
-*[TEMPLATE EXAMPLE - Structure for feature-based pricing calculator]*
+# Шаблон Калькулятора Цен - Руководство по Внедрению
+*[ПРИМЕР ШАБЛОНА - Структура для калькулятора ценообразования на основе функций]*
 
-## Overview
-This guide demonstrates how to build a comprehensive feature-based pricing calculator for complex B2B SaaS products. Use this framework to create transparent, value-based pricing tools.
+## Обзор
+Это руководство демонстрирует, как построить комплексный калькулятор ценообразования на основе функций для сложных B2B SaaS продуктов. Используйте этот фреймворк для создания прозрачных инструментов ценообразования на основе ценности.
 
-## Calculator Structure Template
+## Структура Шаблона Калькулятора
 
-### Sample Table Format:
-| Feature Category | Item | Monthly Price | Selected | Total |
+### Пример Формата Таблицы:
+| Категория Функции | Элемент | Месячная Цена | Выбрано | Итого |
 |------------------|------|---------------|----------|-------|
-| **Core Platform** | | | | |
-| Data Streaming | [Platform 1] | $120 | ✓ | $120 |
-| Data Streaming | [Platform 2] | $120 | ✓ | $120 |
-| **Analytics** | | | | |
-| Reports | Pre-built Dashboard | $360 | ✓ | $360 |
-| Reports | Advanced Analytics | $600 | ✓ | $600 |
+| **Основная Платформа** | | | | |
+| Стриминг Данных | [Platform 1] | $120 | ✓ | $120 |
+| Стриминг Данных | [Platform 2] | $120 | ✓ | $120 |
+| **Аналитика** | | | | |
+| Отчеты | Предустановленный Дашборд | $360 | ✓ | $360 |
+| Отчеты | Продвинутая Аналитика | $600 | ✓ | $600 |
 | **Enterprise** | | | | |
-| Infrastructure | Dedicated Server | $240 | ☐ | $0 |
-| Support | Premium Support | $350 | ☐ | $0 |
-| | **Total Monthly** | | | **$1,200** |
+| Инфраструктура | Выделенный Сервер | $240 | ☐ | $0 |
+| Поддержка | Премиум Поддержка | $350 | ☐ | $0 |
+| | **Итого Месячно** | | | **$1,200** |
 
-## Key Components
+## Ключевые Компоненты
 
-### 1. Feature Categories
-- **Core Features**: Essential product capabilities
-- **Data Connectors**: Integrations and data sources
-- **Reports & Dashboards**: Analytics and visualization
-- **Advanced Features**: Complex business logic
-- **Enterprise Add-ons**: Premium services
+### 1. Категории Функций
+- **Основные Функции**: Базовые возможности продукта
+- **Коннекторы Данных**: Интеграции и источники данных
+- **Отчеты и Дашборды**: Аналитика и визуализация
+- **Продвинутые Функции**: Сложная бизнес-логика
+- **Enterprise Дополнения**: Премиум сервисы
 
-### 2. Pricing Logic
-- Feature-based pricing (not usage-based)
-- Volume markup threshold: >[X]k units/day (+50%)
-- Packaging options for different customer types
-- User and account management fees
+### 2. Логика Ценообразования
+- Ценообразование на основе функций (не на основе использования)
+- Порог объемной наценки: >[X]k единиц/день (+50%)
+- Варианты пакетов для разных типов клиентов
+- Плата за управление пользователями и аккаунтами
 
-## Implementation Options
+## Варианты Внедрения
 
-### Simple (< 50 features):
-- Basic/Professional/Enterprise tiers
-- Package-based pricing
-- Easy to understand and sell
+### Простой (< 50 функций):
+- Уровни Basic/Professional/Enterprise
+- Ценообразование на основе пакетов
+- Легко понять и продавать
 
-### Complex (50+ features):
-- Individual feature selection
-- Dynamic calculation
-- Customized configurations
+### Сложный (50+ функций):
+- Индивидуальный выбор функций
+- Динамический расчет
+- Кастомизированные конфигурации
 
-## Best Practices
-1. **Transparent Pricing**: No hidden fees
-2. **Value-Based**: Price reflects customer benefit
-3. **Scalable**: Works for small and large customers
-4. **Flexible**: Easy to modify and update
+## Лучшие Практики
+1. **Прозрачное Ценообразование**: Никаких скрытых платежей
+2. **На Основе Ценности**: Цена отражает выгоду клиента
+3. **Масштабируемое**: Работает для малых и крупных клиентов
+4. **Гибкое**: Легко модифицировать и обновлять
 
 ---
 
-*Template Purpose: Feature-based pricing calculator framework*
-*Best For: Complex B2B SaaS products with multiple integrations*
+*Цель Шаблона: Фреймворк калькулятора ценообразования на основе функций*
+*Лучше Для: Сложных B2B SaaS продуктов с множественными интеграциями*

@@ -1,175 +1,175 @@
-# Financial Data Sources Reference Template
-*[TEMPLATE EXAMPLE - This shows how to structure financial data sources and Google Sheets integration. Replace with your actual financial data sources.]*
+# Справочник Источников Финансовых Данных - Шаблон
+*[ПРИМЕР ШАБЛОНА - Это показывает, как структурировать источники финансовых данных и интеграцию с Google Sheets. Замените вашими фактическими источниками финансовых данных.]*
 
 ---
 
-**⚠️ TEMPLATE NOTICE:** This file contains an example financial data sources reference for "[COMPANY_NAME]" demonstrating how to organize and document financial data sources, including Google Sheets integration and data tracking methodology. Replace all content below with your actual financial data sources and links.
+**⚠️ УВЕДОМЛЕНИЕ О ШАБЛОНЕ:** Этот файл содержит пример справочника источников финансовых данных для "[COMPANY_NAME]", демонстрирующий, как организовать и документировать источники финансовых данных, включая интеграцию с Google Sheets и методологию отслеживания данных. Замените весь контент ниже вашими фактическими источниками финансовых данных и ссылками.
 
 ---
 
-# Financial Data Sources Reference - [COMPANY_NAME]
-*[EXAMPLE COMPANY - Replace with your company's financial data sources]*
+# Справочник Источников Финансовых Данных - [COMPANY_NAME]
+*[ПРИМЕР КОМПАНИИ - Замените источниками финансовых данных вашей компании]*
 
-## Primary Financial Model (Quarterly)
+## Основная Финансовая Модель (Квартальная)
 
-### Google Sheets URL
+### URL Google Sheets
 **URL:** https://docs.google.com/spreadsheets/d/[EXAMPLE_SPREADSHEET_ID]/
 
-### Available Data in the Model
+### Доступные Данные в Модели
 
-#### Key Metrics Tab
-- **Quarterly ARR** (Annual Recurring Revenue)
-- **MRR** (Monthly Recurring Revenue) 
-- **Customer Count**
-- **ARR per Customer**
-- **Committed ARR** (signed contracts not yet recognized)
-- **Quarterly Revenue** (recognized)
-- **Quarterly Burn** (net spend)
-- **YoY Growth rates**
+#### Вкладка Ключевых Метрик
+- **Квартальный ARR** (Annual Recurring Revenue)
+- **MRR** (Monthly Recurring Revenue)
+- **Количество Клиентов**
+- **ARR на Клиента**
+- **Committed ARR** (подписанные контракты, еще не признанные)
+- **Квартальная Выручка** (признанная)
+- **Квартальный Burn** (чистые расходы)
+- **YoY темпы роста**
 
-#### Historical Data Available
-- **Start Date:** Q[X] [YEAR]
-- **Latest Actual Data:** Q[X] [YEAR] (as of last update)
-- **Projections:** Through Q[X] [YEAR]
+#### Доступные Исторические Данные
+- **Дата Начала:** Q[X] [YEAR]
+- **Последние Фактические Данные:** Q[X] [YEAR] (на момент последнего обновления)
+- **Прогнозы:** До Q[X] [YEAR]
 
-## Monthly Financial Report (P&L Detail)
+## Месячный Финансовый Отчет (Детали P&L)
 
-### Google Sheets URL
+### URL Google Sheets
 **URL:** https://docs.google.com/spreadsheets/d/[EXAMPLE_SPREADSHEET_ID]/edit?gid=[SHEET_ID]#gid=[SHEET_ID]
 
-### Sheet Name: "[P&L_SHEET_NAME]"
+### Название Листа: \"[P&L_SHEET_NAME]\"
 
-### Available Monthly Data ([START_DATE] - [END_DATE])
+### Доступные Месячные Данные ([START_DATE] - [END_DATE])
 - **MRR** (Monthly Recurring Revenue)
-- **ARR** (calculated from MRR)
+- **ARR** (рассчитано из MRR)
 - **Committed ARR**
-- **Active Clients count**
-- **New clients per month**
-- **Detailed P&L breakdown:**
-  - COGS with expenses breakdown
-  - Sales & Marketing expenses (salaries, other S&M)
-  - R&D expenses (salaries)
-  - G&A expenses (salaries, other G&A)
-- **Monthly Burn** ([CALCULATION_METHOD])
+- **Количество активных клиентов**
+- **Новые клиенты в месяц**
+- **Детальная разбивка P&L:**
+  - COGS с разбивкой расходов
+  - Расходы на продажи и маркетинг (зарплаты, прочие S&M)
+  - Расходы на R&D (зарплаты)
+  - Расходы на G&A (зарплаты, прочие G&A)
+- **Месячный Burn** ([CALCULATION_METHOD])
 
-### Key Insights from Monthly Data
-- More granular view of customer acquisition (monthly vs quarterly)
-- Detailed expense categories for better cost analysis
-- Month-over-month growth rates
-- Actual monthly burn progression
+### Ключевые Инсайты из Месячных Данных
+- Более детальное представление о привлечении клиентов (месячное vs квартальное)
+- Детальные категории расходов для лучшего анализа затрат
+- Темпы роста месяц к месяцу
+- Фактическая прогрессия месячного burn
 
-## Cohort Analysis & Retention Data
+## Анализ Когорт и Данные Удержания
 
-### Google Sheets URL
+### URL Google Sheets
 **URL:** https://docs.google.com/spreadsheets/d/[EXAMPLE_COHORT_SPREADSHEET_ID]/edit?gid=0#gid=0
 
-### Sheets Available:
-- **"[COHORT_SHEET_NAME]"** - Cohort retention by month
-- **"[LTV_SHEET_NAME]"** - LTV calculations
+### Доступные Листы:
+- **\"[COHORT_SHEET_NAME]\"** - Удержание когорт по месяцам
+- **\"[LTV_SHEET_NAME]\"** - Расчеты LTV
 
-### Available Cohort Data ([START_YEAR]-[END_YEAR])
-- **Monthly cohorts** from [START_MONTH] [START_YEAR] to [END_MONTH] [END_YEAR]
-- **Customer type** ([CUSTOMER_CLASSIFICATION_1] vs [CUSTOMER_CLASSIFICATION_2] designation)
-- **Industry vertical** for each cohort
-- **Starting MRR** and monthly progression
-- **Churn timing** and expansion patterns
-- **Active/churned status**
+### Доступные Данные Когорт ([START_YEAR]-[END_YEAR])
+- **Месячные когорты** с [START_MONTH] [START_YEAR] по [END_MONTH] [END_YEAR]
+- **Тип клиента** (обозначение [CUSTOMER_CLASSIFICATION_1] vs [CUSTOMER_CLASSIFICATION_2])
+- **Вертикаль индустрии** для каждой когорты
+- **Начальный MRR** и месячная прогрессия
+- **Тайминг оттока** и паттерны расширения
+- **Статус активен/отток**
 
-### Key Insights from Cohort Data
-- Clear distinction between [CUSTOMER_TYPE_1] and [CUSTOMER_TYPE_2] performance
-- [CUSTOMER_TYPE_1] customers show [X]% NRR vs [Y]% for [CUSTOMER_TYPE_2]
-- [YEAR]+ cohorts focused on [TARGET_SEGMENT] only
-- [INDUSTRY_1], [INDUSTRY_2], and [INDUSTRY_3] verticals perform best
+### Ключевые Инсайты из Данных Когорт
+- Четкое различие между производительностью [CUSTOMER_TYPE_1] и [CUSTOMER_TYPE_2]
+- Клиенты [CUSTOMER_TYPE_1] показывают [X]% NRR vs [Y]% для [CUSTOMER_TYPE_2]
+- Когорты [YEAR]+ сфокусированы только на [TARGET_SEGMENT]
+- Вертикали [INDUSTRY_1], [INDUSTRY_2] и [INDUSTRY_3] показывают лучшие результаты
 
-### How to Update Financial Numbers
+### Как Обновлять Финансовые Числа
 
-1. **Access Google Sheets** using the URLs above
-2. **Use [PRIMARY_MODEL]** for high-level metrics and projections
-3. **Use [MONTHLY_REPORT]** for detailed P&L and recent month-by-month trends
-4. **Update these key files:**
-   - `/Financials/financial-summary.md` - Full financial details
-   - `/executive-summary.md` - High-level metrics section
+1. **Доступ к Google Sheets** используя URL выше
+2. **Используйте [PRIMARY_MODEL]** для высокоуровневых метрик и прогнозов
+3. **Используйте [MONTHLY_REPORT]** для детального P&L и последних трендов месяц за месяцем
+4. **Обновите эти ключевые файлы:**
+   - `/Financials/financial-summary.md` - Полные финансовые детали
+   - `/executive-summary.md` - Раздел высокоуровневых метрик
 
-5. **Key Metrics to Update:**
-   - Current MRR and ARR
-   - Customer count and ARR/Customer
-   - Burn rate (quarterly and monthly)
-   - Revenue (quarterly)
-   - YoY growth percentages
-   - Committed ARR pipeline
-   - CLV:CAC calculations (derive from burn and new customer additions)
-   - Detailed expense breakdown (from monthly P&L)
+5. **Ключевые Метрики для Обновления:**
+   - Текущий MRR и ARR
+   - Количество клиентов и ARR/Клиент
+   - Burn rate (квартальный и месячный)
+   - Выручка (квартальная)
+   - Проценты роста YoY
+   - Пайплайн Committed ARR
+   - Расчеты CLV:CAC (выводятся из burn и добавления новых клиентов)
+   - Детальная разбивка расходов (из месячного P&L)
 
-### Important Calculations
+### Важные Расчеты
 
 #### CAC (Customer Acquisition Cost)
-- Formula: Quarterly Burn ÷ Net New Customers Added
-- Example: Q[X]'[YY] = $[X] burn ÷ [Y] new customers = $[Z] CAC
-- **Note:** Monthly data allows for more precise CAC calculations
+- Формула: Квартальный Burn ÷ Чистые Добавленные Новые Клиенты
+- Пример: Q[X]'[YY] = $[X] burn ÷ [Y] новых клиентов = $[Z] CAC
+- **Примечание:** Месячные данные позволяют более точные расчеты CAC
 
 #### CLV (Customer Lifetime Value)
-- Formula: ARPU × Expected Lifetime (months)
-- Assumption: [X]-month average lifetime
-- Example: $[X] annual ÷ 12 × [Y] months = $[Z]
+- Формула: ARPU × Ожидаемое Время Жизни (месяцы)
+- Предположение: [X]-месячное среднее время жизни
+- Пример: $[X] годовой ÷ 12 × [Y] месяцев = $[Z]
 
-#### CLV:CAC Ratio
-- Formula: CLV ÷ CAC
-- Target: Should be > [X]:1 for healthy unit economics
-- Q[X]'[YY] Status: [X]:[Y] ([STATUS])
+#### Коэффициент CLV:CAC
+- Формула: CLV ÷ CAC
+- Цель: Должен быть >[X]:1 для здоровой unit economics
+- Статус Q[X]'[YY]: [X]:[Y] ([STATUS])
 
-### Data Accuracy Tags to Use
-- **[CONFIRMED]** - Directly from Google Sheets
-- **[CALCULATED]** - Derived from confirmed data
-- **[ESTIMATED]** - Reasonable estimates based on patterns
-- **[PROJECTED]** - Future targets from model
-- **[PLACEHOLDER]** - Data not available
-- **[ASSUMPTION]** - Needs validation
+### Теги Точности Данных для Использования
+- **[CONFIRMED]** - Напрямую из Google Sheets
+- **[CALCULATED]** - Выведено из подтвержденных данных
+- **[ESTIMATED]** - Разумные оценки на основе паттернов
+- **[PROJECTED]** - Будущие цели из модели
+- **[PLACEHOLDER]** - Данные недоступны
+- **[ASSUMPTION]** - Требует валидации
 
-### Notes on Data Quality
-- Committed ARR typically runs [X]-[Y]% ahead of recognized ARR
-- Customer additions can vary significantly by quarter
-- Burn rate has been [TREND] in absolute terms
-- Efficiency metrics (burn as multiple of revenue) have been [TREND]
-- Monthly P&L provides more accurate expense allocation
+### Примечания по Качеству Данных
+- Committed ARR обычно опережает признанный ARR на [X]-[Y]%
+- Добавление клиентов может значительно варьироваться по кварталам
+- Burn rate был [TREND] в абсолютных значениях
+- Метрики эффективности (burn как кратное выручки) были [TREND]
+- Месячный P&L предоставляет более точное распределение расходов
 
-### Other Potential Data Sources
-- **Pitch Decks** - May contain updated metrics
-- **Board Reports** - Quarterly updates
-- **CRM Export** - For customer-level details
-- **Financial Statements** - For audited numbers
-
----
-
-## Template Customization Guide
-
-### Replace All Financial Data Sources:
-- **Google Sheets URLs**: Update with your actual spreadsheet links
-- **Sheet Names**: Replace with your actual tab names
-- **Date Ranges**: Update with your company's data timeline
-- **Metrics Categories**: Adapt to your specific financial tracking
-- **Calculation Methods**: Update formulas to match your business model
-
-### Maintain Data Architecture:
-- **Keep separation** between quarterly models and monthly details
-- **Preserve cohort analysis** structure for customer lifetime tracking
-- **Use consistent tags** ([CONFIRMED], [CALCULATED], etc.) for data quality
-- **Document calculation methods** for key metrics like CAC and CLV
-
-### Integration Best Practices:
-- **Link to summary files** that pull from these data sources
-- **Regular update schedule** for refreshing cached data
-- **Version control** for historical data preservation
-- **Access management** for sensitive financial information
-
-### Financial Planning Framework:
-- **Historical data** for trend analysis and benchmarking
-- **Real-time metrics** for operational decision making
-- **Projection models** for strategic planning and fundraising
-- **Cohort tracking** for understanding customer behavior and retention
+### Другие Потенциальные Источники Данных
+- **Питч-Деки** - Могут содержать обновленные метрики
+- **Отчеты Совета** - Квартальные обновления
+- **Экспорт CRM** - Для деталей на уровне клиента
+- **Финансовые Отчеты** - Для аудированных чисел
 
 ---
 
-*Template Purpose: Financial data source organization and Google Sheets integration framework*
-*Best For: Companies with complex financial models requiring multiple data sources*
+## Руководство по Кастомизации Шаблона
 
-[LAST UPDATED: [DATE] - TEMPLATE EXAMPLE] 
+### Замените Все Источники Финансовых Данных:
+- **URL Google Sheets**: Обновите фактическими ссылками на таблицы
+- **Названия Листов**: Замените фактическими названиями вкладок
+- **Диапазоны Дат**: Обновите таймлайном данных вашей компании
+- **Категории Метрик**: Адаптируйте под ваше специфическое отслеживание финансов
+- **Методы Расчета**: Обновите формулы под вашу бизнес-модель
+
+### Поддерживайте Архитектуру Данных:
+- **Сохраняйте разделение** между квартальными моделями и месячными деталями
+- **Сохраните структуру анализа когорт** для отслеживания времени жизни клиента
+- **Используйте консистентные теги** ([CONFIRMED], [CALCULATED], и т.д.) для качества данных
+- **Документируйте методы расчета** для ключевых метрик типа CAC и CLV
+
+### Лучшие Практики Интеграции:
+- **Ссылайтесь на файлы саммари**, которые берут данные из этих источников
+- **Регулярный график обновлений** для обновления кэшированных данных
+- **Контроль версий** для сохранения исторических данных
+- **Управление доступом** для конфиденциальной финансовой информации
+
+### Фреймворк Финансового Планирования:
+- **Исторические данные** для анализа трендов и бенчмаркинга
+- **Метрики в реальном времени** для операционного принятия решений
+- **Модели прогнозов** для стратегического планирования и фандрайзинга
+- **Отслеживание когорт** для понимания поведения и удержания клиентов
+
+---
+
+*Цель Шаблона: Организация источников финансовых данных и фреймворк интеграции с Google Sheets*
+*Лучше Для: Компаний со сложными финансовыми моделями, требующими множественных источников данных*
+
+[ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ: [DATE] - ПРИМЕР ШАБЛОНА]
