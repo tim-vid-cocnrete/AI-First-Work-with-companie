@@ -1,0 +1,119 @@
+---
+alwaysApply: true
+---
+1.
+Use the todo_tool to break down tasks into sub-tasks.
+Read and apply .cursor/rules/anti-bias.mdc before proceeding.
+
+Read your plan from chat, confirm next steps. Check and add what you missed?. What didn't you think about? 
+Plan and write out in chat how you will execute code or test output after you make it: use todo_tool to plan test cases and manually check the ressult
+
+2.
+Act and execute the plan, make changes to code and files. Do everything yourself and act autonomously: fix errors, commit, push, change configs if it doesn't require manual input or isn't related to deleting important data. Don't ask for confirmation if confident. Don't create unnecessary files and don't delete files if not 100% sure.
+
+NEVER: write mass edit scripts.
+ALWAYS: open, read, and edit each file intentionally — one by one.
+
+MANDATORY:Do not create new files with postfixes like _fixed, _final, or _FINAL. Always work in the original file, or update {projectname}.todo.md.
+
+ALWAYS:Analyze terminal errors and fix them immediately after each command execution. Remember — it’s your mistake, not the external API’s.
+
+Use from heroes_platform.shared.import_setup import ImportSetup for import. Don't use try: section and sys.path()
+
+Don't use another approach, your task is to find the root problem and not cut corners, don't create alternative ways even if your confidence is 99%, only if it's 99.999%
+
+write out in chat
+output:
+[ ] links to artefact 
+[ ] difinition of ready and definition of use & result as is criteria 
+
+2.
+Don't rewrite entire files, make targeted fixes. Continue working. Don't create new scripts until you find current implementation.
+Don't cut corners, solve the root problem, if needed do research and diagnostics before rushing.
+
+
+Find an use .venv — our base environment and dependencies .
+Any solution should not save keys or credentials.json or any secrets in settings and code and should not get into GitHub. For each action write your confidence to chat using this template:
+
+**Уверенность: [до калибровки]% → [после калибровки]% — [причина корректировки]**
+Example: "Уверенность: 95% → 15% — не проверил реальные файлы"
+Don't create new files if confidence <0.2.
+
+Before running complex commands and actions, always write your action plan to chat so I can do non-blocking review and understand what commands and why you use.
+
+2.
+Only proceed after executing point 1.
+
+Read and check the result, if needed read logs and check what you did? Write yourself what you didn't consider and did wrong, where you made mistakes? Where do you see problems?
+Falsify your conclusion and hypothesis. Challenge protocol.
+
+Put things in order, check root and other files, are they exactly in their place? Challenge protocol, where is the mess?
+
+Read what happened, write everything you didn't consider, what needs to be added? What will be unclear to manager or developer or team?
+Challenge protocol.
+
+For data analysis MANDATORY:
+1. Show field list, field type and minimum 5+ examples per field
+2. Check unique values and patterns in data
+3. Document field structure and meaning
+4. Cross-check relationships and validate independently
+
+FORBIDDEN ACTIONS:
+- Using knowledge from your head without checking in data
+- Assumptions about field purpose without content analysis
+- Conclusions about structure without viewing data examples
+- Working with data without preliminary structure analysis
+- Ignoring errors in data extraction code
+- Continuing work with broken code
+
+3.
+Check gaps between expected and actual output. Make sure you have independent cross-check, don't confirm something is done without it.
+
+4.
+MANDATORY: build!, test and validate all code immediately after writing.
+- Run code on real data, not synthetic examples
+- Check results against expected outcomes
+- Document what works and what doesn't
+- Fix errors before proceeding
+- Use MCP servers for validation when available
+- Apply confidence calibration: Code written but not tested = -50% confidence
+
+5.
+MANDATORY: File Organization Protocol
+- ALWAYS use FileOutputManager to save analysis files
+- NEVER create files manually in incorrect directories
+- Re-read standard to understand file structure and write it out in a text block in the chat
+
+When documenting errors, use this mandatory template:
+
+```
+wrong: [specific details of what went wrong]
+correct: [specific details of correct approach]
+```
+
+wrong: Used glob_file_search with pattern **/.folder/** to find folder
+correct: Use list_dir to check folder existence, then glob_file_search for files inside
+
+**FORBIDDEN:**
+- Writing "wrong" or "correct" without specific details
+- Using evaluative words without concrete analysis
+- Making claims without evidence
+
+**REQUIRED:**
+- Always use the template format
+- Provide specific technical details
+- Show exact commands, paths, or configurations
+- Give actionable corrections
+
+## Confidence Calibration
+
+| when | modifier | level |
+|------|----------|-------|
+| Code written but not tested | -50% | 30-40% |
+| Data analysis without verification | -55% | 25-35% |
+| Hypothesis based on patterns | -35% | 40-50% |
+| Solution seems obvious | -40% | 50-60% |
+| Based on recent context only | -40% | 45-55% |
+| Alternative explanations exist | -35% | 35-45% |
+| Rare pattern detected | -60% | 20-30% |
+| Missing key data | -45% | 15-25% |

@@ -5,6 +5,7 @@
 ### 0. Язык Общения
 - **ВСЕГДА думать и отвечать на русском языке.**
 - **ВСЕГДА** использовать русский язык для всех рассуждений и ответов.
+- **ОТВЕЧАЙ МНЕ ВСЕГДА ПО-РУССКИ**: Это главное правило.
 
 
 ## Требования к Поведению Демо
@@ -30,9 +31,9 @@
 
 ### 3. Определение Рабочего Пространства
 - Автоопределение рабочего пространства из пути скрипта
-- Personal-Super-Agent-Ru → `Marketing-Sales/Sales Calls/`
-- Personal-Super-Agent → `Marketing-Sales/Sales Calls/`
-- AI-First-Workspace → `Sales Calls/`
+- Personal-Super-Agent-Ru → `Docs/Process/`
+- Personal-Super-Agent → `Docs/Process/`
+- AI-First-Workspace → `Docs/Process/`
 
 ## Интеграция API
 
