@@ -1,4 +1,7 @@
 ---
+description: Rules for code cleanup, linting zero-tolerance, and file organization.
+category: Core Rules
+owner: Tech_Lead
 alwaysApply: false
 ---
 1.

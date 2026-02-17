@@ -1,3 +1,9 @@
+---
+description: Ключевые барьеры аудитории (страх, нет опыта) и решения Kata.
+category: Consumer Insights
+status: Canonical
+owner: PMM_Lead
+---
 # Боли и Проблемы (Pain Points) — Kata Academy
 **Описание**: Ключевые барьеры аудитории (страх, нет опыта) и решения Kata.
 **Категория**: Marketing

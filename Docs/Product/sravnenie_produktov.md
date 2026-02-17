@@ -1,6 +1,9 @@
+---
+description: Гайд по выбору профессии (Frontend vs Java vs Go vs QA) и сравнение их сложности для новичка.
+category: Product
+owner: Product_Lead
+---
 # Сравнение Направлений (Guide)
-**Описание**: Гайд по выбору профессии (Frontend vs Java vs Go vs QA) и сравнение их сложности для новичка.
-**Категория**: Product
 
 > [!IMPORTANT]
 > **Источник:** `unassembled/Материалы Kata.Academy СМС - Сравнение направлений.csv`

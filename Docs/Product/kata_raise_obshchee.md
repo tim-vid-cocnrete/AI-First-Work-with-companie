@@ -1,6 +1,7 @@
 ---
 description: Общая программа Kata Raise (Java/Go), фокус на архитектуру (DDD, Microservices) и LLM-driven development.
 category: Product
+owner: Product_Lead
 ---
 # 📈 Из Middle Java в Senior Java/Go через инженерную культуру в эпоху LLM
 

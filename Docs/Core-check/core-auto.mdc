@@ -1,4 +1,7 @@
 ---
+description: Rules for breaking down tasks and autonomous execution.
+category: Core Rules
+owner: Tech_Lead
 alwaysApply: true
 ---
 1.

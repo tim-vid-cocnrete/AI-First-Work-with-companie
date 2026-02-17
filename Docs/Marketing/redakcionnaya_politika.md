@@ -1,3 +1,9 @@
+---
+description: Принципы коммуникации бренда (Tone of Voice), правила написания терминов.
+category: Brand System
+status: Canonical
+owner: Brand_Lead
+---
 # Редполитика Kata Academy
 **Описание**: Принципы коммуникации бренда (Tone of Voice), правила написания терминов.
 **Категория**: Marketing

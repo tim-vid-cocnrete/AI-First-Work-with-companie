@@ -1,6 +1,7 @@
 ---
 description: Правила работы менеджеров второй линии (Гибрид/Предоплата): график, CRM, KPI.
 category: Process
+owner: Process_Lead
 ---
 # Регламент работы Line 2
 

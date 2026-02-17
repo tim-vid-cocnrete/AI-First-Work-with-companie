@@ -1,6 +1,7 @@
 ---
 description: Детальное описание моделей ISA (20% от ЗП) и Upfront, включая условия и гарантии.
 category: Strategy
+owner: Strategy_Lead
 ---
 # Модель Ценообразования (Business & Pricing Model) — Kata Academy
 

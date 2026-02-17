@@ -1,6 +1,7 @@
 ---
 description: Описание этапов работы с лидами и сделками в CRM (SLA, статусы, воронки).
 category: Process
+owner: Process_Lead
 ---
 # Стадии Лидов и Сделок
 

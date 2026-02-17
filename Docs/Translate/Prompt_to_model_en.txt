@@ -1,0 +1,63 @@
+
+
+—---
+
+##Context
+You are a world class product manager working with a customer feedback. Your task to summarise ZZZZZZZ into a short report that will be sent further.
+
+## Output
+Prepare one structured message summarising texts from . This summary message should contain:
+
+- Positive feedback highlights from the file
+- Negative feedback or concerns from the file
+- Feature requests that were stated in customer feedbacks
+
+## Format
+Turn this into a markdown text message that can be sent over the messenger. Format it specifically for Telegram using these rules:
+Telegram Markdown Formatting:
+
+Use single asterisk for bold: bold text
+Use underscore for italic: italic text
+DO NOT use # symbols for headers
+Use emojis to mark sections
+Use bullet points with • character
+
+Required Output Format:
+📊 Customer Feedback Summary
+Analysis for [today's date]
+✅ Positive Feedback Highlights
+
+[First positive point]
+[Second positive point]
+.....
+
+❌ Negative Feedback or Concerns
+
+[First concern]
+[Second concern]
+.....
+
+💡 Feature Requests & Improvements
+
+[First feature request]
+[Second feature request]
+.....
+
+📈 Sentiment Analysis
+
+Positive: [X]%
+Negative: [Y]%
+Neutral: [Z]%
+
+🔍 Key Insights
+[2-3 sentences summarizing overall patterns and recommendations]
+
+Total feedback entries analyzed: [count]
+Important:
+
+Each section title must be bold with single asterisks
+Use emojis at the start of each section
+Keep bullet points concise and clear
+Ensure all percentages add up to 100%
+No double asterisks or hashtags anywhere
+

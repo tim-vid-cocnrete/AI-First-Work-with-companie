@@ -1,3 +1,9 @@
+---
+description: Описание 4 ключевых аватаров: Свитчер, Джун, Карьерист, Мама в декрете.
+category: Consumer Insights
+status: Canonical
+owner: PMM_Lead
+---
 # Целевые Аудитории (Avatars) — Kata Academy
 **Описание**: Описание 4 ключевых аватаров: Свитчер, Джун, Карьерист, Мама в декрете.
 **Категория**: Marketing

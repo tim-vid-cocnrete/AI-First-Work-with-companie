@@ -1,6 +1,9 @@
+---
+description: Часто задаваемые вопросы об оплате (ISA vs Upfront), трудоустройстве, гарантиях и процессе обучения.
+category: Product
+owner: Product_Lead
+---
 # Kata Academy FAQ
-**Описание**: Часто задаваемые вопросы об оплате (ISA vs Upfront), трудоустройстве, гарантиях и процессе обучения.
-**Категория**: Product
 
 > [!IMPORTANT]
 > **Источник**: `unassembled/Kata_FAQ.docx`

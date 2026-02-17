@@ -1,6 +1,8 @@
 ---
 description: Общая маркетинговая информация о продуктах Kata Academy, включая УТП, ключевые преимущества и статистику.
-category: Marketing
+category: Product Marketing
+status: Canonical
+owner: PMM_Lead
 ---
 # 🚀 Общая информация о продуктах Kata Academy (Marketing Info)
 

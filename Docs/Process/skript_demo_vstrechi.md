@@ -1,6 +1,7 @@
 ---
 description: Сценарий проведения демонстрационной встречи с потенциальным студентом (Sales Script).
 category: Process
+owner: Process_Lead
 ---
 # Скрипт Демо-Встречи
 

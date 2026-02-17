@@ -1,6 +1,7 @@
 ---
 description: Описание пути абитуриента от заявки до подписания договора (ISA и Upfront треки).
 category: Process
+owner: Process_Lead
 ---
 # Процесс Поступления
 

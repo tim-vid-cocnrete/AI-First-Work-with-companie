@@ -1,3 +1,9 @@
+---
+description: Сравнение Kata Academy с конкурентами (Elbrus, Skypro, Otus) по модели оплаты и продукту.
+category: Strategy & Intelligence
+status: Canonical
+owner: Strategy_Lead
+---
 # Анализ Конкурентов (Competitor Analysis)
 **Описание**: Сравнение Kata Academy с конкурентами (Elbrus, Skypro, Otus) по модели оплаты и продукту.
 **Категория**: Marketing

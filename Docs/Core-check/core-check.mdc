@@ -1,4 +1,7 @@
 ---
+description: Rules for verifying output, running test cases, and quality control.
+category: Core Rules
+owner: Tech_Lead
 alwaysApply: false
 ---
 Use the todo_tool to break down tasks into sub-tasks. 

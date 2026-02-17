@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Календарь рассылок — Февраль 2026</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box
+        }
+
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: #0f0f0f;
+            color: #e0e0e0;
+            padding: 28px
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 4px
+        }
+
+        .meta {
+            color: #888;
+            font-size: 12px;
+            margin-bottom: 18px
+        }
+
+        h2 {
+            font-size: 16px;
+            margin: 24px 0 8px;
+            color: #9ecbff
+        }
+
+        .legend {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+            font-size: 12px
+        }
+
+        .leg-item {
+            display: flex;
+            align-items: center;
+            gap: 5px
+        }
+
+        .dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 2px;
+            display: inline-block
+        }
+
+        .dot-n {
+            background: #1a5a1a
+        }
+
+        .dot-s {
+            background: #1a3a6a
+        }
+
+        .dot-f1 {
+            background: #5a3a1a
+        }
+
+        .dot-f2 {
+            background: #6a1a1a
+        }
+
+        .dot-g {
+            background: #333
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 24px;
+            font-size: 12px
+        }
+
+        th {
+            background: #1a1a2e;
+            color: #9ecbff;
+            padding: 7px 8px;
+            text-align: center;
+            border: 1px solid #333;
+            font-weight: 600;
+            position: sticky;
+            top: 0
+        }
+
+        td {
+            padding: 6px 7px;
+            border: 1px solid #2a2a2a;
+            text-align: center;
+            vertical-align: middle
+        }
+
+        tr:nth-child(even) {
+            background: #161622
+        }
+
+        tr:nth-child(odd) {
+            background: #111118
+        }
+
+        .dc {
+            white-space: nowrap;
+            text-align: left;
+            font-weight: 600;
+            color: #ccc;
+            width: 55px
+        }
+
+        .wd {
+            width: 24px
+        }
+
+        .n {
+            background: #122a12;
+            color: #6f6;
+            font-weight: 600
+        }
+
+        .s {
+            background: #121a2a;
+            color: #6cf;
+            font-weight: 600
+        }
+
+        .f1 {
+            background: #2a1a0a;
+            color: #fa0;
+            font-weight: 700
+        }
+
+        .f2 {
+            background: #2a0a0a;
+            color: #f55;
+            font-weight: 700
+        }
+
+        .g {
+            color: #bbb
+        }
+
+        .e {
+            color: #444
+        }
+
+        .ws td {
+            background: #1e1e38;
+            font-weight: 700;
+            font-size: 12px;
+            color: #aaa;
+            text-align: left;
+            padding: 8px;
+            border: none
+        }
+
+        .note {
+            background: #2a2a10;
+            border-left: 3px solid #f0a500;
+            padding: 8px 12px;
+            margin: 10px 0;
+            font-size: 12px;
+            color: #ddd
+        }
+
+        .stbl {
+            width: auto;
+            min-width: 550px
+        }
+
+        small {
+            font-weight: 400;
+            opacity: .8
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>📅 Февраль 2026 — Календарь Рассылок</h1>
+    <p class="meta">10.02.2026 | CRM Scheduler v2 (2× дожим: −7 и −3 дня) | Слоты: Пн-Ср-Пт</p>
+
+    <div class="legend">
+        <div class="leg-item"><span class="dot dot-n"></span> 🎯 Узкое</div>
+        <div class="leg-item"><span class="dot dot-s"></span> 🔄 Shared</div>
+        <div class="leg-item"><span class="dot dot-f1"></span> ⚡① Дожим-1 (−7д)</div>
+        <div class="leg-item"><span class="dot dot-f2"></span> ⚡② Дожим-2 (−3д)</div>
+        <div class="leg-item"><span class="dot dot-g"></span> Общее</div>
+    </div>
+
+    <h2>🚀 Старты и Дожимы</h2>
+    <table class="stbl">
+        <tr>
+            <th>Направление</th>
+            <th>Старт</th>
+            <th>День</th>
+            <th>⚡① −7д → слот</th>
+            <th>⚡② −3д → слот</th>
+        </tr>
+        <tr>
+            <td>☕ Java #1</td>
+            <td><b>12.02</b></td>
+            <td>Чт</td>
+            <td class="e">05.02 → прошло</td>
+            <td class="e">09.02 → Ср 11.02</td>
+        </tr>
+        <tr>
+            <td>🏢 1C</td>
+            <td><b>17.02</b></td>
+            <td>Вт</td>
+            <td class="f1">10.02 → Ср 11.02</td>
+            <td class="f2">14.02 → Пт 13.02</td>
+        </tr>
+        <tr>
+            <td>🌐 FE</td>
+            <td><b>19.02</b></td>
+            <td>Чт</td>
+            <td class="f1">12.02 → Пт 13.02</td>
+            <td class="f2">16.02 → Пн 16.02</td>
+        </tr>
+        <tr>
+            <td>🧪 QA</td>
+            <td><b>19.02</b></td>
+            <td>Чт</td>
+            <td class="f1">12.02 → Пт 13.02</td>
+            <td class="f2">16.02 → Пн 16.02</td>
+        </tr>
+        <tr>
+            <td>🐹 Go</td>
+            <td><b>25.02</b></td>
+            <td>Ср</td>
+            <td class="f1">18.02 → Ср 18.02</td>
+            <td class="f2">22.02 → Пн 23.02</td>
+        </tr>
+        <tr>
+            <td>☕ Java #2</td>
+            <td><b>26.02</b></td>
+            <td>Чт</td>
+            <td class="f1">19.02 → Пт 20.02</td>
+            <td class="f2">23.02 → Пн 23.02</td>
+        </tr>
+    </table>
+
+    <div class="note">
+        Java #1: старт через 2 дня — влезает только Дожим-2 (Ср 11.02).<br>
+        Каждый дожим <b>заменяет</b> узкое (🎯) письмо этого сегмента. Итого = 3 письма/неделю.
+    </div>
+
+    <h2>📆 Сетка</h2>
+    <table>
+        <thead>
+            <tr>
+                <th style="width:55px">Дата</th>
+                <th class="wd">Дн</th>
+                <th>Общий</th>
+                <th>☕Java</th>
+                <th>🌐FE</th>
+                <th>🧪QA</th>
+                <th>🏢1C</th>
+                <th>🐹Go</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <!-- WEEK 2 -->
+            <tr class="ws">
+                <td colspan="8">НЕДЕЛЯ 2 — 11–13 фев (2 слота) &nbsp; ☕Java#1 старт 12.02</td>
+            </tr>
+            <tr>
+                <td class="dc">11.02</td>
+                <td>Ср</td>
+                <td class="g">Общее #1</td>
+                <td class="f2">⚡② Java#1<br><small>старт завтра</small></td>
+                <td class="n">🎯 Узкое</td>
+                <td class="n">🎯 Узкое</td>
+                <td class="f1">⚡① 1C<br><small>старт 17.02</small></td>
+                <td class="n">🎯 Узкое</td>
+            </tr>
+            <tr>
+                <td class="dc">13.02</td>
+                <td>Пт</td>
+                <td class="s">🔄 Shared</td>
+                <td class="s">🔄 Shared</td>
+                <td class="f1">⚡① FE<br><small>старт 19.02</small></td>
+                <td class="f1">⚡① QA<br><small>старт 19.02</small></td>
+                <td class="f2">⚡② 1C<br><small>старт 17.02</small></td>
+                <td class="s">🔄 Shared</td>
+            </tr>
+
+            <!-- WEEK 3 -->
+            <tr class="ws">
+                <td colspan="8">НЕДЕЛЯ 3 — 16–20 фев &nbsp; 🏢1C старт 17.02 | 🌐FE+🧪QA старт 19.02</td>
+            </tr>
+            <tr>
+                <td class="dc">16.02</td>
+                <td>Пн</td>
+                <td class="g">Общее #1</td>
+                <td class="n">🎯 Узкое #1</td>
+                <td class="f2">⚡② FE<br><small>старт 19.02</small></td>
+                <td class="f2">⚡② QA<br><small>старт 19.02</small></td>
+                <td class="n">🎯 Узкое #1</td>
+                <td class="n">🎯 Узкое #1</td>
+            </tr>
+            <tr>
+                <td class="dc">18.02</td>
+                <td>Ср</td>
+                <td class="g">Общее #2</td>
+                <td class="n">🎯 Узкое #2</td>
+                <td class="n">🎯 Узкое</td>
+                <td class="n">🎯 Узкое</td>
+                <td class="n">🎯 Узкое #2</td>
+                <td class="f1">⚡① Go<br><small>старт 25.02</small></td>
+            </tr>
+            <tr>
+                <td class="dc">20.02</td>
+                <td>Пт</td>
+                <td class="s">🔄 Shared</td>
+                <td class="f1">⚡① Java#2<br><small>старт 26.02</small></td>
+                <td class="s">🔄 Shared</td>
+                <td class="s">🔄 Shared</td>
+                <td class="s">🔄 Shared</td>
+                <td class="s">🔄 Shared</td>
+            </tr>
+
+            <!-- WEEK 4 -->
+            <tr class="ws">
+                <td colspan="8">НЕДЕЛЯ 4 — 23–27 фев &nbsp; 🐹Go старт 25.02 | ☕Java#2 старт 26.02</td>
+            </tr>
+            <tr>
+                <td class="dc">23.02</td>
+                <td>Пн</td>
+                <td class="g">Общее #1</td>
+                <td class="f2">⚡② Java#2<br><small>старт 26.02</small></td>
+                <td class="n">🎯 Узкое #1</td>
+                <td class="n">🎯 Узкое #1</td>
+                <td class="n">🎯 Узкое #1</td>
+                <td class="f2">⚡② Go<br><small>старт 25.02</small></td>
+            </tr>
+            <tr>
+                <td class="dc">25.02</td>
+                <td>Ср</td>
+                <td class="g">Общее #2</td>
+                <td class="n">🎯 Узкое</td>
+                <td class="n">🎯 Узкое #2</td>
+                <td class="n">🎯 Узкое #2</td>
+                <td class="n">🎯 Узкое #2</td>
+                <td class="n">🎯 Узкое</td>
+            </tr>
+            <tr>
+                <td class="dc">27.02</td>
+                <td>Пт</td>
+                <td class="s">🔄 Shared</td>
+                <td class="s">🔄 Shared</td>
+                <td class="s">🔄 Shared</td>
+                <td class="s">🔄 Shared</td>
+                <td class="s">🔄 Shared</td>
+                <td class="s">🔄 Shared</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+    <div class="note">⚠️ <b>23 февраля</b> — праздник. Учесть в тематике или перенести на Вт 24.02.</div>
+
+    <h2>📊 Сводка дожимов (12 штук)</h2>
+    <table class="stbl">
+        <tr>
+            <th>Сегмент</th>
+            <th>Тип</th>
+            <th>Дата слота</th>
+            <th>Старт</th>
+            <th>Дней до</th>
+        </tr>
+        <tr>
+            <td>☕ Java #1</td>
+            <td class="f2">⚡② финальный</td>
+            <td>Ср 11.02</td>
+            <td>Чт 12.02</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>🏢 1C</td>
+            <td class="f1">⚡① мягкий</td>
+            <td>Ср 11.02</td>
+            <td>Вт 17.02</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>🏢 1C</td>
+            <td class="f2">⚡② финальный</td>
+            <td>Пт 13.02</td>
+            <td>Вт 17.02</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>🌐 FE</td>
+            <td class="f1">⚡① мягкий</td>
+            <td>Пт 13.02</td>
+            <td>Чт 19.02</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>🧪 QA</td>
+            <td class="f1">⚡① мягкий</td>
+            <td>Пт 13.02</td>
+            <td>Чт 19.02</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>🌐 FE</td>
+            <td class="f2">⚡② финальный</td>
+            <td>Пн 16.02</td>
+            <td>Чт 19.02</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>🧪 QA</td>
+            <td class="f2">⚡② финальный</td>
+            <td>Пн 16.02</td>
+            <td>Чт 19.02</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>🐹 Go</td>
+            <td class="f1">⚡① мягкий</td>
+            <td>Ср 18.02</td>
+            <td>Ср 25.02</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>☕ Java #2</td>
+            <td class="f1">⚡① мягкий</td>
+            <td>Пт 20.02</td>
+            <td>Чт 26.02</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>🐹 Go</td>
+            <td class="f2">⚡② финальный</td>
+            <td>Пн 23.02</td>
+            <td>Ср 25.02</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>☕ Java #2</td>
+            <td class="f2">⚡② финальный</td>
+            <td>Пн 23.02</td>
+            <td>Чт 26.02</td>
+            <td>3</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
